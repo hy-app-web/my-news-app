@@ -1,0 +1,6 @@
+{
+  "name": "my-news-app",
+  "private": true,
+  "scripts": {"test": "node --test tests/site.test.cjs"},
+  "devDependencies": {"jsdom": "26.1.0"}
+}
