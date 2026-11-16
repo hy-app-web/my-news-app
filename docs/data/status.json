@@ -1,55 +1,55 @@
 {
-  "attemptedAt": "2026-11-15T15:30:56+00:00",
+  "attemptedAt": "2026-11-16T04:44:21+00:00",
   "feeds": [
     {
       "topic": "AI",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "テクノロジー",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "ビジネス",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "経済",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "バズ",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "グルメ",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "イベント",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "東京",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "沖縄",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     },
     {
       "topic": "ハンドメイド",
-      "state": "error",
-      "lastSuccessAt": null
+      "state": "ok",
+      "lastSuccessAt": "2026-11-16T04:44:21+00:00"
     }
   ]
 }
