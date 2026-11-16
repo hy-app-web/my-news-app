@@ -1,4 +1,5 @@
 """Public RSS -> minimal JSON. Python standard library only; never fetch article pages."""
+import fcntl
 import hashlib
 import json
 import os
@@ -15,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 TOPICS = ['AI', 'テクノロジー', 'ビジネス', '経済', 'バズ', 'グルメ', 'イベント', '東京', '沖縄', 'ハンドメイド']
 FEEDS = [{'id': str(i), 'topic': t, 'url': ('https://b.hatena.ne.jp/hotentry.rss' if t == 'バズ' else 'https://b.hatena.ne.jp/search/tag?' + urlencode({'q': t, 'mode': 'rss', 'sort': 'recent'}))} for i, t in enumerate(TOPICS)]
 MAX_BYTES = 2 * 1024 * 1024
+MAX_NEW_ARTICLES = 20
 
 def stamp():
     return datetime.now(timezone.utc).isoformat(timespec='seconds')
@@ -103,14 +105,61 @@ def merge_articles(articles):
             current['topics'] = sorted(set(current['topics'] + article['topics']), key=TOPICS.index)
             if article['publishedAt'] > current['publishedAt']:
                 current['publishedAt'] = article['publishedAt']
-    return sorted(merged.values(), key=lambda a: (a['publishedAt'], a['id']), reverse=True)[:600]
+    return sorted(merged.values(), key=lambda a: (a['publishedAt'], a['id']), reverse=True)
 
-def collect(root=ROOT, fetch=fetch_feed, now=None):
-    now = now or stamp()
+def select_new_articles(existing, candidates, limit=MAX_NEW_ARTICLES):
+    """Balance additions across themes; shared URLs consume just one slot.
+
+    Credit all tags of a selected article, then prefer the least represented
+    available theme. Within a theme, prefer the newest RSS timestamp.
+    """
+    known = {canonical_url(a['url']) for a in existing}
+    pending = {a['url']: a for a in merge_articles(candidates) if a['url'] not in known}
+    offset = len(known) % len(TOPICS)
+    order = TOPICS[offset:] + TOPICS[:offset]
+    counts = dict.fromkeys(TOPICS, 0)
+    queues = {t: [a for a in pending.values() if t in a['topics']] for t in TOPICS}
+    selected = []
+    while pending and len(selected) < limit:
+        available = []
+        for topic in order:
+            while queues[topic] and queues[topic][0]['url'] not in pending:
+                queues[topic].pop(0)
+            if queues[topic]:
+                available.append(topic)
+        if not available:
+            break
+        topic = min(available, key=lambda t: counts[t])
+        article = pending.pop(queues[topic][0]['url'])
+        selected.append(article)
+        for tag in article['topics']:
+            counts[tag] += 1
+    return selected
+
+
+def collect(root=ROOT, fetch=fetch_feed, now=None, run_id=None):
+    # Actions uses a shared concurrency group across all runs. This additional
+    # lock protects multiple local processes operating on the same checkout.
+    root = Path(root)
+    lock_path = root / 'work/collect-news.lock'
+    lock_path.parent.mkdir(parents=True, exist_ok=True)
+    with lock_path.open('a') as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        return _collect(root, fetch, now or stamp(), run_id)
+
+
+def _collect(root, fetch, now, run_id):
     data = root / 'docs/data'
+    news_path = data / 'news.json'
+    previous = read_json(news_path, {'updatedAt': None, 'articles': []})
+    completed = previous.get('completedRunIds', [])
+    if run_id and run_id in completed:
+        print(f'Already saved Actions run {run_id}; no additional collection.')
+        return []
+    existing = previous['articles']
     cache_path = root / 'collector-cache.json'
     cache = read_json(cache_path, {})
-    results, success = [], 0
+    results, success, candidates = [], 0, []
     for feed in FEEDS:
         prior = cache.get(feed['id'], {})
         # Also protect the provider from repeated manual executions within 30 minutes.
@@ -121,19 +170,28 @@ def collect(root=ROOT, fetch=fetch_feed, now=None):
         try:
             articles = fetch(feed)
             cache[feed['id']] = {'articles': articles, 'lastSuccessAt': now, 'lastAttemptAt': now}
+            candidates.extend(articles)
             success += 1
             results.append({'topic': feed['topic'], 'state': 'ok', 'lastSuccessAt': now})
         except Exception as error:
             cache[feed['id']] = {**prior, 'lastAttemptAt': now, 'failed': True}
             results.append({'topic': feed['topic'], 'state': 'error', 'lastSuccessAt': prior.get('lastSuccessAt')})
             print(f"RSS failed: {feed['topic']} ({type(error).__name__})", file=sys.stderr)
+    added = []
+    # Failed/throttled feeds never supply new candidates from stale cache.
     # With zero successes news.json remains byte-for-byte unchanged.
     if success:
-        combined = merge_articles([a for entry in cache.values() for a in entry.get('articles', [])])
-        atomic_json(data / 'news.json', {'updatedAt': now, 'articles': combined})
+        added = select_new_articles(existing, candidates)
+        combined = sorted(existing + added, key=lambda a: (datetime.fromisoformat(a['publishedAt'].replace('Z', '+00:00')), a['id']), reverse=True)
+        news = {**previous, 'updatedAt': now, 'articles': combined}
+        if run_id:
+            # Same run ID is used on Actions retries. Keep the marker in the same
+            # atomic write as additions, so a retry cannot admit another 20.
+            news['completedRunIds'] = completed + [run_id]
+        atomic_json(news_path, news)
     atomic_json(cache_path, cache)
-    atomic_json(data / 'status.json', {'attemptedAt': now, 'feeds': results})
+    atomic_json(data / 'status.json', {'attemptedAt': now, 'addedCount': len(added), 'feeds': results})
     return results
 
 if __name__ == '__main__':
-    collect()
+    collect(run_id=os.environ.get('GITHUB_RUN_ID'))

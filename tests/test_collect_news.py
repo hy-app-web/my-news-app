@@ -61,7 +61,7 @@ class CollectorTests(unittest.TestCase):
                     raise TimeoutError()
                 c.collect(root, partial, '2026-01-04T00:00:00+00:00')
                 saved = json.loads((root/'docs/data/news.json').read_text())
-                self.assertEqual(saved['articles'][0]['topics'], ['テクノロジー'])
+                self.assertEqual(saved['articles'], json.loads(previous)['articles'])
                 self.assertEqual(json.loads((root/'docs/data/status.json').read_text())['feeds'][1]['state'], 'error')
 
     def test_throttle_repeated_manual_runs(self):

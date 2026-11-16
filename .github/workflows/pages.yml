@@ -8,7 +8,7 @@ on:
 permissions: {}
 jobs:
   deploy:
-    # Deliberate opt-in: creating this PR or merging it does not enable publication.
+    # Keep the existing Pages opt-in. Production already sets PAGES_ENABLED=true.
     if: github.ref == 'refs/heads/main' && vars.PAGES_ENABLED == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 10
