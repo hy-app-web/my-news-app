@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-11-16T08:48:45+00:00",
+  "updatedAt": "2026-11-16T11:13:29+00:00",
   "articles": [
+    {
+      "id": "1015debc14385dec1763",
+      "title": "日本の消費「コロナ前」下回る 四半世紀で1割増どまり、米欧と格差 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA1429C0U6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-16T09:21:03+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "ba97cb2dbde2fa6498dc",
+      "title": "コンビニで掲示されたポケモンカード販売についての案内が世紀末すぎる…全店舗ポケカの取り扱いやめていいと思う",
+      "url": "https://togetter.com/li/2771103",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T08:37:33+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "c66ad17953e2efe859d1",
+      "title": "ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox",
+      "url": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6",
+      "source": "scrapbox.io",
+      "publishedAt": "2026-11-16T08:16:47+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "52e42067b45e4a922888",
+      "title": "立民・水岡代表、高市内閣の高支持率を疑問視「信じられない」「ちょっと理解できない」",
+      "url": "https://www.sankei.com/article/20261116-S4RVCGTLIBDZXJ3NBZACIB7AMI/?outputType=asynd",
+      "source": "www.sankei.com",
+      "publishedAt": "2026-11-16T08:16:04+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "7ac1068c390c05db1436",
+      "title": "「セブンカフェ、100億杯売り上げてるのやべーな」“日本最大のコーヒーチェーン”という投稿に「うまいもんね」「世界一狙える」",
+      "url": "https://togetter.com/li/2771100",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T07:59:07+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "a5a555561f226d4b3aab",
+      "title": "演歌枠減少で話題の紅白歌合戦、実はかつて「民謡枠」が存在していたという話…専門家のポストが話題に「今もまた新たな時代の波がやってきている」",
+      "url": "https://togetter.com/li/2771096",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T07:57:05+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
     {
       "id": "3b9570fcefa84e85faab",
       "title": "芸能に疎いのだが、「モナキ」メンバーの一人が千葉大工学部大学院を首席卒業、一級建築士としてJRで駅舎・駅ビル開発担当→東京建物に転職、既婚者37歳と壮大なほど異色すぎて、ついMV観た",
@@ -9,6 +70,47 @@
       "publishedAt": "2026-11-16T07:55:05+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "5fd28dc98f68e4100cde",
+      "title": "「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知",
+      "url": "https://japan.cnet.com/article/35254951/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-16T07:53:04+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "f26c40e18c1325739f85",
+      "title": "【緊急インタビュー】17年ぶりにまさかの復活『富士ミス』とはなんだったのか？ ＜ナツガタリ受賞作『彼女と死ぬまでに殺りたいこと』11月20日発売！＞ - カクヨムからのお知らせ",
+      "url": "https://kakuyomu.jp/info/entry/2026/11/16/120000",
+      "source": "kakuyomu.jp",
+      "publishedAt": "2026-11-16T07:38:04+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "e969cec67f87e764b68f",
+      "title": "東京国際映画祭の高市首相、赤沢経産相のあいさつに違和感…その裏にあった経産省の支援金カット - シネマ : 日刊スポーツ",
+      "url": "https://www.nikkansports.com/entertainment/news/202611140000692.html",
+      "source": "www.nikkansports.com",
+      "publishedAt": "2026-11-16T07:33:34+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "5c8828e3e18d07adc0de",
+      "title": "「国境の島」の有事シェルター、建設に暗雲 入札不調3度のなぜ | 毎日新聞",
+      "url": "https://mainichi.jp/articles/20261115/k00/00m/010/213000c",
+      "source": "mainichi.jp",
+      "publishedAt": "2026-11-16T07:14:44+00:00",
+      "topics": [
+        "沖縄"
       ]
     },
     {
@@ -43,12 +145,44 @@
       ]
     },
     {
+      "id": "e7e4dc68d24e870a8b2a",
+      "title": "レビューは AI が書いて、人が選ぶ",
+      "url": "https://blog.recruit.co.jp/data/articles/ai-review-skills/",
+      "source": "blog.recruit.co.jp",
+      "publishedAt": "2026-11-16T05:51:34+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "6ef127aa5f2f59f128e6",
+      "title": "ドパガキならぬ『ドパおば』のすすめ｜ぼたんちゃん",
+      "url": "https://note.com/dilettante/n/na3486152334a",
+      "source": "note.com",
+      "publishedAt": "2026-11-16T05:43:23+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
       "id": "2361a9da56c1af8e3075",
       "title": "「あげぽよ」生みの親、元eggモデル川端かな子さんを殺害疑い、同居の男を逮捕：東京新聞デジタル",
       "url": "https://www.tokyo-np.co.jp/article/528449",
       "source": "www.tokyo-np.co.jp",
       "publishedAt": "2026-11-16T05:25:07+00:00",
       "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "e4f650f3de66d968f26a",
+      "title": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156720.html",
+      "source": "www.watch.impress.co.jp",
+      "publishedAt": "2026-11-16T05:22:52+00:00",
+      "topics": [
+        "AI",
         "バズ"
       ]
     },
@@ -68,6 +202,16 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2156687.html",
       "source": "pc.watch.impress.co.jp",
       "publishedAt": "2026-11-16T04:55:32+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "3b2435a0a5b5ba708667",
+      "title": "「Qwen4-Max」が登場、一部テストでClaude Opus 5.5に勝利し小型オープンモデルも後日公開予定",
+      "url": "https://gigazine.net/news/20261116-qwen4-max/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-16T04:45:06+00:00",
       "topics": [
         "AI"
       ]
@@ -121,6 +265,16 @@
       "publishedAt": "2026-11-16T02:47:53+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "8545103f178628fa17cd",
+      "title": "「スター・ウォーズ」1977年オリジナル版を修復して再上映 2027年2月19日公開",
+      "url": "https://japan.cnet.com/article/35254918/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-16T02:44:16+00:00",
+      "topics": [
+        "バズ"
       ]
     },
     {
@@ -214,6 +368,16 @@
       "publishedAt": "2026-11-16T01:26:37+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "3f4731f13430e9e0abb6",
+      "title": "10年間作れなかったアプリが、AIでわずか10日で完成して感動 好きなキャラが踊る3Dライブをついに実現 (1/6)",
+      "url": "https://ascii.jp/elem/000/004/451/4451644/",
+      "source": "ascii.jp",
+      "publishedAt": "2026-11-16T01:15:05+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -723,6 +887,16 @@
       ]
     },
     {
+      "id": "b62ec2807933a8e111b9",
+      "title": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76062",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-15T09:11:03+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
       "id": "708149418464b1678254",
       "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
       "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
@@ -760,6 +934,16 @@
       "publishedAt": "2026-11-15T06:47:47+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "fe0d56b05d75790b6f9e",
+      "title": "EpicのCEOティム・スウィーニー氏、Steamの生成AI開示は「有害」と語る。ゲームの良し悪しにAIは関係がないと主張 | Game*Spark - 国内・海外ゲーム情報サイト",
+      "url": "https://www.gamespark.jp/article/2026/11/14/174877.html",
+      "source": "www.gamespark.jp",
+      "publishedAt": "2026-11-15T06:26:59+00:00",
+      "topics": [
+        "バズ"
       ]
     },
     {
@@ -1685,6 +1869,16 @@
       "publishedAt": "2026-11-13T01:13:08+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "f50fa5829bf233d7b5d2",
+      "title": "寒いから家メシ。包丁は使いたくない。でも、たんぱく質は1食で30g以上摂りたい。そんなときの「1人キムチ鍋」10分レシピ - メシ通 | ホットペッパーグルメ",
+      "url": "https://www.hotpepper.jp/mesitsu/entry/kanakitajima/2026-01363",
+      "source": "www.hotpepper.jp",
+      "publishedAt": "2026-11-13T00:09:44+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -3820,6 +4014,7 @@
     }
   ],
   "completedRunIds": [
-    "43834245315"
+    "43834245315",
+    "43855823951"
   ]
 }
