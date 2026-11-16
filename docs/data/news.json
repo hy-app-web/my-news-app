@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-11-16T04:44:21+00:00",
+  "updatedAt": "2026-11-16T08:48:45+00:00",
   "articles": [
+    {
+      "id": "3b9570fcefa84e85faab",
+      "title": "芸能に疎いのだが、「モナキ」メンバーの一人が千葉大工学部大学院を首席卒業、一級建築士としてJRで駅舎・駅ビル開発担当→東京建物に転職、既婚者37歳と壮大なほど異色すぎて、ついMV観た",
+      "url": "https://togetter.com/li/2771080",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T07:55:05+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "924d3e1ec52683d9c72f",
+      "title": "＜独自＞「世界に広がる高市応援団」構想 豪元首相や欧米経済人ら東京へ ARC夕食会",
+      "url": "https://www.sankei.com/article/20261116-RR3D3UHAJRAJPKEJ4OISQD53OM/?outputType=asynd",
+      "source": "www.sankei.com",
+      "publishedAt": "2026-11-16T06:49:58+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "a8938bee31a2fcb430ab",
+      "title": "「動物のお医者さん」×ジュンク堂のオリジナルグッズ公開、全国でポップアップも - コミックナタリー",
+      "url": "https://natalie.mu/comic/news/698174",
+      "source": "natalie.mu",
+      "publishedAt": "2026-11-16T06:09:06+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "2d610b6b673b95970374",
+      "title": "ディズニーが有料で優先的に乗れるチケットをUSJのように事前販売しないことに疑問の声→「来年度には入園前に予約できる」「USJは不人気アトラクションが抱き合わせ」",
+      "url": "https://togetter.com/li/2771045",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T06:06:49+00:00",
+      "topics": [
+        "バズ",
+        "イベント"
+      ]
+    },
+    {
+      "id": "2361a9da56c1af8e3075",
+      "title": "「あげぽよ」生みの親、元eggモデル川端かな子さんを殺害疑い、同居の男を逮捕：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/528449",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-16T05:25:07+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "24bd418cca2e0243d017",
+      "title": "OpenAIが「ChatGPT Wallet」発表 AIエージェントがカード番号を見ずに買い物、生体認証で承認 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/16/5731.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-16T05:20:50+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "469812dddca410a66917",
+      "title": "「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2156687.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-16T04:55:32+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "c2ae594934f865dffab5",
+      "title": "「ちょっと一服」で飲み会を抜けたい（タバコ以外で）",
+      "url": "https://dailyportalz.jp/kiji/non-smoking-party-break",
+      "source": "dailyportalz.jp",
+      "publishedAt": "2026-11-16T03:52:51+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "e206bea8be1f0a63642f",
+      "title": "つれあいのがんのこと - 紙屋研究所",
+      "url": "https://kamiyakenkyujo.hatenablog.com/entry/2026/11/16/120030",
+      "source": "kamiyakenkyujo.hatenablog.com",
+      "publishedAt": "2026-11-16T03:20:25+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
     {
       "id": "f0ad783fa79a82165543",
       "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
@@ -10,6 +101,26 @@
       "topics": [
         "テクノロジー",
         "バズ"
+      ]
+    },
+    {
+      "id": "b66868416263fe842ffc",
+      "title": "フリーランス市場、受注者の約8割がAIを利用 自発的に開示は1割弱、両者に意識差 IBMリサーチなど調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-16T03:03:25+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "d1d0496a4b2412624b61",
+      "title": "NTT、フロンティアAIに迫る脆弱性発見能力を持つソブリン型サイバーセキュリティAI技術を開発",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2156595.html",
+      "source": "internet.watch.impress.co.jp",
+      "publishedAt": "2026-11-16T02:47:53+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -30,6 +141,17 @@
       "publishedAt": "2026-11-16T02:14:55+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "d26e3d991b07839cf949",
+      "title": "油揚げシュークリームを作ってみる",
+      "url": "https://dailyportalz.jp/kiji/aburaage-cream-puffs",
+      "source": "dailyportalz.jp",
+      "publishedAt": "2026-11-16T02:12:55+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
       ]
     },
     {
@@ -180,6 +302,26 @@
       "url": "https://togetter.com/li/2770950",
       "source": "togetter.com",
       "publishedAt": "2026-11-15T23:41:17+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "47110ed5b1eb9b724754",
+      "title": "『スーパーカップ』の商標権ってどうなってるんだろうと思ったらそういうことだったんだ「明治エッセルが名前でスーパーカップは容器の形状」",
+      "url": "https://togetter.com/li/2770955",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-15T23:40:52+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "19cd30dbf5c684a38d7b",
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-15T23:12:00+00:00",
       "topics": [
         "AI"
       ]
@@ -386,6 +528,17 @@
       ]
     },
     {
+      "id": "fed3431a3801012a55c8",
+      "title": "映画がおもしろくないのは当然である｜伊藤聡",
+      "url": "https://note.com/campintheair/n/n1770cc58500e",
+      "source": "note.com",
+      "publishedAt": "2026-11-15T14:15:51+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
       "id": "cd1dae4485a7eccdfb8f",
       "title": "2026年11月15日(日) 夕飯🎵 : Cook Channel 841",
       "url": "http://blog.livedoor.jp/yk841/archives/97995316.html",
@@ -449,6 +602,16 @@
       ]
     },
     {
+      "id": "e38babe6e4e28925172a",
+      "title": "「AI導入して超効率化できたので人減らしますなんならしばらく新規採用もしません」て企業がぼちぼち出てきたと聞きますが、10年20年したら廃業する前提なんかな、と素人考えで思ってしまう だって後継者育てないんでしょう？→「そして今のコストでずっとAIを使えると思ってる⋯」",
+      "url": "https://posfie.com/@mumimushunyu/p/aHwGg9f",
+      "source": "posfie.com",
+      "publishedAt": "2026-11-15T12:18:46+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "de189e9a1aae85d9c047",
       "title": "「戦争賛成」というレッテル――反論を封じるリベラルの暴力｜三崎圭吾",
       "url": "https://note.com/azabu_food/n/na8660268943a",
@@ -487,6 +650,16 @@
       "publishedAt": "2026-11-15T11:49:13+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "0c68aa5aec2f46125a93",
+      "title": "No AI Slop Manifesto に署名した - ちなみに",
+      "url": "https://blog.nishimu.land/entry/2026/11/15/143815",
+      "source": "blog.nishimu.land",
+      "publishedAt": "2026-11-15T11:30:38+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -547,6 +720,16 @@
       "publishedAt": "2026-11-15T09:14:36+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "708149418464b1678254",
+      "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
+      "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-15T08:42:37+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -803,6 +986,17 @@
       "publishedAt": "2026-11-14T23:31:23+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "9c95cf40a99fa99f50f6",
+      "title": "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用",
+      "url": "https://www.reuters.com/jp/opinion/Q77LXPMSFFI65L57GVAMOFQWEA-2026-11-14/",
+      "source": "www.reuters.com",
+      "publishedAt": "2026-11-14T23:26:32+00:00",
+      "topics": [
+        "AI",
+        "ビジネス"
       ]
     },
     {
@@ -1681,6 +1875,16 @@
       "url": "https://thebridge.jp/2026/11/kyoto-innovators-summit-2026-ai-bubble",
       "source": "thebridge.jp",
       "publishedAt": "2026-11-12T12:23:54+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "27d8e749c968d3b03461",
+      "title": "低信用社会がどれだけしんどいか、中国に住んでる俺が教えてやる｜華村＠中国",
+      "url": "https://note.com/stwtcpld/n/n1fdcb68bfbc4",
+      "source": "note.com",
+      "publishedAt": "2026-11-12T12:14:38+00:00",
       "topics": [
         "経済"
       ]
@@ -3614,5 +3818,8 @@
         "ハンドメイド"
       ]
     }
+  ],
+  "completedRunIds": [
+    "43834245315"
   ]
 }
