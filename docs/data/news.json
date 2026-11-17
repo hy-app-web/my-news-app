@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-11-17T10:56:28+00:00",
+  "updatedAt": "2026-11-17T22:48:40+00:00",
   "articles": [
+    {
+      "id": "12c408e110d434adf70f",
+      "title": "「消えた神社を探しに行きます」一度参拝したがその後“消えた神社”を本人が再び見つけたらトンデモナイことが起きたと報告…もはやネタに思えるが本人は真剣な顔つき",
+      "url": "https://togetter.com/li/2771735",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-17T18:28:16+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "0ccd6f61e905aacb1905",
+      "title": "GLITCH WITCH - 第３話 眠る者 眠らぬ者 眠れぬ者② | ヤンマガWeb",
+      "url": "https://yanmaga.jp/viewer/comics/GLITCH_WITCH/c6341c81d990b70e21bd4a32605e6a92?cid=06A0000000001057767T",
+      "source": "yanmaga.jp",
+      "publishedAt": "2026-11-17T16:43:50+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "d46c7417a982a2be9677",
+      "title": "楽天証券から漏洩した情報とは？ テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-17T15:13:38+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "88d73559c9aca7173526",
+      "title": "カンファレンスノベルティの話から考える、技術カンファレンスの続け方 - 941::blog",
+      "url": "https://blog.kushii.net/archives/2026/11/17/211328",
+      "source": "blog.kushii.net",
+      "publishedAt": "2026-11-17T12:15:20+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "98b7367086777fbe5fdc",
+      "title": "日立、AIエージェントの指示改ざん防ぐ 委任者証明技術を開発 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC171WL0X11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-17T11:34:03+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "072651dd337b4953c603",
+      "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-17T10:58:03+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a7c499f7de9b41816df1",
+      "title": "楽天証券、年収など顧客情報漏洩 不正アクセスで最大447万口座分 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB179TR0X11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-17T10:25:55+00:00",
+      "topics": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "id": "5e8739e303d3cc24bd5d",
+      "title": "発電って結局タービンじゃねぇか…ってよく言われるけど、現代の蒸気タービンは「お湯を沸かして回す」という牧歌的な光景からはかけ離れてて激アツだぞ",
+      "url": "https://togetter.com/li/2771592",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-17T10:25:49+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
     {
       "id": "11709c2adb40051c7281",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
@@ -32,11 +116,72 @@
       ]
     },
     {
+      "id": "9f0cac8b8700e6578965",
+      "title": "5年前に自分で歌った曲がAI音楽企業の著作権侵害申し立てで削除される、異議申し立ても2回却下",
+      "url": "https://gigazine.net/news/20261117-musician-copyright-hell/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-17T09:17:31+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ee5f203a577fbd7b64b0",
+      "title": "人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる",
+      "url": "https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-17T09:07:34+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ed1de5de3ee236f11437",
+      "title": "大河原克行のNewsInsight(481) 「バザールでござーる」は今月中に引退、最後のコンテンツ配布で思うところ",
+      "url": "https://news.mynavi.jp/article/newsinsight-481/",
+      "source": "news.mynavi.jp",
+      "publishedAt": "2026-11-17T07:49:25+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "831e7d3ec19024be1d7b",
+      "title": "オーケーのお弁当（油淋鶏）@自宅 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35353187/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-17T07:27:52+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "c02c6a73dd746adca49a",
+      "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
+      "url": "https://japan.cnet.com/article/35254996/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-17T07:22:06+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "0dae406675e92006dacf",
       "title": "ソシャゲに課金するならAIに課金した方がマシ？中国ゲーム業界の潜在的危機｜上海在住のえいちゃん",
       "url": "https://note.com/eichan_sh/n/ne8b7acafaac5",
       "source": "note.com",
       "publishedAt": "2026-11-17T07:04:25+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "577f47f6b0f9e49ad33b",
+      "title": "GitHub - huggingface/pybot: PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "url": "https://github.com/huggingface/pybot",
+      "source": "github.com",
+      "publishedAt": "2026-11-17T06:59:18+00:00",
       "topics": [
         "AI"
       ]
@@ -52,6 +197,16 @@
       ]
     },
     {
+      "id": "1f87a539d65902a752a3",
+      "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+      "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-17T06:39:54+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "29d3b566c90010ab8d31",
       "title": "NVIDIA、CEO 交代に関するお知らせ",
       "url": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/",
@@ -61,6 +216,16 @@
         "AI",
         "ビジネス",
         "バズ"
+      ]
+    },
+    {
+      "id": "c9e8f609e23bee99b503",
+      "title": "コントレックスを購入して硬水でダージリンを淹れる実験の結果「欧州の人達ズルくないすか、なにこれ？！硬水で淹れる紅茶がめっっっっっちゃくちゃ美味しいんですけど！」",
+      "url": "https://togetter.com/li/2771451",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-17T05:36:11+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -93,6 +258,26 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "ad45fcc6d003f40d686d",
+      "title": "【千葉/我孫子】LAVO FAMILY DINING（バナナの葉の香りに全身がとろける！）スリランカ料理ランチ【スリランカ料理】 - 【厳選】いばちばグルメ～茨城千葉グルメ穴場～",
+      "url": "https://ibachiba.hateblo.jp/entry/20261117/1794888279",
+      "source": "ibachiba.hateblo.jp",
+      "publishedAt": "2026-11-17T05:00:30+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "473dd06a4f6fa5adf4a9",
+      "title": "沖縄平和運動センター、辺野古・シュワブ前の座り込みに今後参加せず 「継続は困難と結論」 | 沖縄タイムス＋プラス",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1967689",
+      "source": "www.okinawatimes.co.jp",
+      "publishedAt": "2026-11-17T04:55:25+00:00",
+      "topics": [
+        "沖縄"
       ]
     },
     {
@@ -166,6 +351,16 @@
       "publishedAt": "2026-11-17T02:53:53+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "247e617c4f97f89e6089",
+      "title": "開発進捗は富士山の7合目、7つのカメラのみでハイブリッド車でのレベル2＋＋自動運転を実現 トヨタの最新開発実験車に北米で同乗",
+      "url": "https://car.watch.impress.co.jp/docs/news/2156901.html",
+      "source": "car.watch.impress.co.jp",
+      "publishedAt": "2026-11-17T02:48:49+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -694,6 +889,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "e1d07cb030cadffa6c80",
+      "title": "東京メトロ、スマホゲームで駅設備点検 利用客の写真で作業効率化へ - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC161VZ0W6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-16T05:49:28+00:00",
+      "topics": [
+        "東京"
       ]
     },
     {
@@ -4640,6 +4845,7 @@
     "43855823951",
     "43972515161",
     "44012759604",
-    "44069384634"
+    "44069384634",
+    "44193603038"
   ]
 }
