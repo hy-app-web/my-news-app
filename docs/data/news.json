@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-11-17T03:48:34+00:00",
+  "updatedAt": "2026-11-17T10:56:28+00:00",
   "articles": [
+    {
+      "id": "11709c2adb40051c7281",
+      "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+      "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-17T09:59:42+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "e496c1b17f1c4f70d9b7",
+      "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-17T09:33:35+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "54bfbc5de400c5f8221a",
+      "title": "楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157207.html",
+      "source": "www.watch.impress.co.jp",
+      "publishedAt": "2026-11-17T09:23:14+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "0dae406675e92006dacf",
+      "title": "ソシャゲに課金するならAIに課金した方がマシ？中国ゲーム業界の潜在的危機｜上海在住のえいちゃん",
+      "url": "https://note.com/eichan_sh/n/ne8b7acafaac5",
+      "source": "note.com",
+      "publishedAt": "2026-11-17T07:04:25+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "6fec6b008d8eef42889c",
+      "title": "ドバイでトヨタ車の購入時、納車日にスタッフから「チョコレート持って来て」と言われて持って行ったら「ありがとう」とチョコレートを取られた→チップ？慣習？謎すぎる",
+      "url": "https://togetter.com/li/2771488",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-17T06:44:51+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "29d3b566c90010ab8d31",
+      "title": "NVIDIA、CEO 交代に関するお知らせ",
+      "url": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/",
+      "source": "blogs.nvidia.co.jp",
+      "publishedAt": "2026-11-17T06:39:50+00:00",
+      "topics": [
+        "AI",
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "fa6bd3ff563236b77d2c",
+      "title": "ChatGPTやClaudeがMacを操作する時代に--Appleが「macOS 27.3」で対応強化",
+      "url": "https://japan.cnet.com/article/35254992/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-17T05:32:03+00:00",
+      "topics": [
+        "AI",
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "7e10b30bb45ecad3cb0f",
+      "title": "海外に嫁いだ友達が、ハロウィンがマジで大嫌いだと言う…大量のお菓子や飾り付けや仮装にお金がかかるし、子供が持ち帰ったお菓子を検品するのが一苦労らしい",
+      "url": "https://togetter.com/li/2771428",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-17T05:16:25+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "e816590fb07e2e40803e",
+      "title": "エプスタイン氏は「他殺の可能性大」、法医学の専門家が発表 NY検視局は自殺との判断維持",
+      "url": "https://www.cnn.co.jp/usa/35254998.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-17T05:06:53+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b414e2e0eb16745dfc76",
+      "title": "え、あのビルもうないの？めぐり",
+      "url": "https://dailyportalz.jp/kiji/vanished-buildings-tour",
+      "source": "dailyportalz.jp",
+      "publishedAt": "2026-11-17T04:01:06+00:00",
+      "topics": [
+        "バズ",
+        "東京"
+      ]
+    },
+    {
+      "id": "b89c8474ef664eeb67ae",
+      "title": "NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能",
+      "url": "https://gigazine.net/news/20261117-dgx-spark-developer-kit/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-17T03:46:54+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "f36dd4c3ab39c1d978b2",
+      "title": "韓国で広がる「株式依存」 損失でも売買やめられず、医師に相談 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGM230SF0T20C26A9000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-17T03:31:26+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
     {
       "id": "2e6aa1d88bae794c59a6",
       "title": "江夏豊さん死去 ７８歳 オールスターで９者連続三振 「江夏の２１球」…数々の逸話残した「伝説の左腕」（スポーツ報知） - Yahoo!ニュース",
@@ -12,6 +137,28 @@
       ]
     },
     {
+      "id": "9c103c386a802ea93e8d",
+      "title": "DGX Sparkを4台つないだ「机の上のスパコン」、NVIDIAが研究者向けキット発表 700Bパラメーター級のAIも手元で | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/17/5741.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-17T03:06:15+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "6e34c14753b0521717ec",
+      "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-17T03:01:04+00:00",
+      "topics": [
+        "AI",
+        "テクノロジー",
+        "ビジネス"
+      ]
+    },
+    {
       "id": "575c52003e145ab42e0b",
       "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ - BBCニュース",
       "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o",
@@ -19,6 +166,26 @@
       "publishedAt": "2026-11-17T02:53:53+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "d7bfda517adf0edb992f",
+      "title": "最新のAIがぶっ飛んでる！ たった97KBのHTMLファイル1つだけで水中世界を探検できる -Abyssal Garden",
+      "url": "https://coliss.com/articles/build-websites/operation/work/abyssal-garden.html",
+      "source": "coliss.com",
+      "publishedAt": "2026-11-17T02:12:59+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "dbb3e65f8fa90953105a",
+      "title": "たった0.5pxにこだわる理由。 AI時代のアイコンデザインの裏側",
+      "url": "https://blog.asial.co.jp/7133/",
+      "source": "blog.asial.co.jp",
+      "publishedAt": "2026-11-17T02:11:59+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -92,6 +259,17 @@
       ]
     },
     {
+      "id": "ff6d4ea507b5314cf660",
+      "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
+      "source": "piyolog.hatenadiary.jp",
+      "publishedAt": "2026-11-16T21:42:53+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
       "id": "19ffc913dde56b3a27cf",
       "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold | Google Cloud Blog",
       "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
@@ -99,6 +277,26 @@
       "publishedAt": "2026-11-16T21:39:31+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "f8c3c82c042e44168874",
+      "title": "「資産運用しないなら別れるかな」 投資は結婚の新条件、生活を一変 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB265NV0W6A021C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-16T19:33:36+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "7116d22999f2ccee6195",
+      "title": "位置情報「流出」のルート 売買されるあなたの居場所",
+      "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
+      "source": "vdata.nikkei.com",
+      "publishedAt": "2026-11-16T18:59:13+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -119,6 +317,17 @@
       "publishedAt": "2026-11-16T17:06:21+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "2ed60fa8d25f24df55c0",
+      "title": "日本人は鮮魚のカルパッチョとかいう、刺身にドレッシングかけて野菜と食べる料理を発明してイタリア料理だと思い込んでみんな食べてる",
+      "url": "https://togetter.com/li/2771254",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T15:28:33+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
       ]
     },
     {
@@ -4430,6 +4639,7 @@
     "43834245315",
     "43855823951",
     "43972515161",
-    "44012759604"
+    "44012759604",
+    "44069384634"
   ]
 }
