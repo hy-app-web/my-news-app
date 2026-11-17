@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-16T22:41:56+00:00",
+  "updatedAt": "2026-11-17T03:48:34+00:00",
   "articles": [
+    {
+      "id": "2e6aa1d88bae794c59a6",
+      "title": "江夏豊さん死去 ７８歳 オールスターで９者連続三振 「江夏の２１球」…数々の逸話残した「伝説の左腕」（スポーツ報知） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/a32424defccfdaa8dde3b2e68d3a481f2b19029a",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-17T03:06:48+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "575c52003e145ab42e0b",
+      "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ - BBCニュース",
+      "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o",
+      "source": "www.bbc.com",
+      "publishedAt": "2026-11-17T02:53:53+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "980651978d6f9f0990a4",
+      "title": "AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2156904.html",
+      "source": "forest.watch.impress.co.jp",
+      "publishedAt": "2026-11-17T01:04:18+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ce16bab61569129203fd",
+      "title": "メルカリ×VercelのVPが実例をもとに、AI投資を語る。「AI Engineering Summit Tokyo 2026」追加登壇者を発表！ | ニュース | ファインディ株式会社(Findy Inc)",
+      "url": "https://findy.co.jp/4671/",
+      "source": "findy.co.jp",
+      "publishedAt": "2026-11-17T01:02:50+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "dbb83364230ab1e9e11f",
+      "title": "日本人、食い物には寛容という人もいるけど昆虫食を気持ち悪いとか貧乏人の食い物だとかそういうことを言う人もいるし言うほど寛容ではないとは思う",
+      "url": "https://togetter.com/li/2771338",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-17T01:02:23+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "bd04e81f14b2033fa33d",
+      "title": "Google日本語入力が不満な人へ、Windows/Mac対応国産ソフト「もずきー」登場。遅延付きライブ変換とAI文脈補正を搭載、使うほど学習し自分好みに（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/17/5737.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-17T00:51:29+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "05217176c6a4359ec5f8",
+      "title": "超音波洗浄機を買ってメガネを洗ったら汚さにビビりました→筆やプラモのパーツも洗えるしウイスキーに使うとまろやかになるらしい",
+      "url": "https://togetter.com/li/2771039",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T23:53:15+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "23bbcd027dab72938f05",
+      "title": "ノンフライヤーでケーキが焼けると知り、りんごパウンドケーキが焼けるか試してみた「可能性無限大すぎて何ができないか知りたい」",
+      "url": "https://togetter.com/li/2771328",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-16T23:52:44+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "78185192b2a196149a96",
+      "title": "あなたのパートナーが「外国のスパイ」かどうか見分ける10の質問 | ハニートラップ判定クイズ",
+      "url": "https://courrier.jp/news/archives/465669/",
+      "source": "courrier.jp",
+      "publishedAt": "2026-11-16T23:40:52+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "19ffc913dde56b3a27cf",
+      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+      "source": "cloud.google.com",
+      "publishedAt": "2026-11-16T21:39:31+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
     {
       "id": "9c079db25efcc478c7c3",
       "title": "東大の友達が「人生ずっと天才とチヤホヤされてきたが、居酒屋バイトで怒られ、サークルでインカレ女にいじられ、それを認められるようになって第二の人生が始まった」と話してた",
@@ -8,6 +108,71 @@
       "source": "togetter.com",
       "publishedAt": "2026-11-16T17:19:14+00:00",
       "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "21c12f9bf3bb4677cf9f",
+      "title": "AI学習用途で古書大量注文か Amazonでの在庫切れ、26年4月以降急増 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC0451P0U6A101C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-16T17:06:21+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "b1aa35bd799f782a3795",
+      "title": "声優を応援するということ 〜５年推した声優とクルーズに行った話〜 - にしょう's diary",
+      "url": "https://2syou1720.hatenablog.com/entry/2026/11/16/%E5%A3%B0%E5%84%AA%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8_%E3%80%9C%EF%BC%95%E5%B9%B4%E6%8E%A8%E3%81%97%E3%81%9F%E5%A3%B0%E5%84%AA%E3%81%A8%E3%82%AF",
+      "source": "2syou1720.hatenablog.com",
+      "publishedAt": "2026-11-16T14:26:35+00:00",
+      "topics": [
+        "バズ",
+        "イベント"
+      ]
+    },
+    {
+      "id": "d577fc06968227c6fc55",
+      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-16T14:22:24+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "c71ab03dbd6008b867a6",
+      "title": "高専、農業分野に拡大へ 文科省、公私立の新設を促進：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/528491",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-16T14:21:57+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "f264d9db1cfcc56a927c",
+      "title": "「たった97KB」のリアル海底3Dデモが大注目浴びる。小ささの秘訣は“全部その場で作る”こと - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261116-479523/",
+      "source": "automaton-media.com",
+      "publishedAt": "2026-11-16T13:33:09+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "4dbfe8a10b434413e85d",
+      "title": "AIバブル崩壊間近な現状、AIが人類を滅ぼせるわけねーだろ - サッとぶ",
+      "url": "https://kei-1010.hatenablog.com/entry/2026/11/16/120828",
+      "source": "kei-1010.hatenablog.com",
+      "publishedAt": "2026-11-16T12:26:07+00:00",
+      "topics": [
+        "AI",
+        "ビジネス",
         "バズ"
       ]
     },
@@ -29,6 +194,16 @@
       "url": "https://mainichi.jp/articles/20261116/ddm/001/010/121000c",
       "source": "mainichi.jp",
       "publishedAt": "2026-11-16T11:43:33+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "57edd98ee96e0a741941",
+      "title": "不名誉なはずのフアン氏の辞任、それでもシリコンバレーからは支持する声やまず",
+      "url": "https://www.cnn.co.jp/business/35254956.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-16T11:28:12+00:00",
       "topics": [
         "AI"
       ]
@@ -83,6 +258,17 @@
       "publishedAt": "2026-11-16T10:39:11+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "9999c31436b1a5355e7f",
+      "title": "AIが文学界を揺るがしている",
+      "url": "https://gigazine.net/news/20261116-ai-literary-world/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-16T10:02:10+00:00",
+      "topics": [
+        "AI",
+        "バズ"
       ]
     },
     {
@@ -358,6 +544,16 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2156687.html",
       "source": "pc.watch.impress.co.jp",
       "publishedAt": "2026-11-16T04:55:32+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "97ccc42cfa70986d19c9",
+      "title": "GitHub - GoogleChrome/modern-web-guidance: Keep your coding agent up to date with the latest web best practices",
+      "url": "https://github.com/googlechrome/modern-web-guidance",
+      "source": "github.com",
+      "publishedAt": "2026-11-16T04:53:56+00:00",
       "topics": [
         "AI"
       ]
@@ -2415,6 +2611,16 @@
       ]
     },
     {
+      "id": "a31a67d75f41de781e8d",
+      "title": "文学フリマ、なぜ混雑するほど大人気に？ “同人誌の売買”だけではないその魅力",
+      "url": "https://realsound.jp/book/2026/11/post-2580667.html",
+      "source": "realsound.jp",
+      "publishedAt": "2026-11-12T03:36:24+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
       "id": "096a564b3336f3b2c0b8",
       "title": "家畜といえば、日本の伝統的な食文化では「ヒツジ」を食べないんですよね。もっというとそもそもヒツジをまるで飼育してこなかった。中国ではありふれた家畜であり、例えば十二支の「未」にはヒツジが当てられるほどなのに、日本では干支は取り入れても羊自体には縁が薄かったのはなぜなんでしょうか。→「気候が合わなかったそうですね。 実物を見たことがない時代に書かれた羊🐏」",
       "url": "https://posfie.com/@kalofollow/p/8m7dxtN",
@@ -4223,6 +4429,7 @@
   "completedRunIds": [
     "43834245315",
     "43855823951",
-    "43972515161"
+    "43972515161",
+    "44012759604"
   ]
 }
