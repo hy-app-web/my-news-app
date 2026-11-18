@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-18T10:56:48+00:00",
+  "updatedAt": "2026-11-18T22:47:26+00:00",
   "articles": [
+    {
+      "id": "0fd371b8296e0deed013",
+      "title": "Suicaの新キャラクターが毒ウサギになったことに引いている選考委員のコメントに「大阪万博の何を見てたんだよｗ」「お前が始めた物語だろ定期」などの声",
+      "url": "https://togetter.com/li/2772166",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-18T19:41:58+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "32955f3eecbcb1678d0e",
+      "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
+      "url": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-18T16:38:39+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "c893cce644d6d68136a9",
+      "title": "NGINX2Root by Xint — From nginx visitor to root of the server host",
+      "url": "https://nginx2root.com/",
+      "source": "nginx2root.com",
+      "publishedAt": "2026-11-18T15:34:40+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "8ca512ba6dcb08ad17a5",
+      "title": "【Hothotレビュー】 デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較",
+      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T14:55:06+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "33ba0720472d34ffc090",
+      "title": "「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2157510.html",
+      "source": "forest.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T10:29:18+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
     {
       "id": "6dac1f01f71933a49fc8",
       "title": "歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット | NHKニュース",
@@ -9,6 +59,36 @@
       "publishedAt": "2026-11-18T10:09:16+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "6fa9e3f6d75aea62140e",
+      "title": "アラスカ州上院選で民主ペルトラ氏勝利 米中間選挙の全議席確定",
+      "url": "https://www.afpbb.com/articles/-/3663082",
+      "source": "www.afpbb.com",
+      "publishedAt": "2026-11-18T09:13:33+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "5895dcde2c64ecd243fc",
+      "title": "ペロブスカイト原料のヨウ素、30年に4割増産 埋蔵量首位の日本が先手 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC125H20S6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-18T09:12:08+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "d70a17db86fe8540c94c",
+      "title": "コスプレイヤー伊織もえ、Anthropic社の新規公開株購入を申し込み「Claudeをたくさん使ってるので」",
+      "url": "https://kai-you.net/article/97192",
+      "source": "kai-you.net",
+      "publishedAt": "2026-11-18T09:05:58+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -23,6 +103,37 @@
       ]
     },
     {
+      "id": "e26626f447bc29a770b9",
+      "title": "「民主主義の時代は終わった」NZ最大都市の市長、中国の一党支配体制を称賛",
+      "url": "https://www.afpbb.com/articles/-/3663064",
+      "source": "www.afpbb.com",
+      "publishedAt": "2026-11-18T08:20:34+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a94c503a5bd32d0cf503",
+      "title": "同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157394.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T07:27:28+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "192f218d76c20d032571",
+      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBCニュース",
+      "url": "https://www.bbc.com/japanese/articles/ck053pge55m6o",
+      "source": "www.bbc.com",
+      "publishedAt": "2026-11-18T07:12:32+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "4ec5f21041276c945bf6",
       "title": "Gemini、予約や買い物を代行する「タスク」機能。日本でも無料で利用可能",
       "url": "https://pc.watch.impress.co.jp/docs/news/2157423.html",
@@ -30,6 +141,17 @@
       "publishedAt": "2026-11-18T06:06:55+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "31ccd43f8775383eafec",
+      "title": "9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157448.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T06:05:34+00:00",
+      "topics": [
+        "AI",
+        "バズ"
       ]
     },
     {
@@ -76,6 +198,16 @@
       ]
     },
     {
+      "id": "b71a0e969474926197ec",
+      "title": "高級住宅地で増えている“異変” サカナクション山口が疑問「表札のところに…」「あれなんなん？」",
+      "url": "https://sirabee.com/2026/11/17/20163598962/",
+      "source": "sirabee.com",
+      "publishedAt": "2026-11-18T04:48:18+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "d3fdece6a1c6dfd1ac41",
       "title": "未成年の電動モビリティー事故、3カ月ごとに15～33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003265/",
@@ -93,6 +225,16 @@
       "publishedAt": "2026-11-18T02:52:48+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "71b30879a6c7affc6719",
+      "title": "日刊おもらしニュース | ナルエビちゃんの個人情報漏洩まとめ",
+      "url": "https://omorashi.nullevi.app/",
+      "source": "omorashi.nullevi.app",
+      "publishedAt": "2026-11-18T02:52:10+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -118,6 +260,16 @@
       ]
     },
     {
+      "id": "742804a05ec181791ccf",
+      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+      "source": "k-tai.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T01:35:05+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "03c08c858271830e0a3f",
       "title": "『パスタ界の揖保乃糸』ポジションと言われているBarilla(バリラ)を買って食べてみた「初めて揖保乃糸の黒帯を食べた時位の驚き」",
       "url": "https://togetter.com/li/2771842",
@@ -126,6 +278,16 @@
       "topics": [
         "バズ",
         "グルメ"
+      ]
+    },
+    {
+      "id": "0d43bdaa596039871102",
+      "title": "モスフード中村栄輔社長「食品減税、店内・持ち帰りの一物一価対応難しい」 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC108DU0Q6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-18T01:25:09+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -221,6 +383,36 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "d36d391009def9ea6546",
+      "title": "【横須賀中央】天国 中央駅前店｜昼飲み4軒目！名物手羽唐揚げで大満足",
+      "url": "https://waraibuta2.blog.fc2.com/blog-entry-5085.html",
+      "source": "waraibuta2.blog.fc2.com",
+      "publishedAt": "2026-11-17T21:22:05+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "e3818995bb0bd4178f74",
+      "title": "『【ダイソー】たまご１個でおいしく本格中華』",
+      "url": "https://ameblo.jp/miyurebaba/entry-12984774320.html",
+      "source": "ameblo.jp",
+      "publishedAt": "2026-11-17T21:18:00+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "9ae1a733f3ba4a9ab0ba",
+      "title": "登録者数60万人超、YouTube「有隣堂しか知らない世界」はどう生まれた？ “超自由“な運営を後押しする社長の一言",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/18/news042.html",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-17T20:48:52+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -427,6 +619,16 @@
       "publishedAt": "2026-11-17T08:40:46+00:00",
       "topics": [
         "東京"
+      ]
+    },
+    {
+      "id": "e2ece56d8c9789d80898",
+      "title": "【ブレイン地震予報】関東東部でＭ７級大地震を予報中 茨城県又は千葉県を中心に首都直下地震の可能性",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000154247.html",
+      "source": "prtimes.jp",
+      "publishedAt": "2026-11-17T08:34:55+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -5263,6 +5465,7 @@
     "44069384634",
     "44193603038",
     "44233179478",
-    "44290099931"
+    "44290099931",
+    "44414873636"
   ]
 }
