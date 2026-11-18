@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-11-18T03:50:26+00:00",
+  "updatedAt": "2026-11-18T10:56:48+00:00",
   "articles": [
+    {
+      "id": "6dac1f01f71933a49fc8",
+      "title": "歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77513",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-18T10:09:16+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "491337445815250d8dcb",
+      "title": "防衛費圧縮を企業に伝達、防衛省 業界反発「はしご外し」 | NEWSjp",
+      "url": "https://news.jp/i/1495697429729739005",
+      "source": "news.jp",
+      "publishedAt": "2026-11-18T08:55:55+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "4ec5f21041276c945bf6",
+      "title": "Gemini、予約や買い物を代行する「タスク」機能。日本でも無料で利用可能",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157423.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T06:06:55+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "e7f504870015c6840c6a",
+      "title": "AIで作った曲にMVも生成 AI音楽のSunoが新機能「Visuals」を公開",
+      "url": "https://japan.cnet.com/article/35255083/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-18T06:00:34+00:00",
+      "topics": [
+        "AI",
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "6bb11927bab8cd9e726d",
+      "title": "社会人野球部はなんのためにあるのか｜ぬかてぃ",
+      "url": "https://note.com/nursing/n/n9344147b89d0",
+      "source": "note.com",
+      "publishedAt": "2026-11-18T05:54:35+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "23add68aad524bbf86db",
+      "title": "小学校のバスの席決めで先生が好きな人とペアを組むように指示、一人でも嫌な気持ちになったら先生がランダムに決めるという条件、最終的にランダムになる→解釈が分かれる",
+      "url": "https://togetter.com/li/2771935",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-18T05:32:16+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "4e799b4025d3e1884787",
+      "title": "Suicaペンギンの後継キャラはB案「紫のうさぎ」に 愛称募集を開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157432.html",
+      "source": "www.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T05:20:59+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
     {
       "id": "d3fdece6a1c6dfd1ac41",
       "title": "未成年の電動モビリティー事故、3カ月ごとに15～33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析",
@@ -12,11 +86,32 @@
       ]
     },
     {
+      "id": "9558d849b7062d28e65b",
+      "title": "メモリ不足でAppleがSamsungと異例の4年間にわたるDRAM長期供給契約を締結へ、メモリメーカー優位の市場に",
+      "url": "https://gigazine.net/news/20261118-apple-samsung-dram/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-18T02:52:48+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "0d93726e7b8cc0016030",
       "title": "餃子の王将、営業利益42.3％減。5度の値上げで炒飯495円⇨693円に「仕方ない」「もう庶民の王将では…」の声も（ハフポスト日本版） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/3b25c3918195d0e87e1eba17f611a54c84a7d50a",
       "source": "news.yahoo.co.jp",
       "publishedAt": "2026-11-18T02:11:44+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "189df489a78a7e9f39a5",
+      "title": "「INFOBAR ZERO」をau Flex Styleから12月25日に発売 | KDDI ニュースルーム",
+      "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html",
+      "source": "newsroom.kddi.com",
+      "publishedAt": "2026-11-18T01:39:09+00:00",
       "topics": [
         "ビジネス",
         "バズ"
@@ -34,11 +129,43 @@
       ]
     },
     {
+      "id": "bd2ae089c439f2388e13",
+      "title": "Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/18/5756.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-18T00:39:38+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
       "id": "94ff5ddaf402bcfb28e0",
       "title": "OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」",
       "url": "https://forest.watch.impress.co.jp/docs/news/2157295.html",
       "source": "forest.watch.impress.co.jp",
       "publishedAt": "2026-11-18T00:29:45+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "55d317605ca2458f956f",
+      "title": "置き配、玄関前に荷物で「配達完了」 トラブル相次ぎ国交省が指針 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA122I00S6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-17T23:43:30+00:00",
+      "topics": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "id": "a57ca1bb9b9a277e6b5d",
+      "title": "「非公開APIだから安全」はもう通用しない AIが変える脆弱性発見の常識",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news009.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "publishedAt": "2026-11-17T23:33:26+00:00",
       "topics": [
         "AI"
       ]
@@ -55,6 +182,16 @@
       ]
     },
     {
+      "id": "a52a33f154433f344e6d",
+      "title": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる",
+      "url": "https://gigazine.net/news/20261118-sheep-grazing-solar-fields-gains/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-17T23:06:13+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "b8217f4ca5753a226d66",
       "title": "高支持率の理由は｢実績｣ではない…｢いわば高市バブル｣人気の裏で数年後の日本経済に待ち受ける\"巨大な痛手\"",
       "url": "https://president.jp/articles/-/122290",
@@ -63,6 +200,16 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "b1e28bceac00a1a9c0fb",
+      "title": "【西川和久の不定期コラム】 1行頼むだけで東京駅の空撮CGができた！「Muse」にBlenderを操作させた件",
+      "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2156976.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-17T22:23:41+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -233,6 +380,16 @@
       ]
     },
     {
+      "id": "b79ab85b81843d686af0",
+      "title": "Actual curl rewrites in rust",
+      "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
+      "source": "daniel.haxx.se",
+      "publishedAt": "2026-11-17T09:33:15+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "54bfbc5de400c5f8221a",
       "title": "楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性",
       "url": "https://www.watch.impress.co.jp/docs/news/2157207.html",
@@ -344,6 +501,16 @@
       ]
     },
     {
+      "id": "e59925d40c3b3055ce44",
+      "title": "ハウス食品Gの「ココイチ」売却、KKRに優先交渉権 1700億円規模 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC174P40X11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-17T06:50:37+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "6fec6b008d8eef42889c",
       "title": "ドバイでトヨタ車の購入時、納車日にスタッフから「チョコレート持って来て」と言われて持って行ったら「ありがとう」とチョコレートを取られた→チップ？慣習？謎すぎる",
       "url": "https://togetter.com/li/2771488",
@@ -383,6 +550,17 @@
       "publishedAt": "2026-11-17T05:36:11+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "f6ea3c9b362bef883b54",
+      "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita",
+      "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
+      "source": "qiita.com",
+      "publishedAt": "2026-11-17T05:33:02+00:00",
+      "topics": [
+        "AI",
+        "バズ"
       ]
     },
     {
@@ -1505,6 +1683,16 @@
       ]
     },
     {
+      "id": "e37bfa8b54cb5df942bc",
+      "title": "本郷台 横浜家系ラーメン 本郷家 - Trip to the Waterside 〜梅のいい釣り夢気分〜",
+      "url": "https://watershapedbox.hatenablog.com/entry/2026/11/16/080000",
+      "source": "watershapedbox.hatenablog.com",
+      "publishedAt": "2026-11-15T23:05:03+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "c811ccec6cbe0b197a4e",
       "title": "GPTって教えないくせに根掘り葉掘り聞くよね",
       "url": "https://anond.hatelabo.jp/20261116035910",
@@ -1553,6 +1741,26 @@
       "publishedAt": "2026-11-15T22:07:03+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "7647a612bdaf1d742e13",
+      "title": "【中華一 龍王(横浜市・横浜駅)】行列のできる人気町中華！具沢山の龍王ラーメン - やまげんの食べ歩きブログ",
+      "url": "https://yamagenn224.hatenablog.com/entry/2026/11/15/190154",
+      "source": "yamagenn224.hatenablog.com",
+      "publishedAt": "2026-11-15T22:03:10+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "876f5a6b5f274dfaf93a",
+      "title": "徳島ラーメン人生 - 自己満喫日記『その日暮らしのアリエッティ』",
+      "url": "https://oichirokyotei.hatenablog.com/entry/2026/11/16/%E5%BE%B3%E5%B3%B6%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%BA%E7%94%9F",
+      "source": "oichirokyotei.hatenablog.com",
+      "publishedAt": "2026-11-15T22:01:09+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -5054,6 +5262,7 @@
     "44012759604",
     "44069384634",
     "44193603038",
-    "44233179478"
+    "44233179478",
+    "44290099931"
   ]
 }
