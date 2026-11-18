@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-11-17T22:48:40+00:00",
+  "updatedAt": "2026-11-18T03:50:26+00:00",
   "articles": [
+    {
+      "id": "d3fdece6a1c6dfd1ac41",
+      "title": "未成年の電動モビリティー事故、3カ月ごとに15～33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003265/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-18T03:06:54+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "0d93726e7b8cc0016030",
+      "title": "餃子の王将、営業利益42.3％減。5度の値上げで炒飯495円⇨693円に「仕方ない」「もう庶民の王将では…」の声も（ハフポスト日本版） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/3b25c3918195d0e87e1eba17f611a54c84a7d50a",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-18T02:11:44+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "03c08c858271830e0a3f",
+      "title": "『パスタ界の揖保乃糸』ポジションと言われているBarilla(バリラ)を買って食べてみた「初めて揖保乃糸の黒帯を食べた時位の驚き」",
+      "url": "https://togetter.com/li/2771842",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-18T01:25:14+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "94ff5ddaf402bcfb28e0",
+      "title": "OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2157295.html",
+      "source": "forest.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T00:29:45+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "935ffb89ab0515223e23",
+      "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+      "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+      "source": "www.publickey1.jp",
+      "publishedAt": "2026-11-17T23:16:58+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b8217f4ca5753a226d66",
+      "title": "高支持率の理由は｢実績｣ではない…｢いわば高市バブル｣人気の裏で数年後の日本経済に待ち受ける\"巨大な痛手\"",
+      "url": "https://president.jp/articles/-/122290",
+      "source": "president.jp",
+      "publishedAt": "2026-11-17T22:52:00+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "e80da8187920bf85459e",
+      "title": "スパイ疑惑美女のアリス・ファン氏がアイドル化 中国のネット世論は「よくやった」と称賛 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD160IE0W6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-17T22:10:28+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
     {
       "id": "12c408e110d434adf70f",
       "title": "「消えた神社を探しに行きます」一度参拝したがその後“消えた神社”を本人が再び見つけたらトンデモナイことが起きたと報告…もはやネタに思えるが本人は真剣な顔つき",
@@ -12,6 +87,16 @@
       ]
     },
     {
+      "id": "0fb76b8d23388056a440",
+      "title": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "source": "openai.com",
+      "publishedAt": "2026-11-17T18:00:19+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
       "id": "0ccd6f61e905aacb1905",
       "title": "GLITCH WITCH - 第３話 眠る者 眠らぬ者 眠れぬ者② | ヤンマガWeb",
       "url": "https://yanmaga.jp/viewer/comics/GLITCH_WITCH/c6341c81d990b70e21bd4a32605e6a92?cid=06A0000000001057767T",
@@ -19,6 +104,27 @@
       "publishedAt": "2026-11-17T16:43:50+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "3833e7957fd33ba5d391",
+      "title": "「AIで。（顔写真は）イメージです」物議醸した兵庫・尼崎市議補欠選挙のポスター 直撃取材にキーパーソンが認める 選管は「表現の自由あり指摘できない」 専門家「技術の発展と公選法のいたちごっこ続く」",
+      "url": "https://www.ktv.jp/news/articles/?id=31012",
+      "source": "www.ktv.jp",
+      "publishedAt": "2026-11-17T16:20:47+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "dddd6720995e3e70c383",
+      "title": "2026年11月17日(火) 夕飯🎵 : Cook Channel 841",
+      "url": "http://blog.livedoor.jp/yk841/archives/97997120.html",
+      "source": "blog.livedoor.jp",
+      "publishedAt": "2026-11-17T15:16:25+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -33,6 +139,17 @@
       ]
     },
     {
+      "id": "20cd84b78ec04a5efa32",
+      "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
+      "url": "https://note.com/wakabame/n/nc76b65a187bb",
+      "source": "note.com",
+      "publishedAt": "2026-11-17T13:10:43+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
       "id": "88d73559c9aca7173526",
       "title": "カンファレンスノベルティの話から考える、技術カンファレンスの続け方 - 941::blog",
       "url": "https://blog.kushii.net/archives/2026/11/17/211328",
@@ -40,6 +157,16 @@
       "publishedAt": "2026-11-17T12:15:20+00:00",
       "topics": [
         "イベント"
+      ]
+    },
+    {
+      "id": "80bd716ee3c53b3365b5",
+      "title": "出版取次のトーハン、取引条件見直し「年度内に全2000社に打診」 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC1775S0X11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-17T11:39:31+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -136,6 +263,16 @@
       ]
     },
     {
+      "id": "2ca3b65fcc9bafb33d81",
+      "title": "東京 葛飾区 住宅街にシカ出没 7時間あまり後に捕獲 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77219",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-17T08:40:46+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
       "id": "ed1de5de3ee236f11437",
       "title": "大河原克行のNewsInsight(481) 「バザールでござーる」は今月中に引退、最後のコンテンツ配布で思うところ",
       "url": "https://news.mynavi.jp/article/newsinsight-481/",
@@ -144,6 +281,26 @@
       "topics": [
         "ビジネス",
         "バズ"
+      ]
+    },
+    {
+      "id": "ccd53e589e8b195bc596",
+      "title": "Apple、自立型AIエージェントによる情報漏洩やプライバシー侵害のリスクに対し、macOS 27.3 Golden Gate Beta 2で、フルディスクアクセスの細分化やアプリのアクセス許可の明示化などを開始。",
+      "url": "https://applech2.com/archives/20261117-apple-strengthens-macos-security-against-risks-from-ai-agents.html",
+      "source": "applech2.com",
+      "publishedAt": "2026-11-17T07:32:46+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "a7a2c5c4662bb7d5dfb6",
+      "title": "暖房の代わりにもなる着る毛布のおすすめ5選！無印良品やニトリなど暖かく機能性◎ - ソレドコ",
+      "url": "https://soredoko.jp/entry/2026/11/17/160000",
+      "source": "soredoko.jp",
+      "publishedAt": "2026-11-17T07:30:10+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -261,6 +418,16 @@
       ]
     },
     {
+      "id": "b1130f28755ad9ffaa84",
+      "title": "OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始",
+      "url": "https://gigazine.net/news/20261117-openai-child-safety/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-17T05:06:32+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "ad45fcc6d003f40d686d",
       "title": "【千葉/我孫子】LAVO FAMILY DINING（バナナの葉の香りに全身がとろける！）スリランカ料理ランチ【スリランカ料理】 - 【厳選】いばちばグルメ～茨城千葉グルメ穴場～",
       "url": "https://ibachiba.hateblo.jp/entry/20261117/1794888279",
@@ -276,6 +443,16 @@
       "url": "https://www.okinawatimes.co.jp/articles/-/1967689",
       "source": "www.okinawatimes.co.jp",
       "publishedAt": "2026-11-17T04:55:25+00:00",
+      "topics": [
+        "沖縄"
+      ]
+    },
+    {
+      "id": "81583073b44cfeeb8d2d",
+      "title": "激動期の安保：「駐屯地が標的」でぼやけた最新鋭長射程ミサイルの重要な課題 | 毎日新聞",
+      "url": "https://mainichi.jp/articles/20261114/k00/00m/010/187000c",
+      "source": "mainichi.jp",
+      "publishedAt": "2026-11-17T04:35:03+00:00",
       "topics": [
         "沖縄"
       ]
@@ -354,6 +531,16 @@
       ]
     },
     {
+      "id": "466b79307745ffba8bb1",
+      "title": "閲覧履歴や購入履歴などをもとに商品の値段を客ごとに変える「監視型価格設定」を禁止する法案をニューヨーク市議会が可決",
+      "url": "https://gigazine.net/news/20261117-nyc-surveillance-pricing-ban/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-17T02:50:13+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "247e617c4f97f89e6089",
       "title": "開発進捗は富士山の7合目、7つのカメラのみでハイブリッド車でのレベル2＋＋自動運転を実現 トヨタの最新開発実験車に北米で同乗",
       "url": "https://car.watch.impress.co.jp/docs/news/2156901.html",
@@ -379,6 +566,16 @@
       "url": "https://blog.asial.co.jp/7133/",
       "source": "blog.asial.co.jp",
       "publishedAt": "2026-11-17T02:11:59+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "b1d5d1911de91e5078c1",
+      "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-17T01:54:43+00:00",
       "topics": [
         "AI"
       ]
@@ -566,6 +763,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "bb316b2164cc57fb205c",
+      "title": "自民・麻生太郎副総裁「威圧しても効き目がない状況を」 経済的威圧強める中国念頭に",
+      "url": "https://www.sankei.com/article/20261116-IIEHFNGCXFIHRNDHUAG2PU5PWI/?outputType=asynd",
+      "source": "www.sankei.com",
+      "publishedAt": "2026-11-16T12:28:25+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -4846,6 +5053,7 @@
     "43972515161",
     "44012759604",
     "44069384634",
-    "44193603038"
+    "44193603038",
+    "44233179478"
   ]
 }
