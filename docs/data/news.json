@@ -1,6 +1,123 @@
 {
-  "updatedAt": "2026-11-19T10:56:29+00:00",
+  "updatedAt": "2026-11-19T22:43:43+00:00",
   "articles": [
+    {
+      "id": "093f8ad11b60659972e4",
+      "title": "[21話]世界を繋ぎ尽くすインターネット巫女 - コガッツオ/木野イチカ | 少年ジャンプ＋",
+      "url": "https://shonenjumpplus.com/episode/9253191257982514161",
+      "source": "shonenjumpplus.com",
+      "publishedAt": "2026-11-19T15:01:45+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "98903d8f646e91486383",
+      "title": "Agenship — Software FactoryであなたのチームにAIの開発ラインを",
+      "url": "https://agenship.ai/",
+      "source": "agenship.ai",
+      "publishedAt": "2026-11-19T12:07:58+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "ab88b920a2b7fcd9db5a",
+      "title": "ソフトウェアダークファクトリー | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-16073-9",
+      "source": "gihyo.jp",
+      "publishedAt": "2026-11-19T11:56:11+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "9840afbb12e0a64a4eec",
+      "title": "「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」",
+      "url": "https://togetter.com/li/2772442",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-19T11:53:12+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "b08fbfe888949beee271",
+      "title": "AIモデル顔データベース",
+      "url": "https://ai-portrait-gallery.pages.dev/",
+      "source": "ai-portrait-gallery.pages.dev",
+      "publishedAt": "2026-11-19T10:30:08+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "307d326c941b45a456bd",
+      "title": "「働いても、報われない」 中間層にいま何が | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78318",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-19T09:57:35+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "9ed0c70df7e4b77e5cd3",
+      "title": "女も自立しろじゃないんだよ。種の保存のために子を宿す器の機能を持たせ、育児をする本能も持たせ、はい「男と同じように働け」は無理。→「男性が女性と同じだけ家事育児介護したら、おそらく女性は男性と同じだけ働けるのではないでしょうか。」",
+      "url": "https://posfie.com/@_vO____Ov_/p/PtNbsxh",
+      "source": "posfie.com",
+      "publishedAt": "2026-11-19T09:47:29+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "2c49e6ec85d80f5575f3",
+      "title": "「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測",
+      "url": "https://ascii.jp/elem/000/004/452/4452982/",
+      "source": "ascii.jp",
+      "publishedAt": "2026-11-19T09:44:51+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "f0a169aed166dbda29bb",
+      "title": "Google「Gemini 4 Neon」公開、Carbonより1タスク32%安い中位モデル Geminiアプリは有料プランで選択可能 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/19/5766.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-19T09:07:30+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "fb87bc23e7ffa36e0524",
+      "title": "麺や勝治@関内 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35354830/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-19T08:52:05+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "28a97c1d7812d39f1db6",
+      "title": "いいか？バーガーキングのはこう“剥く”んだよ「これまじで食べやすくなる」「えぐい有益情報」",
+      "url": "https://togetter.com/li/2772392",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-19T08:25:14+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
     {
       "id": "324fb8be8c7a2dbf6158",
       "title": "【重要】「WIXOSS」今後の商品展開および関連サービスに関するお知らせ - WIXOSS-ウィクロス-｜タカラトミー",
@@ -14,6 +131,16 @@
       ]
     },
     {
+      "id": "b6a4f29b23b4fbb45797",
+      "title": "OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発",
+      "url": "https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-19T08:01:57+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "88f9c4186fe3779e7153",
       "title": "【速報】高市首相は、台湾に対する日本の立場について「日中共同声明の通りで、この立場に一切の変更はない」と述べた：時事ドットコム",
       "url": "https://www.jiji.com/jc/article?g=flash&k=2026111900806",
@@ -22,6 +149,16 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "8a1bc6c3a0bed6a26090",
+      "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
+      "url": "https://www.afpbb.com/articles/-/3663259",
+      "source": "www.afpbb.com",
+      "publishedAt": "2026-11-19T07:54:32+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -121,6 +258,26 @@
       ]
     },
     {
+      "id": "9d1e1863a64255f47676",
+      "title": "【見逃し厳禁】有機JAS認証の贅沢な味わい。スペイン産「果＋実 ＫＡＴＡＳＵＭＩ」ピンクグレープフルーツジュースが今ならお買い得 | 激安特価速報！お得なタイムセール&クーポン情報ブログ",
+      "url": "https://time-sale-coupon.1q10a.net/2026/11/19/b0dq49s2tp-2/",
+      "source": "time-sale-coupon.1q10a.net",
+      "publishedAt": "2026-11-19T03:34:37+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "d425112db14bbeea3607",
+      "title": "コロナ禍以来の消費冷え込み受け「サナエ禍」の声 SNSでじわじわ広がる新たな言葉",
+      "url": "https://www.j-cast.com/2026/11/19519280.html?p=all",
+      "source": "www.j-cast.com",
+      "publishedAt": "2026-11-19T03:34:16+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "c8715fe9650e751395b4",
       "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
@@ -181,6 +338,16 @@
       ]
     },
     {
+      "id": "e30bc4d979dd2f664d45",
+      "title": "新型トヨタ カローラデッキ登場！ カローラシリーズの新提案に迫る──GQ新着カー",
+      "url": "https://www.gqjapan.jp/article/20261119-toyota-corolla-deck-news",
+      "source": "www.gqjapan.jp",
+      "publishedAt": "2026-11-19T01:08:50+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "6aee09e0e6cc4bca7197",
       "title": "アンソロピックIPO、公開価格は83ドル 評価額240兆円企業に（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/deaea4a9c3dbb37f9fbd82117f97e21be9ebca5f",
@@ -188,6 +355,16 @@
       "publishedAt": "2026-11-19T01:04:22+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "4534313bad8da62ac45f",
+      "title": "「麻薬みたいにやめられない」ガソリン・電気・ガス補助に約17兆円「1日100億円超の税金」“激変緩和”も高市総理は“出口”を描けるか | TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3096139",
+      "source": "newsdig.tbs.co.jp",
+      "publishedAt": "2026-11-19T00:55:42+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -252,6 +429,16 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "0784c8116bfaf2731a7a",
+      "title": "今日の料理 第195回 2026/10/23～10/26",
+      "url": "https://fairysbible.com/blog-entry-6706.html",
+      "source": "fairysbible.com",
+      "publishedAt": "2026-11-18T20:29:14+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -359,6 +546,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "ac1d5f3805fddddb5245",
+      "title": "孫正義氏が明かす、アンソロピック出資見送りの舞台裏 「僕の失敗」「あん時入れときゃよかった」",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/18/news086.html",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-18T13:14:38+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -4337,6 +4534,16 @@
       ]
     },
     {
+      "id": "bcc34bfca4ba5fecf385",
+      "title": "【東京ドーム・Ｋアリーナ・京セラなど２０会場】岐阜・名古屋「ライブ遠征」日帰りデッドライン 新幹線に間に合う終演時間は？ | 岐阜新聞デジタル",
+      "url": "https://www.gifu-np.co.jp/articles/-/794440",
+      "source": "www.gifu-np.co.jp",
+      "publishedAt": "2026-11-11T05:04:38+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
       "id": "79e7c999ad94d6b85107",
       "title": "「京都駅で宿が取れないなら大津駅がおすすめ」というと、外野から「県外勧めるとかw」とバカにする人がいるが、実際とても近い「東京駅前が高いなら品川で探せば？と同義」",
       "url": "https://togetter.com/li/2769123",
@@ -5891,6 +6098,7 @@
     "44290099931",
     "44414873636",
     "44454367764",
-    "44510249016"
+    "44510249016",
+    "44631277832"
   ]
 }
