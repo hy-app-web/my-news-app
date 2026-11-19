@@ -1,6 +1,165 @@
 {
-  "updatedAt": "2026-11-19T03:51:59+00:00",
+  "updatedAt": "2026-11-19T10:56:29+00:00",
   "articles": [
+    {
+      "id": "324fb8be8c7a2dbf6158",
+      "title": "【重要】「WIXOSS」今後の商品展開および関連サービスに関するお知らせ - WIXOSS-ウィクロス-｜タカラトミー",
+      "url": "https://www.takaratomy.co.jp/products/wixoss/column/play_261023/",
+      "source": "www.takaratomy.co.jp",
+      "publishedAt": "2026-11-19T08:07:37+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ",
+        "イベント"
+      ]
+    },
+    {
+      "id": "88f9c4186fe3779e7153",
+      "title": "【速報】高市首相は、台湾に対する日本の立場について「日中共同声明の通りで、この立場に一切の変更はない」と述べた：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?g=flash&k=2026111900806",
+      "source": "www.jiji.com",
+      "publishedAt": "2026-11-19T08:01:44+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "6e0b838a0000cd569c51",
+      "title": "128GBメモリで120BクラスのLLMが動く！ マウスコンピューターの卓上ローカルAI向けミニPC「DAIV CX」の実力",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news047.html",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-19T07:38:47+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "26297c58821d624daba5",
+      "title": "複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待―",
+      "url": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-19-001",
+      "source": "www.t.u-tokyo.ac.jp",
+      "publishedAt": "2026-11-19T07:06:05+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "c3598f779328ea37af9f",
+      "title": "決算:JT、ロシア事業損失で1兆3860億円下方修正 子会社の支配喪失で - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB196SK0Z11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-19T06:46:02+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "45f24e8484eccc8fa069",
+      "title": "Apple、自然言語で指示するだけで画像を変更できる塗りつぶしを生成機能を実装した「Pielmator Pro v5.0 for Mac/iPad」を公開。AIプロバイダはGoogleを採用。",
+      "url": "https://applech2.com/archives/20261119-pixelmator-pro-v5-generate-fill.html",
+      "source": "applech2.com",
+      "publishedAt": "2026-11-19T06:26:45+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "b3cc79ccc573273134bb",
+      "title": "初代「シムシティ」のソースコードを解析して判明した高評価の都市を作るための意外な条件とは？",
+      "url": "https://gigazine.net/news/20261119-simcity-high-score/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-19T06:26:12+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "2cc4397dd23b1f9132a4",
+      "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
+      "url": "https://togetter.com/li/2772319",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-19T05:30:10+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "780bd9c4d5998994186c",
+      "title": "アンソロピック240兆円上場へ、既存株は7.2倍 Amazonが最大株主 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN1851O0Y6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-19T04:29:54+00:00",
+      "topics": [
+        "AI",
+        "経済"
+      ]
+    },
+    {
+      "id": "dffa4ea4de72d6adb74a",
+      "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億円かけたのに業績が低迷してしまうが、その食レポが惨憺たる酷評",
+      "url": "https://togetter.com/li/2772314",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-19T03:38:19+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "fdde81515f6155a54ec0",
+      "title": "ちいかわ オリジナル寿司皿 LINE抽選プレゼント！｜おすすめ情報｜くら寿司 ホームページ",
+      "url": "https://www.kurasushi.co.jp/topic/009011.html",
+      "source": "www.kurasushi.co.jp",
+      "publishedAt": "2026-11-19T03:36:22+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "c8715fe9650e751395b4",
+      "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-19T03:20:46+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "0894c05789024fd19570",
+      "title": "Carbonより25%安く、AA IndexはOpus 5.5超え。Gemini 4 Neon",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-19T03:16:55+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "7242b9fc66f5acde3bb7",
+      "title": "ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-19T03:03:35+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "f67e4a4d5ec2effd4540",
+      "title": "Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」 一部「Fable同等」性能をコスト半分で",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-19T02:39:37+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
     {
       "id": "b3e2a92ed2586276ec42",
       "title": "吉野家で牛すき鍋膳+ファミリーパック4人前を注文、厨房ザワザワ…店員「一名様ですよね？ご注文内容が合計5人前ですが大丈夫ですか？」と尋ねられ、大丈夫と返事→完食",
@@ -43,6 +202,16 @@
       ]
     },
     {
+      "id": "0f487f741b28aeccf577",
+      "title": "Google「TPU v3」の実物ボードを展示、時代を彩った半導体チップが一堂に集結 EdgeTech+ 2026",
+      "url": "https://news.mynavi.jp/techplus/article/20261119-5354744/",
+      "source": "news.mynavi.jp",
+      "publishedAt": "2026-11-18T23:53:13+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
       "id": "f539fcdaf975fdb95a5b",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
@@ -60,6 +229,17 @@
       "publishedAt": "2026-11-18T21:50:43+00:00",
       "topics": [
         "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "5aa9a47f150a367b33e3",
+      "title": "ドクターイエローの後継「ドクターS」ってどんな車両？ その全貌をJR東海に聞いた",
+      "url": "https://travel.watch.impress.co.jp/docs/news/2157043.html",
+      "source": "travel.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T21:43:24+00:00",
+      "topics": [
+        "テクノロジー",
         "バズ"
       ]
     },
@@ -264,6 +444,16 @@
       ]
     },
     {
+      "id": "4963222299bbd8820bc8",
+      "title": "ロビー活動の外国代理人、政治家接触に届け出義務 スパイ防止へ法整備 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA185DP0Y6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-18T08:09:32+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "1fa6feb845bcc5f80b68",
       "title": "性行為したことないから聞きたいんだけど",
       "url": "https://anond.hatelabo.jp/20261118164246",
@@ -416,6 +606,18 @@
       "publishedAt": "2026-11-18T02:51:04+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "3c32ad2dae6ed78f8120",
+      "title": "生成AIで個人の生産性を高めても、なぜ会社の売上は増えないのか｜松本健太郎",
+      "url": "https://comemo.nikkei.com/n/nb6e629d1a85c",
+      "source": "comemo.nikkei.com",
+      "publishedAt": "2026-11-18T02:19:14+00:00",
+      "topics": [
+        "AI",
+        "ビジネス",
+        "バズ"
       ]
     },
     {
@@ -1077,6 +1279,16 @@
       "publishedAt": "2026-11-17T03:06:15+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "e05113dd93de96d90267",
+      "title": "Software is breaking down at a systemic level | Jimmy Breck-McKye",
+      "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+      "source": "www.breck-mckye.com",
+      "publishedAt": "2026-11-17T03:05:41+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -5678,6 +5890,7 @@
     "44233179478",
     "44290099931",
     "44414873636",
-    "44454367764"
+    "44454367764",
+    "44510249016"
   ]
 }
