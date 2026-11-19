@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-11-18T22:47:26+00:00",
+  "updatedAt": "2026-11-19T03:51:59+00:00",
   "articles": [
+    {
+      "id": "b3e2a92ed2586276ec42",
+      "title": "吉野家で牛すき鍋膳+ファミリーパック4人前を注文、厨房ザワザワ…店員「一名様ですよね？ご注文内容が合計5人前ですが大丈夫ですか？」と尋ねられ、大丈夫と返事→完食",
+      "url": "https://togetter.com/li/2772256",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-19T01:24:36+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "8b14114d232090239ba6",
+      "title": "Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2157693.html",
+      "source": "forest.watch.impress.co.jp",
+      "publishedAt": "2026-11-19T01:16:50+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "6aee09e0e6cc4bca7197",
+      "title": "アンソロピックIPO、公開価格は83ドル 評価額240兆円企業に（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/deaea4a9c3dbb37f9fbd82117f97e21be9ebca5f",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-19T01:04:22+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "9286f98a5cbbeb7f9593",
+      "title": "四ツ谷駅の“除草ヤギ“が「早期退職」へ 想定超える速さで職務完了：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCL1W72VCLDIFI00XM.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-19T00:10:06+00:00",
+      "topics": [
+        "バズ",
+        "東京"
+      ]
+    },
+    {
+      "id": "f539fcdaf975fdb95a5b",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "source": "blog.google",
+      "publishedAt": "2026-11-18T22:21:08+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "871314f9ee0f9dc10fee",
+      "title": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-18T21:50:43+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "0c70064fa1a9f66b3c8e",
+      "title": "Web連載の「休載お詫びイラスト」の必要性への漫画家の答えに納得「原稿料が出るから」…信用審査的にも無収入の月がないのが大事",
+      "url": "https://togetter.com/li/2772229",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-18T20:29:35+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "99f6b5e1393b31f9eacc",
+      "title": "実質的無職になった｜Y.Hirano",
+      "url": "https://note.com/y_hirano/n/nc986ab18b90e",
+      "source": "note.com",
+      "publishedAt": "2026-11-18T19:58:08+00:00",
+      "topics": [
+        "AI",
+        "バズ",
+        "東京"
+      ]
+    },
     {
       "id": "0fd371b8296e0deed013",
       "title": "Suicaの新キャラクターが毒ウサギになったことに引いている選考委員のコメントに「大阪万博の何を見てたんだよｗ」「お前が始めた物語だろ定期」などの声",
@@ -22,12 +107,35 @@
       ]
     },
     {
+      "id": "daa4542b21d18ff84894",
+      "title": "高市首相にはわずかな出迎え 歓迎に温度差、中国が日本に強い不満：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCL44BSVCLUTFK01DM.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-18T16:23:48+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
       "id": "c893cce644d6d68136a9",
       "title": "NGINX2Root by Xint — From nginx visitor to root of the server host",
       "url": "https://nginx2root.com/",
       "source": "nginx2root.com",
       "publishedAt": "2026-11-18T15:34:40+00:00",
       "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "41ff2d370d61258824e8",
+      "title": "JR東海、リニア「静岡着工時期の見通したたず」 30年代開業は難しく - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFD1813M0Y6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-18T15:20:08+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
         "バズ"
       ]
     },
@@ -39,6 +147,38 @@
       "publishedAt": "2026-11-18T14:55:06+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "06d5163bc5b0ec7e7627",
+      "title": "2026年11月18日(水) 夕飯🎵 : Cook Channel 841",
+      "url": "http://blog.livedoor.jp/yk841/archives/97998052.html",
+      "source": "blog.livedoor.jp",
+      "publishedAt": "2026-11-18T14:54:47+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "0a5ba2537273a89e717b",
+      "title": "MUJI Card発行のクレディセゾン、カード番号削除を2度依頼 無印は実行せず",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/",
+      "source": "xtech.nikkei.com",
+      "publishedAt": "2026-11-18T14:15:39+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "52730cd80f2aedd20301",
+      "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "url": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+      "source": "www.publickey1.jp",
+      "publishedAt": "2026-11-18T14:07:11+00:00",
+      "topics": [
+        "AI",
+        "バズ"
       ]
     },
     {
@@ -59,6 +199,16 @@
       "publishedAt": "2026-11-18T10:09:16+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "a8c467bc172aa70b5b8b",
+      "title": "楽天証券、投信の他社移管を当面無料に--大規模情報漏えい公表に関連か",
+      "url": "https://japan.cnet.com/article/35255102/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-18T10:02:20+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -111,6 +261,17 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "1fa6feb845bcc5f80b68",
+      "title": "性行為したことないから聞きたいんだけど",
+      "url": "https://anond.hatelabo.jp/20261118164246",
+      "source": "anond.hatelabo.jp",
+      "publishedAt": "2026-11-18T07:44:49+00:00",
+      "topics": [
+        "バズ",
+        "イベント"
       ]
     },
     {
@@ -208,6 +369,16 @@
       ]
     },
     {
+      "id": "b0a483feb3597fbbe6ef",
+      "title": "76年間続いた社会人野球のパナソニックが休部→野球部の廃部を知らせた社長の対応を部員が疑問視、それに批判が集まる",
+      "url": "https://togetter.com/li/2771879",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-18T03:36:46+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "d3fdece6a1c6dfd1ac41",
       "title": "未成年の電動モビリティー事故、3カ月ごとに15～33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003265/",
@@ -235,6 +406,16 @@
       "publishedAt": "2026-11-18T02:52:10+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "1c4872e1168b42c05426",
+      "title": "『孤独のグルメ』原作者・久住昌之先生が、井之頭五郎のモデルになる個人輸入業者を1994年に取材した手書き資料コピーを公開「五郎さんのモデル、女性だったの！？」",
+      "url": "https://togetter.com/li/2771851",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-18T02:51:04+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -869,6 +1050,16 @@
       ]
     },
     {
+      "id": "c4dbd4f1cbefcb349455",
+      "title": "「いや、流石に刺身にマヨネーズはないだろ！？」刺身を醤油につけて食べる派を怒らせようとした韓国人、日本人の反応に困惑してしまう",
+      "url": "https://togetter.com/li/2771400",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-17T03:21:20+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "2e6aa1d88bae794c59a6",
       "title": "江夏豊さん死去 ７８歳 オールスターで９者連続三振 「江夏の２１球」…数々の逸話残した「伝説の左腕」（スポーツ報知） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/a32424defccfdaa8dde3b2e68d3a481f2b19029a",
@@ -998,6 +1189,16 @@
       "publishedAt": "2026-11-17T00:51:29+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "db4f0915fc009de20eb7",
+      "title": "「日本列島を強く豊かに！」→弱く貧しくなってしまいGDPもマイナス成長 : なんJ政治ネタまとめ",
+      "url": "https://j-seiji.blog.jp/archives/30926930.html",
+      "source": "j-seiji.blog.jp",
+      "publishedAt": "2026-11-17T00:17:01+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -1608,6 +1809,16 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "9d2339b0123aff3c7645",
+      "title": "「中国の脅威を直視しろ！！！」「平和ボケから目を覚ませ！！！」⇒「えっ、軍拡ってお金かかるんですか……？」「あっ、防衛増税はちょっと……」「誰かが無料で守ってくれるはず！！！」",
+      "url": "https://anond.hatelabo.jp/20261116120807",
+      "source": "anond.hatelabo.jp",
+      "publishedAt": "2026-11-16T03:08:22+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -5466,6 +5677,7 @@
     "44193603038",
     "44233179478",
     "44290099931",
-    "44414873636"
+    "44414873636",
+    "44454367764"
   ]
 }
