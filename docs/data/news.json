@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-11-19T22:43:43+00:00",
+  "updatedAt": "2026-11-20T03:48:52+00:00",
   "articles": [
+    {
+      "id": "2a1bc56e4b04d4eac782",
+      "title": "紅葉と紅葉 第8話",
+      "url": "https://manga-one.com/manga/28342/chapter/360559",
+      "source": "manga-one.com",
+      "publishedAt": "2026-11-20T03:31:08+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "3c8d6816f281f2c18064",
+      "title": "[第73話]やめろ好きになってしまう - もりぐちあきら | となりのヤングジャンプ",
+      "url": "https://tonarinoyj.jp/episode/12207421984504172735",
+      "source": "tonarinoyj.jp",
+      "publishedAt": "2026-11-20T03:16:01+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "5b84195c8fc87f2d9cbb",
+      "title": "「吐き気がするほどの激しい嫌悪感」#反戦ジャニオタと連帯したいという投稿に、株式会社嵐の社長がXで怒りを表明",
+      "url": "https://togetter.com/li/2772638",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T02:06:53+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "6c1189d2981becf2e44c",
+      "title": "Gender：なぜ男たちは救われないのか 「男性問題」研究者が語る30年 | 毎日新聞",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/040/187000c",
+      "source": "mainichi.jp",
+      "publishedAt": "2026-11-20T00:38:35+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "eec46bfadac3f59a5017",
+      "title": "昔付き合ってたドイツ人は7年間ずっと夕食に同じパンとチーズを食べ続けていたが、ある時日本のカレーを作ってあげたら「緑色だから食べたくない」と味も見ずに拒否された",
+      "url": "https://togetter.com/li/2772602",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T00:30:04+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "4d7841e81107143cc4b4",
+      "title": "高齢化する〝大学教員〟40歳はまだ「若手」 教授陣は50代以上…70代の名誉教授も活躍（withnews by 朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/ae8db29dcdf61fa27132ec26ab0bca300d1ad3dd",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-20T00:01:33+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "d8be7b7d189f0551b542",
+      "title": "NYダウ1100ドル安、5万ドル割れ アンソロピック上場で換金売り - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN19CX30Z11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-19T21:53:21+00:00",
+      "topics": [
+        "AI",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b2e01effc483573b010f",
+      "title": "賞味期限切れなランチ - BESTPRICE醤油ラーメン - Soul Eyes 2nd Season",
+      "url": "https://souleyes.hatenablog.com/entry/2026/11/20/050000",
+      "source": "souleyes.hatenablog.com",
+      "publishedAt": "2026-11-19T20:01:30+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "886fddec27be51b70c4e",
+      "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・インターネット回線・ウォーターサーバーの営業が20分間続いた",
+      "url": "https://togetter.com/li/2772543",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-19T16:07:09+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "6efa02315719ebf85379",
+      "title": "2026年11月19日(木) 夕飯🎵 : Cook Channel 841",
+      "url": "http://blog.livedoor.jp/yk841/archives/97999051.html",
+      "source": "blog.livedoor.jp",
+      "publishedAt": "2026-11-19T15:19:13+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
     {
       "id": "093f8ad11b60659972e4",
       "title": "[21話]世界を繋ぎ尽くすインターネット巫女 - コガッツオ/木野イチカ | 少年ジャンプ＋",
@@ -9,6 +112,28 @@
       "publishedAt": "2026-11-19T15:01:45+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "f8ee89a83ed75ddf83c1",
+      "title": "録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能",
+      "url": "https://gigazine.net/news/20261119-speech-cpp/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-19T14:07:49+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "8f5d0395ceb0aae8058a",
+      "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
+      "url": "https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
+      "source": "www.assdr.kyoto-u.ac.jp",
+      "publishedAt": "2026-11-19T13:44:45+00:00",
+      "topics": [
+        "AI",
+        "テクノロジー",
+        "バズ"
       ]
     },
     {
@@ -39,6 +164,26 @@
       "url": "https://togetter.com/li/2772442",
       "source": "togetter.com",
       "publishedAt": "2026-11-19T11:53:12+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "6b598e3c080bb09d71f3",
+      "title": "韓国の法学適性試験で満点の男性、ソウルの宿泊施設にて心停止状態で発見 - Kstyle",
+      "url": "https://kstyle.com/article.ksn?articleNo=2286592",
+      "source": "kstyle.com",
+      "publishedAt": "2026-11-19T10:55:38+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ee294d576c48445909a3",
+      "title": "creator-studio-doc-format/skills/creator-studio-doc-format/SKILL.md at main · apple/creator-studio-doc-format",
+      "url": "https://github.com/apple/creator-studio-doc-format/blob/main/skills/creator-studio-doc-format/SKILL.md",
+      "source": "github.com",
+      "publishedAt": "2026-11-19T10:49:04+00:00",
       "topics": [
         "AI"
       ]
@@ -88,6 +233,17 @@
       ]
     },
     {
+      "id": "c1cc4b04ecc012236650",
+      "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "publishedAt": "2026-11-19T09:36:30+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
       "id": "f0a169aed166dbda29bb",
       "title": "Google「Gemini 4 Neon」公開、Carbonより1タスク32%安い中位モデル Geminiアプリは有料プランで選択可能 | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/11/19/5766.html",
@@ -116,6 +272,16 @@
       "topics": [
         "バズ",
         "グルメ"
+      ]
+    },
+    {
+      "id": "52f6bc9a43b3606d3a01",
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "source": "blog.google",
+      "publishedAt": "2026-11-19T08:23:07+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -172,6 +338,16 @@
       ]
     },
     {
+      "id": "f6b3a1c5cbbcf0f2863a",
+      "title": "首都圏マンション、10月発売戸数24%減 初月契約も7年ぶり50%割れ - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC193RL0Z11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-19T07:07:53+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "26297c58821d624daba5",
       "title": "複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待―",
       "url": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-19-001",
@@ -211,6 +387,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "5ab054f6d473f599bfdf",
+      "title": "サム・アルトマンが「誰もが十分なRAMを持つべきだと考えている」と発言",
+      "url": "https://gigazine.net/news/20261119-sam-altman-ram/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-19T06:00:32+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -288,6 +474,16 @@
       ]
     },
     {
+      "id": "e4efd872620775a3f048",
+      "title": "pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─",
+      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-19T03:19:26+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "0894c05789024fd19570",
       "title": "Carbonより25%安く、AA IndexはOpus 5.5超え。Gemini 4 Neon",
       "url": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
@@ -313,6 +509,16 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/",
       "source": "www.itmedia.co.jp",
       "publishedAt": "2026-11-19T02:39:37+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "6746f6b6eafc501e220b",
+      "title": "グーグル、Geminiに作業を任せる「タスク」を日本など6カ国で無料提供 旧「Spark」を改称",
+      "url": "https://japan.cnet.com/article/35255128/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-19T02:12:48+00:00",
       "topics": [
         "AI"
       ]
@@ -6099,6 +6305,7 @@
     "44414873636",
     "44454367764",
     "44510249016",
-    "44631277832"
+    "44631277832",
+    "44670219057"
   ]
 }
