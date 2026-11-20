@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-20T10:55:36+00:00",
+  "updatedAt": "2026-11-20T22:41:43+00:00",
   "articles": [
+    {
+      "id": "f560017f1af3853b9c1b",
+      "title": "店員による不正行為が原因で中止になったくら寿司のちいかわコラボ皿が公式LINEを通じた抽選プレゼントの形に…「まだ集客に利用するの？」「処分はどうなった」など",
+      "url": "https://togetter.com/li/2773047",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T16:52:34+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "d09d58ac2ef1dbde62d4",
+      "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math | Scientific American",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "source": "www.scientificamerican.com",
+      "publishedAt": "2026-11-20T16:10:55+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "21dbc53e6f546296e653",
+      "title": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79347",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-20T11:36:50+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "541dd12a9677162c8ea1",
+      "title": "「RAMEN FACTORY TORISETSU」で鶏白湯ラーメンSPECIALを堪能！新百合ヶ丘駅南口「L-MYRORD（エルミロード）」5階・L-DININGで味わえる - ソロ活おっさんのアローン飯なび",
+      "url": "https://solomeshi.net/entry/ramen-factory-torisetsu",
+      "source": "solomeshi.net",
+      "publishedAt": "2026-11-20T11:35:31+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "9599e49c72c6e301825d",
+      "title": "丸井G、顧客情報延べ1733万件が漏洩 委託先に不正アクセス - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC209MW0Q6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-20T10:38:11+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "b310a066df7d57ccfb28",
+      "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
+      "url": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-20T10:11:37+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "94769cc53c678e98cb2b",
+      "title": "POS端末700台超がマルウェア感染、Windowsの脆弱性悪用でカード情報100万件超が流出",
+      "url": "https://news.mynavi.jp/techplus/article/20261120-5367457/",
+      "source": "news.mynavi.jp",
+      "publishedAt": "2026-11-20T09:57:14+00:00",
+      "topics": [
+        "テクノロジー",
+        "ビジネス",
+        "バズ"
+      ]
+    },
     {
       "id": "73b0447ddf4a11d5f5eb",
       "title": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
@@ -10,6 +83,26 @@
       "topics": [
         "テクノロジー",
         "バズ"
+      ]
+    },
+    {
+      "id": "3eece4888017a27405f7",
+      "title": "辺野古沖転覆事故 船長所属団体が遺族面会機に聞き取り開始 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78464",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-20T08:43:10+00:00",
+      "topics": [
+        "沖縄"
+      ]
+    },
+    {
+      "id": "02a8f3e61ee00358a557",
+      "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析 - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+      "source": "automaton-media.com",
+      "publishedAt": "2026-11-20T08:35:39+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -24,6 +117,49 @@
       ]
     },
     {
+      "id": "71add6f731fa4118affb",
+      "title": "紬@六角橋 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35355587/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-20T08:31:52+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "77d8d673d6ddd0d816ba",
+      "title": "押井守監督「装甲騎兵ボトムズ 灰色の魔女」第2作、2027年公開",
+      "url": "https://av.watch.impress.co.jp/docs/news/2158235.html",
+      "source": "av.watch.impress.co.jp",
+      "publishedAt": "2026-11-20T08:24:43+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "157907cdb25b7a5eb1fc",
+      "title": "【速報】置き配で指針案、届けた後の破損は補償不要",
+      "url": "https://www.47news.jp/15261240.html",
+      "source": "www.47news.jp",
+      "publishedAt": "2026-11-20T07:41:49+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "e0a1df612203146a9cdb",
+      "title": "アンソロピック上場、従業員のほぼ全員が「百万長者」に 「億万長者」も600人",
+      "url": "https://www.cnn.co.jp/tech/35255230.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-20T07:27:26+00:00",
+      "topics": [
+        "AI",
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
       "id": "18824b9ce02dea037ce6",
       "title": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
@@ -34,6 +170,16 @@
         "ビジネス",
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "07f15fdb17820e64d69f",
+      "title": "GeminiがMacを代わりに操作可能に アプリやファイルをまたぐ作業も自動化",
+      "url": "https://japan.cnet.com/article/35255218/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-20T06:19:30+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -102,6 +248,26 @@
       ]
     },
     {
+      "id": "369dff3d7b8a9208aaef",
+      "title": "Blueskyで投稿の閲覧数を確認できる機能のベータテストが始まる",
+      "url": "https://gigazine.net/news/20261120-bluesky-impression/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-20T03:44:18+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "e93d5e31ba76ea4ea681",
+      "title": "濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で致したみたいだった」と鑑賞者は語る",
+      "url": "https://gigazine.net/news/20261120-4dx-love-scene/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-20T03:43:56+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
       "id": "2a1bc56e4b04d4eac782",
       "title": "紅葉と紅葉 第8話",
       "url": "https://manga-one.com/manga/28342/chapter/360559",
@@ -130,6 +296,16 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "d3e9a749dda78b97f4d5",
+      "title": "紅茶はアールグレイが一番好きなんだけど、「ルピシアの」と答えると自称紅茶好きから微妙な反応されちゃうことがある…知名度があってコスパがいいから？",
+      "url": "https://togetter.com/li/2771946",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T03:00:57+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -171,6 +347,16 @@
       "publishedAt": "2026-11-20T02:06:53+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "5e9f75956a811510c690",
+      "title": "株価 3000円超の下落 AI・半導体業界の先行き懸念でほぼ全面安 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-20T01:10:40+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -244,6 +430,16 @@
       "topics": [
         "ビジネス",
         "経済"
+      ]
+    },
+    {
+      "id": "947dea021a4bbc2d7612",
+      "title": "【新宿】本格焼鳥 新宿とら屋｜新宿で楽しむ焼鳥とマッハ鶏ちゃんこ鍋",
+      "url": "https://waraibuta2.blog.fc2.com/blog-entry-5093.html",
+      "source": "waraibuta2.blog.fc2.com",
+      "publishedAt": "2026-11-19T21:28:40+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -2962,6 +3158,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "96d202e3a2207e595bca",
+      "title": "MIT Tech Review: 米国境の「見えない壁」、監視塔の範囲内で1000人以上が死亡",
+      "url": "https://www.technologyreview.jp/s/391632/the-us-spent-billions-on-border-surveillance-why-cant-it-catch-people-before-they-die/",
+      "source": "www.technologyreview.jp",
+      "publishedAt": "2026-11-15T22:32:57+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -6520,6 +6726,7 @@
     "44510249016",
     "44631277832",
     "44670219057",
-    "44723289453"
+    "44723289453",
+    "44831019162"
   ]
 }
