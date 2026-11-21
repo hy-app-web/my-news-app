@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-11-21T10:43:51+00:00",
+  "updatedAt": "2026-11-21T22:34:12+00:00",
   "articles": [
+    {
+      "id": "a985c5791549e6a7e7b7",
+      "title": "\"リーマン予想の証明\"の検証は現在どこまで進んでいるか｜加藤文元",
+      "url": "https://note.com/katobungen/n/n9c2bb939b9c7",
+      "source": "note.com",
+      "publishedAt": "2026-11-21T13:55:02+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "7f652f696b365ffa7020",
+      "title": "高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/11/21/220000",
+      "source": "nou-yunyun.hatenablog.com",
+      "publishedAt": "2026-11-21T13:20:09+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "178a5475f5f4aa4427f5",
+      "title": "ステーキ店の調理パフォーマンスで客やけど 元従業員に有罪判決",
+      "url": "https://ryukyushimpo.jp/national/entry-5609548.html",
+      "source": "ryukyushimpo.jp",
+      "publishedAt": "2026-11-21T13:01:46+00:00",
+      "topics": [
+        "バズ",
+        "沖縄"
+      ]
+    },
+    {
+      "id": "bb9feef82cc3281ea621",
+      "title": "『ももどり駅前食堂 〜盛岡市〜』",
+      "url": "https://ameblo.jp/smash036cool/entry-12982621163.html",
+      "source": "ameblo.jp",
+      "publishedAt": "2026-11-21T12:55:06+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "ad97a50df47f58eba1d9",
+      "title": "新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた",
+      "url": "https://togetter.com/li/2773268",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T12:31:59+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a0786769f98844198b2f",
+      "title": "【品川】もつ焼きマーちゃん｜路地裏の老舗酒場でホッピー&サラリーマンの愚痴大会",
+      "url": "https://waraibuta2.blog.fc2.com/blog-entry-5090.html",
+      "source": "waraibuta2.blog.fc2.com",
+      "publishedAt": "2026-11-21T11:35:06+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "7cacba4b92c4b3927d1e",
+      "title": "GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.",
+      "url": "https://github.com/mitaku/andon",
+      "source": "github.com",
+      "publishedAt": "2026-11-21T10:52:10+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "1b28122a0d8df3ce1bd4",
+      "title": "「AIが私を追い越した」 リーマン予想「証明」の数学者自身も驚き：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCP2WB0VCPDIFI008M.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-21T10:01:36+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
     {
       "id": "b6181968d89a4e1b9cf8",
       "title": "旦那が買ってきた入浴剤がすごかった「クナイプは高いけど買う価値ある」「マジで爆睡できる」",
@@ -9,6 +94,27 @@
       "publishedAt": "2026-11-21T09:00:56+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "4917e00be561e7cce89e",
+      "title": "GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル",
+      "url": "https://github.com/fkubota/understand-mode",
+      "source": "github.com",
+      "publishedAt": "2026-11-21T09:00:34+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a07609e071a2556173ab",
+      "title": "自家製麺 SHIN(新)@反町 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35356251/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-21T07:58:04+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -44,6 +150,16 @@
       ]
     },
     {
+      "id": "2579f30a0b048444ecf9",
+      "title": "伝統工芸界隈の倒産の話で「日本文化を守るべき継ぐ人を！」と言うのは理解できるが、学校に届いてた求人が軒並み月給12万円だと普通に生活できないので無理ですとしか…",
+      "url": "https://togetter.com/li/2773170",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T05:09:54+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "7e9d2569db99709beabd",
       "title": "AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 - BBCニュース",
       "url": "https://www.bbc.com/japanese/articles/cwlyl6ymz841o",
@@ -51,6 +167,38 @@
       "publishedAt": "2026-11-21T04:22:35+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "743a06c79ad02e12a887",
+      "title": "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-21T04:12:48+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "c3d0f69190475d8899e4",
+      "title": "将棋AI、先手勝率が高すぎて大会運営が困難に | やねうら王 公式サイトやねうら王 公式サイト",
+      "url": "https://yaneuraou.yaneu.com/2026/11/21/shogi-ai-first-player-win-rate-crisis/",
+      "source": "yaneuraou.yaneu.com",
+      "publishedAt": "2026-11-21T04:06:13+00:00",
+      "topics": [
+        "AI",
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "db542a5ab9e9c1f43a8f",
+      "title": "みずほ銀行のシステムがハッキングされないの、開発者だけじゃなくてハッカーも仕様を把握できないから説「妙な説得力あるな」「ハッキングが先か、障害が先か…」",
+      "url": "https://togetter.com/li/2773158",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T04:00:58+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -75,6 +223,16 @@
       ]
     },
     {
+      "id": "19cbd3b7c694a706c898",
+      "title": "川崎市のリニア中央新幹線トンネル工事、周辺の片平川で水吹き上がる JR東海が調査 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFD20CJI0Q6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-21T02:02:00+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "0fce2e8d3d444b43e37f",
       "title": "「とりあえずキャバクラ接待を経費として認める税制は絶対に改正すべき。何で野放しなのか全く理解できない」キャバクラでの接待費について賛否両論「接待は仕事では？」",
       "url": "https://togetter.com/li/2773127",
@@ -83,6 +241,16 @@
       "topics": [
         "バズ",
         "グルメ"
+      ]
+    },
+    {
+      "id": "728ea9f62a11db1d7b41",
+      "title": "障害福祉サービス「必ず就職できる」は虚偽広告 厚労省明示へ - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA2029V0Q6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-21T00:42:07+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -118,6 +286,17 @@
       ]
     },
     {
+      "id": "8dcd157d6c199c438a7f",
+      "title": "ラーメン大好き小泉さん・118杯目 | チャンピオンクロス",
+      "url": "https://championcross.jp/episodes/3c6c2fcf3e349",
+      "source": "championcross.jp",
+      "publishedAt": "2026-11-20T23:59:59+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
       "id": "8814d50ed113123ae3d4",
       "title": "22年前、岐阜から上京したての世間知らずな19歳女性が、一人暮らしの部屋にきた業者に食事を振る舞った話…ハラハラする展開も、心温まるいい話だった",
       "url": "https://togetter.com/li/2773097",
@@ -125,6 +304,16 @@
       "publishedAt": "2026-11-20T23:45:18+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "f22686ab1e0c9bbb391b",
+      "title": "S&P500が調整局面入り 「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-20T23:11:48+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -247,6 +436,16 @@
       "title": "2026年11月20日(金) 夕飯🎵 : Cook Channel 841",
       "url": "http://blog.livedoor.jp/yk841/archives/97999993.html",
       "source": "blog.livedoor.jp",
+      "publishedAt": "2026-11-20T15:37:41+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "32beb315580009828fa9",
+      "title": "2026年11月20日(金) 夕飯🎵 : Cook Channel 841",
+      "url": "https://yk841.livedoor.blog/archives/97999993.html",
+      "source": "yk841.livedoor.blog",
       "publishedAt": "2026-11-20T15:37:41+00:00",
       "topics": [
         "グルメ"
@@ -458,6 +657,16 @@
       "publishedAt": "2026-11-20T08:24:43+00:00",
       "topics": [
         "ビジネス"
+      ]
+    },
+    {
+      "id": "c6b4d1cde2f70841ee1b",
+      "title": "うまそ！ 丸源ラーメンの看板「肉そば」がファミマに！「熟成醤油チャーハン」も登場",
+      "url": "https://ascii.jp/elem/000/004/452/4452388/",
+      "source": "ascii.jp",
+      "publishedAt": "2026-11-20T08:08:18+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -7144,6 +7353,7 @@
     "44723289453",
     "44831019162",
     "44862811967",
-    "44895703081"
+    "44895703081",
+    "44957413143"
   ]
 }
