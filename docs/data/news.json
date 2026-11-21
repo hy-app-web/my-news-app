@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-21T03:46:29+00:00",
+  "updatedAt": "2026-11-21T10:43:51+00:00",
   "articles": [
+    {
+      "id": "b6181968d89a4e1b9cf8",
+      "title": "旦那が買ってきた入浴剤がすごかった「クナイプは高いけど買う価値ある」「マジで爆睡できる」",
+      "url": "https://togetter.com/li/2772498",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T09:00:56+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "9a14a22555fd4d5f76e0",
+      "title": "トランプ氏、日本は「蚊帳の外」 米中ロ会談で | NEWSjp",
+      "url": "https://news.jp/i/1496750113152074051",
+      "source": "news.jp",
+      "publishedAt": "2026-11-21T06:40:11+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "bb9c67f283acd68c7062",
+      "title": "スシロー、アメリカ・ニューヨーク1号店が大行列の人気「チップ不要なシステムも好評の理由」→アメリカ人も面倒くさいと思ってるのかよ…",
+      "url": "https://togetter.com/li/2773198",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T06:18:40+00:00",
+      "topics": [
+        "ビジネス",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "64204008b1ca0a3e34f1",
+      "title": "未着工の原発計画で交付金165億円 2県3市町、40年続く事例も：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCM3GB9VCMPLFA005M.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-21T05:55:29+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "7e9d2569db99709beabd",
+      "title": "AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 - BBCニュース",
+      "url": "https://www.bbc.com/japanese/articles/cwlyl6ymz841o",
+      "source": "www.bbc.com",
+      "publishedAt": "2026-11-21T04:22:35+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "0acb12c2daa25dbedc4e",
+      "title": "イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな",
+      "url": "https://togetter.com/li/2773122",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T03:06:24+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
     {
       "id": "e96349cc6dcb6a832cc5",
       "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
@@ -9,6 +72,59 @@
       "publishedAt": "2026-11-21T02:33:27+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "0fce2e8d3d444b43e37f",
+      "title": "「とりあえずキャバクラ接待を経費として認める税制は絶対に改正すべき。何で野放しなのか全く理解できない」キャバクラでの接待費について賛否両論「接待は仕事では？」",
+      "url": "https://togetter.com/li/2773127",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T01:25:40+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "5fa20d00c7107ae5cefc",
+      "title": "ソフトウェアファクトリーとコード設計と顧客価値",
+      "url": "https://kosui.me/posts/2026/11/15/code-design-after-agents",
+      "source": "kosui.me",
+      "publishedAt": "2026-11-21T00:35:47+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "58ac62069cec56b4dc7f",
+      "title": "日本人の半数「努力したくない」 11年で15ポイント増、中高年で顕著 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC198Y00Z11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-21T00:25:41+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "dfb0241298d1c8002adb",
+      "title": "「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-21T00:21:00+00:00",
+      "topics": [
+        "AI",
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "8814d50ed113123ae3d4",
+      "title": "22年前、岐阜から上京したての世間知らずな19歳女性が、一人暮らしの部屋にきた業者に食事を振る舞った話…ハラハラする展開も、心温まるいい話だった",
+      "url": "https://togetter.com/li/2773097",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T23:45:18+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -45,6 +161,27 @@
       ]
     },
     {
+      "id": "b36a95df51d3c9b1e336",
+      "title": "🌶前橋という「都市」は消えたが｜ねこひめ",
+      "url": "https://note.com/route17351/n/n59bfa914152a",
+      "source": "note.com",
+      "publishedAt": "2026-11-20T22:02:13+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "4b7d67105cc01facf0c8",
+      "title": "麻生コンクリート工業 汚水の一部を河川に流す 福岡県の立ち入り検査で判明（2026年11月20日掲載）｜FBS NEWS NNN",
+      "url": "https://news.ntv.co.jp/n/fbs/category/society/fsdff9be9e0e864b71807656a988af5d0c",
+      "source": "news.ntv.co.jp",
+      "publishedAt": "2026-11-20T20:25:46+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "db6f158a8f7130b869b4",
       "title": "[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO",
       "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/",
@@ -60,6 +197,27 @@
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
       "source": "terrytao.wordpress.com",
       "publishedAt": "2026-11-20T19:03:01+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "c8b16d13e020c175816a",
+      "title": "ナスダック指数が一時5%超の急落 AIブーム持続性に疑問符 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79481",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-20T18:55:03+00:00",
+      "topics": [
+        "AI",
+        "経済"
+      ]
+    },
+    {
+      "id": "20764a3ccd0d0e83e32f",
+      "title": "New Relicのアラート対応をClaude Codeで自動修正するワークフローを作った話",
+      "url": "https://speakerdeck.com/manabuseki/new-relic-no-taiou-o-claude-code-de-jidou-shuusei-suru-waku-furo-o-tsukuta-hanashi",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-20T17:42:07+00:00",
       "topics": [
         "AI"
       ]
@@ -95,6 +253,16 @@
       ]
     },
     {
+      "id": "0ba0be763c07055f8cd8",
+      "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
+      "url": "https://note.com/kajinari/n/n19c73d819b14",
+      "source": "note.com",
+      "publishedAt": "2026-11-20T15:27:05+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "77bdf8649d7bc931fc6f",
       "title": "「置き配」届けた後、補償なし 破損や盗難、国交省が指針案",
       "url": "https://www.47news.jp/15259526.html",
@@ -124,6 +292,16 @@
       "publishedAt": "2026-11-20T13:37:15+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "2dbffedd350c85c8b0ea",
+      "title": "麺や二代目夜来香 スパイスカレースーラータンメン中辛 半ライス(無料) - g13longkillの飯（ラーメン･居酒屋）",
+      "url": "https://g13longkill.hatenablog.com/entry/2026/11/20/183000",
+      "source": "g13longkill.hatenablog.com",
+      "publishedAt": "2026-11-20T11:51:34+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -175,6 +353,16 @@
       "publishedAt": "2026-11-20T10:38:11+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "6badcfc657e265aa23f7",
+      "title": "同僚との飲みに遅れることを伝えたのに、到着してから連絡したら「カレー食べてる」とだけ返ってきて、雑な扱いをされたことにダルくなり帰った。何が正解なの→対応に賛否",
+      "url": "https://togetter.com/li/2772887",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T10:22:45+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -901,6 +1089,26 @@
       "publishedAt": "2026-11-19T07:38:47+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "e986cfdce506b36ec012",
+      "title": "「AIが人類を滅ぼす」理由が3分でわかる｜Hayakawa Books & Magazines（β）",
+      "url": "https://www.hayakawabooks.com/n/nf1d3d47a60d7",
+      "source": "www.hayakawabooks.com",
+      "publishedAt": "2026-11-19T07:27:12+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "f7e34fc0d770b97d726f",
+      "title": "ドイツ銀行が「危険なビジネス」に手を染めていた実態が1500万件以上の流出資料によって次々と明るみに",
+      "url": "https://gigazine.net/news/20261119-deutsche-bank-risky-business-leak-files/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-19T07:13:04+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -6935,6 +7143,7 @@
     "44670219057",
     "44723289453",
     "44831019162",
-    "44862811967"
+    "44862811967",
+    "44895703081"
   ]
 }
