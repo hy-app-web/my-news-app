@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-20T22:41:43+00:00",
+  "updatedAt": "2026-11-21T03:46:29+00:00",
   "articles": [
+    {
+      "id": "e96349cc6dcb6a832cc5",
+      "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-21T02:33:27+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "f41af8adcdf362223a96",
+      "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ",
+      "url": "https://japan.cnet.com/article/35255245/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-20T23:02:01+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "015fc78166f7ced93e72",
+      "title": "リニアのトンネル工事 地表付近の川で複数か所から気泡 川の水噴き上げていると報告も JR東海は工事停止して因果関係調査 | TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3102836",
+      "source": "newsdig.tbs.co.jp",
+      "publishedAt": "2026-11-20T22:58:08+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "93cfcbaaf0e45895311d",
+      "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表",
+      "url": "https://www.yomiuri.co.jp/science/20261121-GYT1T00089/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-20T22:57:16+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "db6f158a8f7130b869b4",
+      "title": "[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/",
+      "source": "dev.classmethod.jp",
+      "publishedAt": "2026-11-20T19:26:02+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "a5368ddb02b51560693e",
+      "title": "Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "terrytao.wordpress.com",
+      "publishedAt": "2026-11-20T19:03:01+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
     {
       "id": "f560017f1af3853b9c1b",
       "title": "店員による不正行為が原因で中止になったくら寿司のちいかわコラボ皿が公式LINEを通じた抽選プレゼントの形に…「まだ集客に利用するの？」「処分はどうなった」など",
@@ -22,6 +85,58 @@
       ]
     },
     {
+      "id": "4c9562675ffc73c8d45b",
+      "title": "2026年11月20日(金) 夕飯🎵 : Cook Channel 841",
+      "url": "http://blog.livedoor.jp/yk841/archives/97999993.html",
+      "source": "blog.livedoor.jp",
+      "publishedAt": "2026-11-20T15:37:41+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "77bdf8649d7bc931fc6f",
+      "title": "「置き配」届けた後、補償なし 破損や盗難、国交省が指針案",
+      "url": "https://www.47news.jp/15259526.html",
+      "source": "www.47news.jp",
+      "publishedAt": "2026-11-20T14:00:47+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b2b52307affcd7d30546",
+      "title": "から揚げ粉をエリンギの全身にかけてオーブンで焼くだけで「なんかすごい唐揚げ感がする！」鶏肉唐揚げのように中から旨味成分汁が染み出て「超ウマー！」のエリンギ料理",
+      "url": "https://togetter.com/li/2772992",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T13:42:02+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "0d29fa44c65f93173f6c",
+      "title": "高市首相抗議デモに1万人、靴下も買えない貧しさに怒り……中国メディアが報じた日本 #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/ce0a8f95dc31de99e63a8949cf218177e9253e4a",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-20T13:37:15+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "6715b52ccfd31edc9707",
+      "title": "情報漏洩3億件超の時代、経営者が問われるのは「どう守るか」よりも「何を持たないか」、顧客情報を預かる資格 KARTEへの不正アクセスとソースネクストの大量流出が示した、顧客情報を持ちすぎる経営の死角 | JBpress (ジェイビープレス)",
+      "url": "https://jbpress.ismedia.jp/articles/-/98148",
+      "source": "jbpress.ismedia.jp",
+      "publishedAt": "2026-11-20T11:43:01+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "21dbc53e6f546296e653",
       "title": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261120de79347",
@@ -38,6 +153,16 @@
       "url": "https://solomeshi.net/entry/ramen-factory-torisetsu",
       "source": "solomeshi.net",
       "publishedAt": "2026-11-20T11:35:31+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "b8a6020fbf67ae4a28e4",
+      "title": "【週末駅弁】函館駅「天然岩海苔二段弁当」",
+      "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2155888.html",
+      "source": "travel.watch.impress.co.jp",
+      "publishedAt": "2026-11-20T11:03:13+00:00",
       "topics": [
         "グルメ"
       ]
@@ -93,6 +218,17 @@
       "publishedAt": "2026-11-20T08:43:10+00:00",
       "topics": [
         "沖縄"
+      ]
+    },
+    {
+      "id": "a8afbce986306faba652",
+      "title": "秋葉原のメイド姿の「客引き」、違反３回で５万円…東京・千代田区が「これ以上看過できない」と規制強化へ",
+      "url": "https://www.yomiuri.co.jp/national/20261120-GYT1T00159/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-20T08:41:58+00:00",
+      "topics": [
+        "バズ",
+        "東京"
       ]
     },
     {
@@ -193,6 +329,16 @@
       ]
     },
     {
+      "id": "60469fcb2ed3b7e2f02a",
+      "title": "東京大学が皮膚に装着する「ナノメッシュ皮膚センサ」を開発、「日本の未来がサイバーパンク」とSNSで話題に。『真・女神転生Ⅲ』人修羅や『鬼滅の刃』猗窩座を彷彿させるという声も相次ぐ",
+      "url": "https://news.denfaminicogamer.jp/news/261120j",
+      "source": "news.denfaminicogamer.jp",
+      "publishedAt": "2026-11-20T05:23:52+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
       "id": "02556285264ea47ecc8b",
       "title": "ラーメン屋の店長をしていた時、「客は神様だろうが！」と言ってくる人がいたので、「周りの神様に迷惑になってるのでお引き取りお願いしまーす」と言ったら静かになった",
       "url": "https://togetter.com/li/2772744",
@@ -234,6 +380,16 @@
       "topics": [
         "AI",
         "経済"
+      ]
+    },
+    {
+      "id": "086d9e0b358c10751751",
+      "title": "「話題の日清の担々麺、ちょっとびっくりするくらい美味かった」ゴマや豆乳などちょい足しアレンジもオススメ「腹減ってる時は白米ぶっこむ」",
+      "url": "https://togetter.com/li/2771954",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T03:57:16+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -357,6 +513,17 @@
       "publishedAt": "2026-11-20T01:10:40+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "87ddc4d89f38e3ddd9ea",
+      "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁 「Business Standard」全ユーザーにも",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-20T00:56:35+00:00",
+      "topics": [
+        "AI",
+        "ビジネス"
       ]
     },
     {
@@ -506,6 +673,16 @@
       ]
     },
     {
+      "id": "693a8d4aad3854340416",
+      "title": "麻生コンクリ変更届け出ず 汚水処理方法、福岡 | NEWSjp",
+      "url": "https://news.jp/i/1496106745342509119",
+      "source": "news.jp",
+      "publishedAt": "2026-11-19T12:41:53+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "98903d8f646e91486383",
       "title": "Agenship — Software FactoryであなたのチームにAIの開発ラインを",
       "url": "https://agenship.ai/",
@@ -535,6 +712,16 @@
       "publishedAt": "2026-11-19T11:53:12+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "b28e69bf11976a8279c6",
+      "title": "宮崎で「あくまき」なるものを買って食べてみた、独特の風味があるけどどう食べればいいんだ？→現地民からおすすめの食べ方が寄せられる",
+      "url": "https://togetter.com/li/2772466",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-19T11:48:18+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -1171,6 +1358,26 @@
       "publishedAt": "2026-11-18T13:14:38+00:00",
       "topics": [
         "ビジネス"
+      ]
+    },
+    {
+      "id": "3915697fcf2b3adf3a91",
+      "title": "漫画家・魚豊先生による『チ。』構想段階で描かれたプロットが公開「プロットってこう書くのか…勉強になった」",
+      "url": "https://togetter.com/li/2772024",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-18T11:28:42+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "e91e43d31c8a3db5d400",
+      "title": "CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明",
+      "url": "https://gigazine.net/news/20261118-cloudflare-explain-dns-blocking/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-18T11:03:34+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -6727,6 +6934,7 @@
     "44631277832",
     "44670219057",
     "44723289453",
-    "44831019162"
+    "44831019162",
+    "44862811967"
   ]
 }
