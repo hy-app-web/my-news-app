@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-21T22:34:12+00:00",
+  "updatedAt": "2026-11-22T03:49:35+00:00",
   "articles": [
+    {
+      "id": "d0b4cee4024da7345117",
+      "title": "「VIVANT」に登場したゲイ2人 研究者「時代に逆行した描写」 キャラ設定の意図をTBSに聞くと…（withnews by 朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/1259832d694b0c3fd7763a61bc7c1c35be8c3d23",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-22T02:13:20+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "439b5c35bfb031138a47",
+      "title": "裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く",
+      "url": "https://anond.hatelabo.jp/20261122095858",
+      "source": "anond.hatelabo.jp",
+      "publishedAt": "2026-11-22T01:12:04+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "6225757adea013094373",
+      "title": "「住民サービスに格差」「そもそも偏在ない」…税収格差是正巡り都と地方がせめぎ合い",
+      "url": "https://www.yomiuri.co.jp/politics/20261121-GYT1T00390/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-21T20:45:35+00:00",
+      "topics": [
+        "バズ",
+        "東京"
+      ]
+    },
+    {
+      "id": "bf485886c9d7da81f034",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "leanprover-community.github.io",
+      "publishedAt": "2026-11-21T16:27:12+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
     {
       "id": "a985c5791549e6a7e7b7",
       "title": "\"リーマン予想の証明\"の検証は現在どこまで進んでいるか｜加藤文元",
@@ -20,6 +62,17 @@
       "publishedAt": "2026-11-21T13:20:09+00:00",
       "topics": [
         "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "d0b9adab2ffcb689f12f",
+      "title": "還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね、おまけに老眼で説明が見えづらくなってるし",
+      "url": "https://togetter.com/li/2773327",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T13:19:54+00:00",
+      "topics": [
+        "ビジネス",
         "バズ"
       ]
     },
@@ -87,6 +140,17 @@
       ]
     },
     {
+      "id": "869e98e90c9da5ec98e8",
+      "title": "マーロウのプリンビュッフェで後悔した日記 - ネットに影響される人の日記",
+      "url": "https://htnmiki.hatenablog.com/entry/2026/11/21/190003",
+      "source": "htnmiki.hatenablog.com",
+      "publishedAt": "2026-11-21T10:01:28+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
       "id": "b6181968d89a4e1b9cf8",
       "title": "旦那が買ってきた入浴剤がすごかった「クナイプは高いけど買う価値ある」「マジで爆睡できる」",
       "url": "https://togetter.com/li/2772498",
@@ -108,6 +172,16 @@
       ]
     },
     {
+      "id": "3d25512449905f497a5b",
+      "title": "チキンラーメン旨辛チゲ味と自家製うな丼 - 金沢おもしろ発掘",
+      "url": "https://kanazawa10no3.hatenablog.com/entry/2026/11/21/171025",
+      "source": "kanazawa10no3.hatenablog.com",
+      "publishedAt": "2026-11-21T08:13:26+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "a07609e071a2556173ab",
       "title": "自家製麺 SHIN(新)@反町 | MusicArena",
       "url": "https://musicarena.exblog.jp/35356251/",
@@ -115,6 +189,16 @@
       "publishedAt": "2026-11-21T07:58:04+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "d3fbe98f54f4fb3257a6",
+      "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ（CNET Japan） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c6bed2e9ea95a323d4d3d5960dba7846bf5f84b1",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-21T07:45:59+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -170,6 +254,16 @@
       ]
     },
     {
+      "id": "73c42d2b096742f441ae",
+      "title": "RH Lean proof: verification files",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "source": "math.mit.edu",
+      "publishedAt": "2026-11-21T04:19:21+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "743a06c79ad02e12a887",
       "title": "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表：朝日新聞",
       "url": "https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html",
@@ -202,6 +296,26 @@
       ]
     },
     {
+      "id": "e21acdf9b089bc759928",
+      "title": "欧州各地で若者ら一斉デモ、生活費高騰や軍事費増に抗議",
+      "url": "https://www.afpbb.com/articles/-/3663567",
+      "source": "www.afpbb.com",
+      "publishedAt": "2026-11-21T03:53:07+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "233d0fbaee900b12a7ca",
+      "title": "検証前のリーマン予想「証明」を砕く——1969年の発想を、整数の世界へ運ぶ鎖｜数学の翻訳家｜数学の翻訳家",
+      "url": "https://note.com/math_translator/n/n5d2600a29405",
+      "source": "note.com",
+      "publishedAt": "2026-11-21T03:08:30+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "0acb12c2daa25dbedc4e",
       "title": "イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな",
       "url": "https://togetter.com/li/2773122",
@@ -218,6 +332,16 @@
       "url": "https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/",
       "source": "www.nikkei.com",
       "publishedAt": "2026-11-21T02:33:27+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "c85e5e2bef0eb4e34ac8",
+      "title": "トランプ大統領 米国外のデータセンター建設認めず 罰則も | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79543",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-21T02:02:07+00:00",
       "topics": [
         "AI"
       ]
@@ -350,6 +474,17 @@
       ]
     },
     {
+      "id": "353abdcb5e5ee7f1dcd0",
+      "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
+      "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-20T22:35:55+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
       "id": "b36a95df51d3c9b1e336",
       "title": "🌶前橋という「都市」は消えたが｜ねこひめ",
       "url": "https://note.com/route17351/n/n59bfa914152a",
@@ -422,6 +557,16 @@
       ]
     },
     {
+      "id": "875e483dcaacc0fe03ad",
+      "title": "色校を送るので住所が欲しいと先方に伝えたら「データで送れよ、スキャンとかするとかあるだろ」と言われて大爆笑してしまった話",
+      "url": "https://togetter.com/li/2773026",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-20T16:35:10+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "d09d58ac2ef1dbde62d4",
       "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math | Scientific American",
       "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
@@ -457,6 +602,26 @@
       "url": "https://note.com/kajinari/n/n19c73d819b14",
       "source": "note.com",
       "publishedAt": "2026-11-20T15:27:05+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "3b3270b0917323ae879a",
+      "title": "https://alpo.ge/remark.pdf",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "alpo.ge",
+      "publishedAt": "2026-11-20T15:14:55+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ae1629186bbb6c7f562f",
+      "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
+      "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
+      "source": "smhn.info",
+      "publishedAt": "2026-11-20T14:35:51+00:00",
       "topics": [
         "AI"
       ]
@@ -1028,6 +1193,16 @@
       ]
     },
     {
+      "id": "7463edd69007475cd08e",
+      "title": "2026年11月19日(木) 夕飯🎵 : Cook Channel 841",
+      "url": "https://yk841.livedoor.blog/archives/97999051.html",
+      "source": "yk841.livedoor.blog",
+      "publishedAt": "2026-11-19T15:19:13+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "6efa02315719ebf85379",
       "title": "2026年11月19日(木) 夕飯🎵 : Cook Channel 841",
       "url": "http://blog.livedoor.jp/yk841/archives/97999051.html",
@@ -1077,6 +1252,16 @@
       "publishedAt": "2026-11-19T12:41:53+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "1a0f686a0847c6528e00",
+      "title": "京都市北区、素晴らしい洋食が「学食並み価格」の名店 米国人夫妻も「オウマイガー」「これ4ドル以下?」｜京都新聞デジタル 京都・滋賀のニュースサイト",
+      "url": "https://www.kyoto-np.co.jp/articles/-/1828456",
+      "source": "www.kyoto-np.co.jp",
+      "publishedAt": "2026-11-19T12:21:19+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -3389,6 +3574,16 @@
       ]
     },
     {
+      "id": "e2610ce66a3c309f9ee4",
+      "title": "【映像解禁】首里城正殿内部の全貌を、ひと足早く公開！おかえり",
+      "url": "https://ryukyushimpo.jp/news/entry-5601397.html",
+      "source": "ryukyushimpo.jp",
+      "publishedAt": "2026-11-16T05:01:09+00:00",
+      "topics": [
+        "沖縄"
+      ]
+    },
+    {
       "id": "469812dddca410a66917",
       "title": "「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も",
       "url": "https://pc.watch.impress.co.jp/docs/news/2156687.html",
@@ -3771,6 +3966,16 @@
       "publishedAt": "2026-11-15T22:52:59+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "35ca7300e96513a72c81",
+      "title": "響く怒声「下地氏起用」案に揺れる自民 音声出回り、「身体検査」情報も",
+      "url": "https://ryukyushimpo.jp/politics/entry-5601807.html",
+      "source": "ryukyushimpo.jp",
+      "publishedAt": "2026-11-15T22:40:28+00:00",
+      "topics": [
+        "沖縄"
       ]
     },
     {
@@ -7354,6 +7559,7 @@
     "44831019162",
     "44862811967",
     "44895703081",
-    "44957413143"
+    "44957413143",
+    "44982350883"
   ]
 }
