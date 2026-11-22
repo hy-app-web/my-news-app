@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-11-22T03:49:35+00:00",
+  "updatedAt": "2026-11-22T10:42:51+00:00",
   "articles": [
+    {
+      "id": "f778f40c6cc233b36891",
+      "title": "TYPE-MOONのビジュアルノベル『魔法使いの夜』、Steamでの発売から「3年目」にして過去最高に売れている模様。劇場アニメ公開が追い風、半額で買える - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/withc-20261122-480377/",
+      "source": "automaton-media.com",
+      "publishedAt": "2026-11-22T09:11:02+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "adea0f960fa236b54517",
+      "title": "安易に「Youtuberになるな」と言わないでほしい",
+      "url": "https://anond.hatelabo.jp/20211214103503",
+      "source": "anond.hatelabo.jp",
+      "publishedAt": "2026-11-22T07:45:08+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "f56d8cab5a9d0fe49fd4",
+      "title": "元TBSアナ・国山ハセンさんが事業が失敗に終わったことをXに投稿したが、その内容には起業でやってはいけないことが詰まっていた",
+      "url": "https://togetter.com/li/2773630",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-22T06:40:37+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "7c9782f8608c9f336563",
+      "title": "地球に新たな「ミニ・ムーン」、極小天体が一時的に重力圏入り",
+      "url": "https://www.cnn.co.jp/fringe/35255276.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-22T05:14:28+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "89a3011300ec9fcd7372",
+      "title": "猫が何度も「ナーン、ナーン」って呼びに来るので見に行ったら、ドヤ顔で偉業を報告してきた「自慢するために呼ぶのあるある」",
+      "url": "https://togetter.com/li/2773591",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-22T04:52:10+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "7b124e8c2b7adce7ad36",
+      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-22T03:08:20+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "9995394f36044d84890c",
+      "title": "MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-22T02:46:03+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
     {
       "id": "d0b4cee4024da7345117",
       "title": "「VIVANT」に登場したゲイ2人 研究者「時代に逆行した描写」 キャラ設定の意図をTBSに聞くと…（withnews by 朝日新聞） - Yahoo!ニュース",
@@ -22,6 +96,38 @@
       ]
     },
     {
+      "id": "5a831d83910b9d17873d",
+      "title": "なぜ高支持率なのか？経済指標で見れば、高市政権のこの1年はボロボロ。日本経済の衰退は止まらない！（山田順） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/15c18e155a56117e16e3d83856404cbd8f6ae87b",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-22T01:00:52+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "4c3c98b70ba36bc0a9c3",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-21T23:42:43+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "db9468fe1e17e7cef002",
+      "title": "特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、ここ半年で、生活でき...",
+      "url": "https://question.realestate.yahoo.co.jp/knowledge/chiebukuro/detail/13332944543/",
+      "source": "question.realestate.yahoo.co.jp",
+      "publishedAt": "2026-11-21T21:00:27+00:00",
+      "topics": [
+        "AI",
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
       "id": "6225757adea013094373",
       "title": "「住民サービスに格差」「そもそも偏在ない」…税収格差是正巡り都と地方がせめぎ合い",
       "url": "https://www.yomiuri.co.jp/politics/20261121-GYT1T00390/",
@@ -33,6 +139,16 @@
       ]
     },
     {
+      "id": "d7510a2959bc5a36d965",
+      "title": "ChatGPTやClaudeしか使ったことない人にLLMとハーネスについて説明するのって使い込んでる人でも難しい→みんなで様々な例え方を検討してみる",
+      "url": "https://togetter.com/li/2773213",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-21T18:42:20+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "bf485886c9d7da81f034",
       "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -41,6 +157,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "4df9a40c8bf8d11a8a48",
+      "title": "アンソロピック上場「AIの予見性向上」「荒い相場続く」 運用大手CIO - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB206ZC0Q6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-21T15:05:18+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -98,6 +224,16 @@
       ]
     },
     {
+      "id": "29d13dffc7e7a841f078",
+      "title": "銀行預金、「１億円以上」３．６倍 富裕層に資産集まる構図に―日銀統計：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?g=eco&k=2026112100141",
+      "source": "www.jiji.com",
+      "publishedAt": "2026-11-21T12:40:32+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "ad97a50df47f58eba1d9",
       "title": "新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた",
       "url": "https://togetter.com/li/2773268",
@@ -105,6 +241,39 @@
       "publishedAt": "2026-11-21T12:31:59+00:00",
       "topics": [
         "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "e5c6f4a922ed59a75958",
+      "title": "[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services",
+      "url": "https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/",
+      "source": "aws.amazon.com",
+      "publishedAt": "2026-11-21T12:08:39+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a61b20fd9f49af0af587",
+      "title": "リイド社が漫画雑誌「蒼天」創刊、刊行停止の「楽園」連載陣を引き継ぐ…スマホ全盛の時代に紙にこだわる理由とは",
+      "url": "https://www.yomiuri.co.jp/culture/book/articles/20261121-GYT1T00161/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-21T11:56:24+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "158332133ed535f1a35d",
+      "title": "グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2157164.html",
+      "source": "k-tai.watch.impress.co.jp",
+      "publishedAt": "2026-11-21T11:39:45+00:00",
+      "topics": [
+        "AI",
         "バズ"
       ]
     },
@@ -283,6 +452,16 @@
         "AI",
         "テクノロジー",
         "バズ"
+      ]
+    },
+    {
+      "id": "ad405eadc5e280de0da0",
+      "title": "デビット決済急増、Suicaなど電子マネー逆転 背景に銀行預金争奪戦 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB077E50X01C26A0000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-21T04:03:31+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -627,6 +806,16 @@
       ]
     },
     {
+      "id": "12b2f31c2ea8681d7000",
+      "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+      "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
+      "source": "www.gizmodo.jp",
+      "publishedAt": "2026-11-20T14:31:09+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "77bdf8649d7bc931fc6f",
       "title": "「置き配」届けた後、補償なし 破損や盗難、国交省が指針案",
       "url": "https://www.47news.jp/15259526.html",
@@ -656,6 +845,26 @@
       "publishedAt": "2026-11-20T13:37:15+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "b8bc2f4a49d1212461d0",
+      "title": "クマ被害防止へ、青森のリンゴ畑で犬型ロボの実証実験 「ワンワン」とほえて警告灯点灯",
+      "url": "https://www.sankei.com/article/20261120-XVM67Y3IQJIYRO5SNLEJBHXPKI/",
+      "source": "www.sankei.com",
+      "publishedAt": "2026-11-20T12:55:57+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "acf0f88676e8ba1329ff",
+      "title": "関文科相、政治資金パーティー巡りさらに3回の官僚の出席判明 | 毎日新聞",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/010/346000c",
+      "source": "mainichi.jp",
+      "publishedAt": "2026-11-20T12:40:44+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -7560,6 +7769,7 @@
     "44862811967",
     "44895703081",
     "44957413143",
-    "44982350883"
+    "44982350883",
+    "45013760332"
   ]
 }
