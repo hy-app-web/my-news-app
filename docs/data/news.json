@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-22T10:42:51+00:00",
+  "updatedAt": "2026-11-22T22:38:53+00:00",
   "articles": [
+    {
+      "id": "d41156014e008f70b743",
+      "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
+      "url": "https://note.com/cgbeginner/n/n5856d402f125",
+      "source": "note.com",
+      "publishedAt": "2026-11-22T13:51:31+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "f6fdfc28bf0a0e38b4bb",
+      "title": "家賃の値上がり、53,700円以下の物件が見つからない……都内で住む生活保護受給者に地方への移住を勧める声が集まるが、そう単純な話ではなかった",
+      "url": "https://togetter.com/li/2773747",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-22T12:20:41+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ",
+        "東京"
+      ]
+    },
+    {
+      "id": "c8a869fe63708a50e27a",
+      "title": "ギリシャでマクドナルドが流行らない理由はこれのせい！？「ギロピタだ」「ケバブに似てて、削ぎ肉と野菜とフライドポテトとヨーグルトソースをピタパンで巻いたもの」",
+      "url": "https://togetter.com/li/2773722",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-22T11:12:42+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "b852890527f356530b6c",
+      "title": "Contextual retrieval in AI systems",
+      "url": "https://www.anthropic.com/research/contextual-retrieval",
+      "source": "www.anthropic.com",
+      "publishedAt": "2026-11-22T10:55:09+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "1f4eb78cab5964206ab9",
+      "title": "中国車39カ国で日本車超え、ドイツなどで販売数逆転 EVが切り崩し - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC105240Q6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-22T10:28:22+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "24b41024065ce305d546",
+      "title": "ワコムがMBOへ、投資ファンドMBKが支援 900億円超 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC20B2E0Q6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-22T10:18:47+00:00",
+      "topics": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "id": "7c46a0527ae14c59c424",
+      "title": "先日職場の中堅層の重鎮が2人退職…理由は「仕事量と責任だけが増え、給料が全然増えないのに下っ端は給料が増えている。休みも取れずこのままいても先が見えなさすぎる」",
+      "url": "https://togetter.com/li/2773699",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-22T10:09:30+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "64633d19b926f820a038",
+      "title": "沖縄 首里城正殿が復元“二度と失われないよう つないでいく” | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-22T10:02:20+00:00",
+      "topics": [
+        "沖縄"
+      ]
+    },
     {
       "id": "f778f40c6cc233b36891",
       "title": "TYPE-MOONのビジュアルノベル『魔法使いの夜』、Steamでの発売から「3年目」にして過去最高に売れている模様。劇場アニメ公開が追い風、半額で買える - AUTOMATON",
@@ -34,6 +122,17 @@
       ]
     },
     {
+      "id": "f8da86b112d8e1e226e8",
+      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
+      "url": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-22T06:09:34+00:00",
+      "topics": [
+        "AI",
+        "経済"
+      ]
+    },
+    {
       "id": "7c9782f8608c9f336563",
       "title": "地球に新たな「ミニ・ムーン」、極小天体が一時的に重力圏入り",
       "url": "https://www.cnn.co.jp/fringe/35255276.html",
@@ -54,6 +153,17 @@
       ]
     },
     {
+      "id": "b46b539c07f6c7116f1b",
+      "title": "国が認めたJR東の値上げが異例の審議へ…マスコミが報じない｢山手線通勤定期22.9％増｣を問う弁護士の執念",
+      "url": "https://president.jp/articles/-/122405",
+      "source": "president.jp",
+      "publishedAt": "2026-11-22T04:37:58+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
       "id": "7b124e8c2b7adce7ad36",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
@@ -62,6 +172,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "30e7bdeb63f43b6e4520",
+      "title": "2026年11月21日(土) 夕飯🎵 : Cook Channel 841",
+      "url": "https://yk841.livedoor.blog/archives/98001115.html",
+      "source": "yk841.livedoor.blog",
+      "publishedAt": "2026-11-22T02:59:33+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -86,6 +206,16 @@
       ]
     },
     {
+      "id": "d25e6c36ecd623ed67e7",
+      "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは? | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-22T01:22:11+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "439b5c35bfb031138a47",
       "title": "裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く",
       "url": "https://anond.hatelabo.jp/20261122095858",
@@ -106,6 +236,16 @@
       ]
     },
     {
+      "id": "dc37287caee14d3641c3",
+      "title": "【速報】イランがバーレーン攻撃",
+      "url": "https://www.47news.jp/15268149.html",
+      "source": "www.47news.jp",
+      "publishedAt": "2026-11-21T23:58:59+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "4c3c98b70ba36bc0a9c3",
       "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
       "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
@@ -113,6 +253,16 @@
       "publishedAt": "2026-11-21T23:42:43+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "f643649bdef4e24c1259",
+      "title": "回収対象のAnker製モバイルバッテリーで火災発生か 型番「A1257」の一部に使用中止を呼びかけ",
+      "url": "https://japan.cnet.com/article/35255262/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-21T22:17:35+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -139,6 +289,16 @@
       ]
     },
     {
+      "id": "6903c585ddaf72ad8dac",
+      "title": "食卓の救世主！値上げ知らずのダイソーきのこ三昧で手軽に栄養プラス。おつまみにも最高です #節約術 - 100均ブログ miyuremama’ｓ life",
+      "url": "https://miyuremama.hatenablog.jp/entry/2026/11/22/050000",
+      "source": "miyuremama.hatenablog.jp",
+      "publishedAt": "2026-11-21T20:14:43+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "d7510a2959bc5a36d965",
       "title": "ChatGPTやClaudeしか使ったことない人にLLMとハーネスについて説明するのって使い込んでる人でも難しい→みんなで様々な例え方を検討してみる",
       "url": "https://togetter.com/li/2773213",
@@ -146,6 +306,26 @@
       "publishedAt": "2026-11-21T18:42:20+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "84782eaa3f8207a4f82f",
+      "title": "GitHub - awslabs/codekb",
+      "url": "https://github.com/awslabs/codekb",
+      "source": "github.com",
+      "publishedAt": "2026-11-21T18:25:13+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "98fc07a616391e490197",
+      "title": "和食麺処サガミ 松原店 天ぷら鴨汁ざるそば",
+      "url": "https://fairysbible.com/blog-entry-6709.html",
+      "source": "fairysbible.com",
+      "publishedAt": "2026-11-21T18:24:54+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -506,6 +686,16 @@
       ]
     },
     {
+      "id": "f23e3fae9acf95a95197",
+      "title": "大根を受話器みたいに肩で挟むとかっこいい",
+      "url": "https://dailyportalz.jp/kiji/juwaki-kata-hasamu",
+      "source": "dailyportalz.jp",
+      "publishedAt": "2026-11-21T02:55:49+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "e96349cc6dcb6a832cc5",
       "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/",
@@ -617,6 +807,16 @@
       "publishedAt": "2026-11-20T23:11:48+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "89c1b5008b7af9616754",
+      "title": "Introducing Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "source": "thinkingmachines.ai",
+      "publishedAt": "2026-11-20T23:08:37+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -2127,6 +2327,16 @@
       "publishedAt": "2026-11-18T14:55:06+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "895f5ea5fddd118894d3",
+      "title": "2026年11月18日(水) 夕飯🎵 : Cook Channel 841",
+      "url": "https://yk841.livedoor.blog/archives/97998052.html",
+      "source": "yk841.livedoor.blog",
+      "publishedAt": "2026-11-18T14:54:47+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -7770,6 +7980,7 @@
     "44895703081",
     "44957413143",
     "44982350883",
-    "45013760332"
+    "45013760332",
+    "45078881164"
   ]
 }
