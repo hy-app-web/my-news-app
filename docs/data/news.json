@@ -1,6 +1,113 @@
 {
-  "updatedAt": "2026-11-22T22:38:53+00:00",
+  "updatedAt": "2026-11-23T03:57:00+00:00",
   "articles": [
+    {
+      "id": "bfee9a998115def4c4a3",
+      "title": "キャベツとバターを使った料理の動画に、世界中からツッコミが殺到している「なんで…バター…お湯の中に…なんで…」「だいたいお好み焼きだな」",
+      "url": "https://togetter.com/li/2773889",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-23T01:09:06+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "05ebe250f017d8098242",
+      "title": "魔法の姉妹ルルットリリィ：令和のぴえろ魔法少女シリーズが描く「憧れ」 28年ぶり復活の裏側 プロデューサーインタビュー - MANTANWEB（まんたんウェブ）",
+      "url": "https://mantan-web.jp/article/20261120dog00m200097000a.html",
+      "source": "mantan-web.jp",
+      "publishedAt": "2026-11-23T00:32:22+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "10b696598316ba9d4971",
+      "title": "リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局",
+      "url": "https://www.cnn.co.jp/world/35255287.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-23T00:06:00+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "df1f41f934aab325461f",
+      "title": "大阪のホテルに宿泊、食事で外出しようとしたらギャルみたいな女性に「ご飯行きませんか？」と誘われ、怖くて無視してホテルの部屋へ戻ってUberで注文した「都会怖いよ」",
+      "url": "https://togetter.com/li/2773878",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-22T23:49:37+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "df209cbed982a0f8abb0",
+      "title": "実家帰省時に母が作った唐揚げを食べたら味が変わっていて「レシピ変えたの？」と聞いたら「リュウジのレシピに変えたの！美味しいよね〜」と…お袋の味が食べたかったのに",
+      "url": "https://togetter.com/li/2773869",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-22T23:41:59+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "4e29334a0a6bdc7a362e",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-22T23:16:06+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b5f071fb5bc590329d53",
+      "title": "消費税減税、防衛費増と「トレードオフ」 成長投資は財源を先行確保 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA212RY0R21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-22T22:59:59+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "6ce52ecf7791f80c55d0",
+      "title": "無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に (1/4)",
+      "url": "https://ascii.jp/elem/000/004/453/4453903/",
+      "source": "ascii.jp",
+      "publishedAt": "2026-11-22T22:59:11+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "1240476f67e936ac6cf1",
+      "title": "ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」",
+      "url": "https://posfie.com/@petaritape/p/tgzVdbL",
+      "source": "posfie.com",
+      "publishedAt": "2026-11-22T22:04:53+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "8b69b4eca80cbabd0ba7",
+      "title": "日本人の個人情報「需要ある」「ハッキング容易」…セキュリティー軽視、経営層に危機感届かず",
+      "url": "https://www.yomiuri.co.jp/national/20261122-GYT1T00208/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-22T21:03:59+00:00",
+      "topics": [
+        "AI",
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
     {
       "id": "d41156014e008f70b743",
       "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
@@ -80,6 +187,17 @@
       ]
     },
     {
+      "id": "193d1ecbff685d710921",
+      "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
+      "url": "https://note.com/yamac_/n/n198bdc344c64",
+      "source": "note.com",
+      "publishedAt": "2026-11-22T10:08:35+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
       "id": "64633d19b926f820a038",
       "title": "沖縄 首里城正殿が復元“二度と失われないよう つないでいく” | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
@@ -96,6 +214,37 @@
       "source": "automaton-media.com",
       "publishedAt": "2026-11-22T09:11:02+00:00",
       "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "98fddceab1dc4b8f416b",
+      "title": "プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript",
+      "url": "https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-22T08:57:45+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "a880e3ca878c720acd12",
+      "title": "木の芽@石川町 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35356973/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-22T08:42:39+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "9bae7f19869af203cdf9",
+      "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita",
+      "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
+      "source": "qiita.com",
+      "publishedAt": "2026-11-22T08:32:43+00:00",
+      "topics": [
+        "AI",
         "バズ"
       ]
     },
@@ -122,6 +271,17 @@
       ]
     },
     {
+      "id": "a6ad9de69e66be158e0e",
+      "title": "証明が得られたあとに−−証明を理解するという仕事｜加藤文元",
+      "url": "https://note.com/katobungen/n/n2326bd68a80e",
+      "source": "note.com",
+      "publishedAt": "2026-11-22T06:23:00+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
       "id": "f8da86b112d8e1e226e8",
       "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
       "url": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
@@ -139,6 +299,17 @@
       "source": "www.cnn.co.jp",
       "publishedAt": "2026-11-22T05:14:28+00:00",
       "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "6dc39b6a7d8d53371b09",
+      "title": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+      "url": "https://anond.hatelabo.jp/20261122140104",
+      "source": "anond.hatelabo.jp",
+      "publishedAt": "2026-11-22T05:01:52+00:00",
+      "topics": [
+        "AI",
         "バズ"
       ]
     },
@@ -206,6 +377,16 @@
       ]
     },
     {
+      "id": "a4d3bf4e2a2f07787c21",
+      "title": "ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由",
+      "url": "https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-22T01:52:45+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "d25e6c36ecd623ed67e7",
       "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは? | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
@@ -233,6 +414,16 @@
       "publishedAt": "2026-11-22T01:00:52+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "26d4cfed999e60fad52b",
+      "title": "21世紀の精神異常者による/ための生活習慣制御【2026-11-23】 - 二千三百五十五年",
+      "url": "https://obsolete.hatenadiary.com/entry/2026/11/21/231159",
+      "source": "obsolete.hatenadiary.com",
+      "publishedAt": "2026-11-22T00:59:22+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -337,6 +528,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "4dde1e13b366945bc522",
+      "title": "防衛費70〜80兆円を与党が要求 財務省案に「足りない」と批判相次ぐ 首相の判断「ちぐはぐ」",
+      "url": "https://www.nishinippon.co.jp/item/1563204/",
+      "source": "www.nishinippon.co.jp",
+      "publishedAt": "2026-11-21T15:06:13+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -872,6 +1073,16 @@
       "topics": [
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "aaa061a4805046711134",
+      "title": "麻生グループ生コン不正、190現場に出荷 系列2社も調査 国会で民改・神谷氏が追及",
+      "url": "https://www.sankei.com/article/20261120-PUPNMGHNKVHN5CXBKI6JKVRUFQ/?outputType=asynd",
+      "source": "www.sankei.com",
+      "publishedAt": "2026-11-20T20:34:00+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -7981,6 +8192,7 @@
     "44957413143",
     "44982350883",
     "45013760332",
-    "45078881164"
+    "45078881164",
+    "45108909799"
   ]
 }
