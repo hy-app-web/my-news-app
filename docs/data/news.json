@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-11-23T03:57:00+00:00",
+  "updatedAt": "2026-11-23T11:00:15+00:00",
   "articles": [
+    {
+      "id": "1db5b6cb0c33de966bc1",
+      "title": "北アフリカに停泊中のロシア軍艦、ウクライナのドローン攻撃で沈没とゼレンスキー氏",
+      "url": "https://www.cnn.co.jp/world/35255295.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-23T08:52:14+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "0c5ef57f78b02846a284",
+      "title": "Lean で手続き的プログラム の証明が書けるようになった",
+      "url": "https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-23T08:38:03+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "02a75852181851d2d59e",
+      "title": "みんなの「めにしゅき」集計 ～弱者男性に好かれるウマ娘ステークス～｜dragoner",
+      "url": "https://note.com/dragoner/n/n4e4226688a32",
+      "source": "note.com",
+      "publishedAt": "2026-11-23T08:10:48+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "08bf6c1abfc3efce67a4",
+      "title": "【記者の解説】首里城は誰のものか 国主催の復元完成式に「県民不在」の印象 | 沖縄タイムス＋プラス",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1972263",
+      "source": "www.okinawatimes.co.jp",
+      "publishedAt": "2026-11-23T08:06:28+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "c93a0147ab0968d0a915",
+      "title": "続・共産党に入って五年経った。(今年で六年になった)",
+      "url": "https://anond.hatelabo.jp/20261123165118",
+      "source": "anond.hatelabo.jp",
+      "publishedAt": "2026-11-23T07:58:26+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "34e9241eb4cfbd5ab1ca",
+      "title": "なぜ今形式検証なのか",
+      "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-23T06:15:16+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "eba3b7756e2cf26551d1",
+      "title": "XユーザーのYONAOSHI@IKKIさん: 「日本メディアのデッチ上げ BS朝日『日曜スクープ』だけは降機前後を詳報 予定より一時間も早く着いて、国際慣例は機中待機の所、高市の我儘で急遽降りて来たのを、対応してもらったのだ 準備も歓迎もへったくれもあったものではない 木原官房長官も承知の上と言っているだろ https://t.co/JpEZHQ2x73」 / X",
+      "url": "https://x.com/YONAOSHIIKKI1/status/2124577682575036773",
+      "source": "x.com",
+      "publishedAt": "2026-11-23T05:37:38+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "ae2061071f0b01a26873",
+      "title": "｢野村は100%､楽天･SBIは50%｣は過去の話…NISA口座を乗っ取られても｢全額戻るとは限らない｣補償の新ルール（プレジデントオンライン） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-23T05:30:40+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "f2f84a8d5346f0b74778",
+      "title": "ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析",
+      "url": "https://www.cnn.co.jp/world/35255291.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-23T04:58:46+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "c0564206e1c7a166c0f5",
+      "title": "優秀な人が小さくまとまる現象 - pospomeのプログラミング日記",
+      "url": "https://www.pospome.work/entry/2026/11/23/125036",
+      "source": "www.pospome.work",
+      "publishedAt": "2026-11-23T04:14:27+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "ba2a70dc0dd8008955b4",
+      "title": "お湯注ぐだけ「カップご飯」好調、レンジ・炊飯器なくても「炊き立て」…「あさげ」「麻婆」など各社工夫",
+      "url": "https://www.yomiuri.co.jp/economy/20261121-GYT1T00076/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-23T03:54:56+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "a052ef6d0100e857f2d7",
+      "title": "PLG 型 SaaS is Dead はAIによる擬態代替ではなくAIからの擬態攻撃によって達成されてしまうのか - 太陽がまぶしかったから",
+      "url": "https://www.du-soleil.com/entry/plg-saas-is-dead-by-ai-attack",
+      "source": "www.du-soleil.com",
+      "publishedAt": "2026-11-23T01:37:11+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
     {
       "id": "bfee9a998115def4c4a3",
       "title": "キャベツとバターを使った料理の動画に、世界中からツッコミが殺到している「なんで…バター…お湯の中に…なんで…」「だいたいお好み焼きだな」",
@@ -85,6 +206,17 @@
       ]
     },
     {
+      "id": "25cabad3be06876abcc9",
+      "title": "日本共産党の食堂で工夫して安価なステーキランチが提供されることに怒りの声があつまる一方、自由民主党の食堂では巨大なカジキマグロが提供される特権が享受されていた - 法華狼の日記",
+      "url": "https://hokke-ookami.hatenablog.com/entry/20261120/1795100400",
+      "source": "hokke-ookami.hatenablog.com",
+      "publishedAt": "2026-11-22T22:57:00+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
       "id": "1240476f67e936ac6cf1",
       "title": "ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」",
       "url": "https://posfie.com/@petaritape/p/tgzVdbL",
@@ -109,6 +241,48 @@
       ]
     },
     {
+      "id": "b87240137b6e8604942f",
+      "title": "所得1億円超、10年で倍増 24年3万8千人、格差拡大",
+      "url": "https://www.47news.jp/15271432.html",
+      "source": "www.47news.jp",
+      "publishedAt": "2026-11-22T20:14:32+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
+      "id": "9b154500a57c6494d90b",
+      "title": "Webメール開発を大幅に変えたJMAPというゲームチェンジャー",
+      "url": "https://speakerdeck.com/tascript/jmap-is-game-changer",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-22T15:40:52+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "419058bc571a2c48fdfd",
+      "title": "いま、改めて「不安」に着目する",
+      "url": "https://www.nri.com/jp/knowledge/report/2026forum415.html",
+      "source": "www.nri.com",
+      "publishedAt": "2026-11-22T15:35:02+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "8458fd289a0a420e2eac",
+      "title": "ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」",
+      "url": "https://gigazine.net/news/20261123-lastbook-offline-knowledge/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-22T15:26:08+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "d41156014e008f70b743",
       "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
       "url": "https://note.com/cgbeginner/n/n5856d402f125",
@@ -116,6 +290,17 @@
       "publishedAt": "2026-11-22T13:51:31+00:00",
       "topics": [
         "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "2f57bf61f3ea7bd020fe",
+      "title": "猫撫でシミュレーター",
+      "url": "https://pet-the-cat.pages.dev/",
+      "source": "pet-the-cat.pages.dev",
+      "publishedAt": "2026-11-22T12:50:59+00:00",
+      "topics": [
+        "テクノロジー",
         "バズ"
       ]
     },
@@ -332,6 +517,16 @@
       "topics": [
         "ビジネス",
         "バズ"
+      ]
+    },
+    {
+      "id": "c3541aba05b5a0745fa6",
+      "title": "米国第一主義は終わらない 左右両党が探る「トランプ後」の現実路線 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD173HZ0X11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-22T03:14:58+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -945,6 +1140,16 @@
       "publishedAt": "2026-11-21T00:42:07+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "38f9c39462b785e363a9",
+      "title": "トランプ氏、エヌビディア前CEOの復帰要求「いくつか悪い判断をしたが良いやつ」",
+      "url": "https://www.afpbb.com/articles/-/3663550",
+      "source": "www.afpbb.com",
+      "publishedAt": "2026-11-21T00:40:52+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -8193,6 +8398,7 @@
     "44982350883",
     "45013760332",
     "45078881164",
-    "45108909799"
+    "45108909799",
+    "45161136889"
   ]
 }
