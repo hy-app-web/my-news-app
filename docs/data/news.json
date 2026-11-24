@@ -1,6 +1,103 @@
 {
-  "updatedAt": "2026-11-24T03:54:54+00:00",
+  "updatedAt": "2026-11-24T10:52:53+00:00",
   "articles": [
+    {
+      "id": "6f5e352823acd32cd4d5",
+      "title": "京王グループ利用者の個人情報約1063万件が漏洩か 氏名・住所・電話番号のほかカード番号、本人確認書類など（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/4dd5343ed324e262534a3360c0734fa3ba221a44",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-24T09:37:12+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "836a54246b98f9683980",
+      "title": "ソフトバンク、「ITmedia」運営会社の売却検討 AI関連事業に集中 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-24T08:42:06+00:00",
+      "topics": [
+        "AI",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "0c4cb9ca1db1a726b857",
+      "title": "母を麻辣湯のお店に誘ったら「あれもこれも自分で好きに選べるなんて責任逃れでしかない、完成された1杯を自信をもって出してくれるお店がいい」と言われた",
+      "url": "https://togetter.com/li/2774400",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-24T07:35:02+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "98cfa4ff6bbba2e9952a",
+      "title": "月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-24T06:48:05+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "f70b179b64f0e6fa4f9d",
+      "title": "おじさんの異世界転性 - くぼたふみお / 第6話「おじさんとラーメン」 | マグコミ",
+      "url": "https://magcomi.com/episode/12207421984407645133",
+      "source": "magcomi.com",
+      "publishedAt": "2026-11-24T06:26:46+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "90c9253932dd3948c021",
+      "title": "「松屋」の一人負けなのか？「吉野家」「すき家」と明暗を分けた既存店売上、その差はどこにあるのか #エキスパートトピ（三輪大輔） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-24T03:38:59+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "0e9eb9ea6d72a5cb5c0a",
+      "title": "カップヌードルミュージアムに行った報告をXにアップしたら12時間ロック、「合意のない裸の描写を禁止するルールに違反しています」とのこと…「ヌード」ルがダメらしい",
+      "url": "https://togetter.com/li/2774298",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-24T02:51:04+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "530d0fea4d899328e5f4",
+      "title": "ずんだもん、公式の画像生成AI用「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み",
+      "url": "https://kai-you.net/article/97231",
+      "source": "kai-you.net",
+      "publishedAt": "2026-11-24T02:35:37+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "34fba979ce952feac27f",
+      "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズもパンプスも「全力疾走できる」と愛用者が多いが、4ブランドが終了し新シリーズに",
+      "url": "https://togetter.com/li/2773573",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-24T02:14:01+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
     {
       "id": "9637df75356b9e4ee338",
       "title": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮 - 日本経済新聞",
@@ -9,6 +106,38 @@
       "publishedAt": "2026-11-24T02:06:59+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "b9eb4a51c719211b91dd",
+      "title": "【GA4×生成AI・中級編】AIにサイト改善案の「たたき台」を作らせる方法 - オウンドメディア戦略ラボ by はてな",
+      "url": "https://www.hatena.ne.jp/ownedmedia/article/ga4-mcp-improvement-ideas",
+      "source": "www.hatena.ne.jp",
+      "publishedAt": "2026-11-24T02:00:16+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "f0bdfc3101e96986bb05",
+      "title": "【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース",
+      "url": "https://hatenanews.com/articles/2026/11/24/093000",
+      "source": "hatenanews.com",
+      "publishedAt": "2026-11-24T00:49:11+00:00",
+      "topics": [
+        "AI",
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "0bfe2341f4f887330bbb",
+      "title": "宵宮凪がマネに夜食を作る理由 第9話",
+      "url": "https://manga-one.com/manga/28498/chapter/362242",
+      "source": "manga-one.com",
+      "publishedAt": "2026-11-24T00:29:10+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
       ]
     },
     {
@@ -31,6 +160,17 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "cb47846630d9eb135377",
+      "title": "保育士ら50人全員退職へ…来年度こまった 墨田区の公設民営保育園、運営体制の紆余曲折で「待遇ダウン」：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/530161",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-23T23:47:51+00:00",
+      "topics": [
+        "バズ",
+        "東京"
       ]
     },
     {
@@ -63,6 +203,17 @@
       "publishedAt": "2026-11-23T23:16:18+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "d4682d4f35fa8a2850df",
+      "title": "「勝ち筋」という用語の流行にみる経営の貧困｜S_KUMA",
+      "url": "https://note.com/clever_eel2325/n/n389f5821ab24",
+      "source": "note.com",
+      "publishedAt": "2026-11-23T22:53:37+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
       ]
     },
     {
@@ -136,6 +287,17 @@
       "source": "www.reuters.com",
       "publishedAt": "2026-11-23T17:02:41+00:00",
       "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "95335c7e1cb551c30c7a",
+      "title": "エヌビディア、不倫問題で辞任したフアン氏のCEO復帰発表 国家安保上のリスクないと「確信」",
+      "url": "https://www.cnn.co.jp/tech/35255303.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-23T15:50:10+00:00",
+      "topics": [
+        "AI",
         "経済"
       ]
     },
@@ -691,6 +853,16 @@
       ]
     },
     {
+      "id": "ff6b43bfcb57ca4fc696",
+      "title": "[第215話]ラーメン赤猫 - アンギャマン | 少年ジャンプ＋",
+      "url": "https://shonenjumpplus.com/episode/9253191257982514383",
+      "source": "shonenjumpplus.com",
+      "publishedAt": "2026-11-22T15:00:18+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "d41156014e008f70b743",
       "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
       "url": "https://note.com/cgbeginner/n/n5856d402f125",
@@ -928,6 +1100,16 @@
       ]
     },
     {
+      "id": "b6f0c8fbe13aef45d45e",
+      "title": "日本初といわれたラーメン店「浅草来々軒」、創業地で８０年ぶり復活…創業者の玄孫が残る記録生かしスープ作り",
+      "url": "https://www.yomiuri.co.jp/national/20261122-GYT1T00094/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-22T03:20:31+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "c3541aba05b5a0745fa6",
       "title": "米国第一主義は終わらない 左右両党が探る「トランプ後」の現実路線 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOCD173HZ0X11C26A1000000/",
@@ -987,6 +1169,16 @@
       "publishedAt": "2026-11-22T01:52:45+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "8f3f4842c7f365ec9920",
+      "title": "「辛ラーメン」国内売上高5倍 テレビCMに頼らずSNSでファン拡大 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC090AH0Z01C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-22T01:42:06+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -1882,6 +2074,16 @@
       ]
     },
     {
+      "id": "e0391f6a1667db457619",
+      "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-20T12:43:50+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
       "id": "acf0f88676e8ba1329ff",
       "title": "関文科相、政治資金パーティー巡りさらに3回の官僚の出席判明 | 毎日新聞",
       "url": "https://mainichi.jp/articles/20261120/k00/00m/010/346000c",
@@ -2101,6 +2303,16 @@
         "ビジネス",
         "経済",
         "バズ"
+      ]
+    },
+    {
+      "id": "7e71af90069689bde0d7",
+      "title": "Windows 11のロック画面をナレーターで突破できる脆弱性。BitLocker環境も対象",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2158179.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-20T06:24:34+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -8819,6 +9031,7 @@
     "45108909799",
     "45161136889",
     "45283057025",
-    "45322725579"
+    "45322725579",
+    "45378911240"
   ]
 }
