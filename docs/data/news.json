@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-24T10:52:53+00:00",
+  "updatedAt": "2026-11-24T22:52:24+00:00",
   "articles": [
+    {
+      "id": "a060371bab1d4b421606",
+      "title": "ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003427/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-24T12:28:49+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "be82fdb4d41fa810ed8f",
+      "title": "長女がほぼ毎日夕食に文句を言うので穏やかに叱っていたが、今日プチっと何かが切れて「明日から我が家はカルテスエッセンにします！」と宣言した",
+      "url": "https://togetter.com/li/2774480",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-24T11:35:20+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "5a6d140d69f99e32e50a",
+      "title": "「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る",
+      "url": "https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-24T11:03:20+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "5c26660707a2fa21e0ea",
+      "title": "装備発注、最大８割減 防衛省、企業に通知：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?g=pol&k=2026112400951",
+      "source": "www.jiji.com",
+      "publishedAt": "2026-11-24T10:58:59+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "412a69a28adc458ccc39",
+      "title": "パナソニック サイクルテック、自転車・電動アシスト自転車生産の中核拠点「柏原工場」に53年ぶりの新棟稼働",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158820.html",
+      "source": "car.watch.impress.co.jp",
+      "publishedAt": "2026-11-24T10:44:13+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "f8717f0addacb3274d89",
+      "title": "木原稔官房長官「セキネ所長」…ICC赤根智子所長の名前を繰り返し言い間違う：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/530380",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-24T10:28:46+00:00",
+      "topics": [
+        "バズ",
+        "東京"
+      ]
+    },
     {
       "id": "6f5e352823acd32cd4d5",
       "title": "京王グループ利用者の個人情報約1063万件が漏洩か 氏名・住所・電話番号のほかカード番号、本人確認書類など（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
@@ -9,6 +73,26 @@
       "publishedAt": "2026-11-24T09:37:12+00:00",
       "topics": [
         "ビジネス"
+      ]
+    },
+    {
+      "id": "1e76a1eac6bdbe8d702b",
+      "title": "https://www.keio.co.jp/news/update/news_release/news_release2026/pdf/nr20261124_newsrelease.pdf",
+      "url": "https://www.keio.co.jp/news/update/news_release/news_release2026/pdf/nr20261124_newsrelease.pdf",
+      "source": "www.keio.co.jp",
+      "publishedAt": "2026-11-24T09:24:27+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "f2a8b0862f56c4c01a94",
+      "title": "パスワード、全く自己管理する気がなくほぼ毎回リセットする運用の人が居てびびった→実はむしろこれが正しい運用であることをまだ人類は知らない",
+      "url": "https://togetter.com/li/2774455",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-24T09:12:32+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -24,6 +108,57 @@
       ]
     },
     {
+      "id": "39aa1f4b43f974bd6896",
+      "title": "呼びかけると故人の写真を映すAI仏壇「コハコ」発売、49万5000円 10年後の家族に動画を届ける機能も | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/24/5803.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-24T08:03:49+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "2441ba458451842805e2",
+      "title": "アンカー、防犯カメラ2機種発売 4K対応で屋外監視用と窓に貼るだけのお手軽モデル",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2158719.html",
+      "source": "k-tai.watch.impress.co.jp",
+      "publishedAt": "2026-11-24T07:56:45+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "a0f9e6dac55951432f50",
+      "title": "「恥ずかしい」高市首相 他国首相に“てへぺろ舌出し”が波紋…海外メディアに相次いで取り上げられる事態に | 女性自身",
+      "url": "https://jisin.jp/domestic/2611198/",
+      "source": "jisin.jp",
+      "publishedAt": "2026-11-24T07:54:36+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "3974278f6cc0cb183916",
+      "title": "4000円の焼きうどんの材料費内訳の謎は女が墓まで持っていく極秘事項",
+      "url": "https://posfie.com/@sukiiiiiila/p/ggGekNu",
+      "source": "posfie.com",
+      "publishedAt": "2026-11-24T07:49:15+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "ee1daea485e5d3b86fb9",
+      "title": "徳川2代目の毒見役に「殺そうと思えば今抜刀すればいいんだから毒なんて入れるかよ！！」と啖呵を切って自ら台所に立って生まれて初めての温かい料理を振る舞った…という話もある伊達政宗。→「うちの殿マジで無限にクックパッド投稿するタイプだからね」",
+      "url": "https://posfie.com/@mumimushunyu/p/GOgy3z8",
+      "source": "posfie.com",
+      "publishedAt": "2026-11-24T07:38:55+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "0c4cb9ca1db1a726b857",
       "title": "母を麻辣湯のお店に誘ったら「あれもこれも自分で好きに選べるなんて責任逃れでしかない、完成された1杯を自信をもって出してくれるお店がいい」と言われた",
       "url": "https://togetter.com/li/2774400",
@@ -31,6 +166,28 @@
       "publishedAt": "2026-11-24T07:35:02+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "0896cbefcdf166b0bec8",
+      "title": "社員の4分の1が一斉に辞めた…｢信長の野望｣生みの親･襟川会長が､その退職者たちを｢経営の先生｣と呼ぶワケ",
+      "url": "https://president.jp/articles/-/122533",
+      "source": "president.jp",
+      "publishedAt": "2026-11-24T07:14:37+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "71e78d12e0794392af9d",
+      "title": "「こんなに良くなったのに」という問い——努力と動員が結びつかない地下アイドル飽和時代｜jubio_09",
+      "url": "https://note.com/modern_ram7833/n/n35aa7ab67174",
+      "source": "note.com",
+      "publishedAt": "2026-11-24T07:11:24+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
       ]
     },
     {
@@ -51,6 +208,36 @@
       "publishedAt": "2026-11-24T06:26:46+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "137d0b7f5fc304d34d7b",
+      "title": "ISUCON2026 問題解説と講評 : ISUCON公式Blog",
+      "url": "https://isucon.net/archives/isucon2026-problem-review.html",
+      "source": "isucon.net",
+      "publishedAt": "2026-11-24T06:16:08+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "2ec1ea251c5860cdccb8",
+      "title": "Lean で始める契約プログラミング - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/contract-programming-in-lean",
+      "source": "www.m3tech.blog",
+      "publishedAt": "2026-11-24T05:30:32+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "fe8e72837022f310544a",
+      "title": "女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める | ギズモード・ジャパン",
+      "url": "https://www.gizmodo.jp/article/2611-underwater-trash-can-microplastics/",
+      "source": "www.gizmodo.jp",
+      "publishedAt": "2026-11-24T04:24:03+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -246,6 +433,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "fead96294a0bca91ab9e",
+      "title": "イギリスは8人に1人がニート 政府が就労支援、若者採用の企業に助成 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB29CUA0Z21C26A0000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-23T22:04:54+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -650,6 +847,16 @@
       "publishedAt": "2026-11-23T02:21:24+00:00",
       "topics": [
         "ビジネス"
+      ]
+    },
+    {
+      "id": "ce21395c70a2eaa4c8ad",
+      "title": "宮古や八重山 首里城復元に思い複雑「祝福ばかりではない」 琉球王国時代に人頭税 | 沖縄タイムス＋プラス",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1972361",
+      "source": "www.okinawatimes.co.jp",
+      "publishedAt": "2026-11-23T01:45:53+00:00",
+      "topics": [
+        "沖縄"
       ]
     },
     {
@@ -9032,6 +9239,7 @@
     "45161136889",
     "45283057025",
     "45322725579",
-    "45378911240"
+    "45378911240",
+    "45504909161"
   ]
 }
