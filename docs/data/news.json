@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-11-23T22:47:58+00:00",
+  "updatedAt": "2026-11-24T03:54:54+00:00",
   "articles": [
+    {
+      "id": "9637df75356b9e4ee338",
+      "title": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB094PF0Z01C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-24T02:06:59+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "f2666b7e8766308cadc7",
+      "title": "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！ さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html",
+      "source": "internet.watch.impress.co.jp",
+      "publishedAt": "2026-11-24T00:27:02+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a10feadde03d101c27f5",
+      "title": "Museに後れを取るアップルとグーグル AIエージェント戦争のジレンマ【西田宗千佳のイマトミライ】",
+      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2158551.html",
+      "source": "www.watch.impress.co.jp",
+      "publishedAt": "2026-11-24T00:16:14+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "21bf5fa6695015669298",
+      "title": "EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGR2409X0U6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-23T23:40:13+00:00",
+      "topics": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "id": "8788e10f07a54afafd29",
+      "title": "「今度はもっといいCEOになる」NVIDIAファン氏 本社で社員出迎え - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN2400B0U6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-23T23:18:58+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "1f078b0e6eecf861a4ca",
+      "title": "「Gemini」アプリにちょっとした隠し機能、モデルの切り替えボタンを長押しすると……／ボタン連打でもいいみたい【やじうまの杜】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158556.html",
+      "source": "forest.watch.impress.co.jp",
+      "publishedAt": "2026-11-23T23:16:18+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "db920bbb6ca9f30aee50",
+      "title": "自動運転が変える「超・車社会」アメリカ 若者の免許保有は大幅減 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFD0401T0U6A101C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-23T22:52:12+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "57055e36fb82f74a733b",
+      "title": "バイブ形式手法のハマりどころ2選 - 若くない何かの悩み",
+      "url": "https://blog.kuniwak.com/entry/vibe-fm",
+      "source": "blog.kuniwak.com",
+      "publishedAt": "2026-11-23T22:28:29+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "cb5bb1694db62ae0d074",
+      "title": "マンガ・アニメ投稿、ＡＩ検知の８割超が著作権侵害…文化庁が対海賊版システム推進へ",
+      "url": "https://www.yomiuri.co.jp/politics/20261124-GYT1T00033/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-23T22:18:57+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
     {
       "id": "db9376cd37645a708e3b",
       "title": "サウンドサンタ2026で最大10万円分の商品プレゼント！サウンドハウスクリスマスキャンペーン!! | ギターいじリストのおうち",
@@ -10,6 +106,37 @@
       "topics": [
         "バズ",
         "イベント"
+      ]
+    },
+    {
+      "id": "abd70bb4aa593ef01dcf",
+      "title": "NECの「バザールでござーる」今日で引退。約35年の歴史に幕",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2158462.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-23T21:20:45+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b5129d6fc89af52dbb22",
+      "title": "Introducing Claude Ship",
+      "url": "https://claude.com/resources/articles/introducing-claude-ship",
+      "source": "claude.com",
+      "publishedAt": "2026-11-23T21:17:44+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "649e8eb01ca5f55c9fa8",
+      "title": "トランプ氏、8月末にエヌビディア株最大6200万ドル保有か＝米紙 | ロイター",
+      "url": "https://www.reuters.com/jp/business/technology/DL4WIDVA7JJZBDZG7G6GYMRGZI-2026-11-16/",
+      "source": "www.reuters.com",
+      "publishedAt": "2026-11-23T17:02:41+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -32,6 +159,16 @@
       "topics": [
         "ビジネス",
         "バズ"
+      ]
+    },
+    {
+      "id": "8f0f558927881d907178",
+      "title": "懐かしの味は？一番好きなポッポのラーメンってこんな味？ - 自己満足な日記or備忘録 akayamaqueen",
+      "url": "https://fatbottomgirl.hatenablog.com/entry/natukasinoaji-itibansuki-poppo-ramen",
+      "source": "fatbottomgirl.hatenablog.com",
+      "publishedAt": "2026-11-23T14:24:26+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -66,6 +203,16 @@
       "publishedAt": "2026-11-23T13:05:11+00:00",
       "topics": [
         "ビジネス"
+      ]
+    },
+    {
+      "id": "7ba152b2b7b46dacf82f",
+      "title": "休日ランチ・・・初めての味噌ラーメン+炒め野菜で 😃🎶 - sa2929’s blog",
+      "url": "https://sa2929.hatenablog.com/entry/2026/11/23/211731",
+      "source": "sa2929.hatenablog.com",
+      "publishedAt": "2026-11-23T12:24:11+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -140,6 +287,16 @@
       ]
     },
     {
+      "id": "e0925a1379c55235df05",
+      "title": "辛ラーメンの食べ方 - 透明で不可能性",
+      "url": "https://haruno1114.hatenadiary.jp/entry/2026/11/23/190629",
+      "source": "haruno1114.hatenadiary.jp",
+      "publishedAt": "2026-11-23T10:31:21+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "2afa605e4f86905ca29a",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
@@ -149,6 +306,16 @@
         "AI",
         "バズ",
         "イベント"
+      ]
+    },
+    {
+      "id": "69f4a53d5fe400a81a3a",
+      "title": "【今週のラーメン６００７】中華そば みたか（東京・三鷹）ラーメン もやし 細葱 ＋ もやしピーマン竹の子皿 ＋ サッポロ赤星２本 〜半月ぶりだヨ、麺活動再開！赤星に心も踊る！もやし細葱ラーメンで旨さも笑顔も大盛り！ - ラーメン食べて詠います",
+      "url": "https://www.ramentabete.com/entry/2026/11/22/000000",
+      "source": "www.ramentabete.com",
+      "publishedAt": "2026-11-23T09:20:28+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -314,6 +481,16 @@
       ]
     },
     {
+      "id": "d64656f8d6cf7d3cbb87",
+      "title": "ストアーズの料金値上げについて／オンラインストアの預け先：書店さん・小売さん向け情報｜よはく舎Yohakusha",
+      "url": "https://note.com/yohakusha/n/n30984a0cbddc",
+      "source": "note.com",
+      "publishedAt": "2026-11-23T02:21:24+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "a052ef6d0100e857f2d7",
       "title": "PLG 型 SaaS is Dead はAIによる擬態代替ではなくAIからの擬態攻撃によって達成されてしまうのか - 太陽がまぶしかったから",
       "url": "https://www.du-soleil.com/entry/plg-saas-is-dead-by-ai-attack",
@@ -331,6 +508,16 @@
       "publishedAt": "2026-11-23T01:09:06+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "2ff798913994772de51f",
+      "title": "期待の中堅社員が突然消える！？ 「サイレント離職」をどう防ぐか、制度より大切なのは……（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/a316b8f1717aa0a15e2521eb5b11324b59e111bc",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-23T00:38:27+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -352,6 +539,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "95af66e58063346eddc1",
+      "title": "「バラバラに闘う」現状を変えたい…公益通報の当事者らが新団体設立、制度改善へ一歩：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/530015",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-22T23:50:48+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -449,6 +646,16 @@
       "publishedAt": "2026-11-22T20:14:32+00:00",
       "topics": [
         "東京"
+      ]
+    },
+    {
+      "id": "9bc9c1530134593e6787",
+      "title": "あさり・ホタテ・しじみ・牡蠣の旨みエキスが加えられた｜セイコーマート 貝だし醤油ラーメン - 都良（TORA）の北海道キャンプ場、温泉、道の駅、ホテル情報",
+      "url": "https://torawriter.hatenablog.com/entry/2026/11/22/105407",
+      "source": "torawriter.hatenablog.com",
+      "publishedAt": "2026-11-22T19:15:24+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -8611,6 +8818,7 @@
     "45078881164",
     "45108909799",
     "45161136889",
-    "45283057025"
+    "45283057025",
+    "45322725579"
   ]
 }
