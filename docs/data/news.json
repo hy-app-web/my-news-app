@@ -1,6 +1,100 @@
 {
-  "updatedAt": "2026-11-25T10:54:12+00:00",
+  "updatedAt": "2026-11-25T22:49:54+00:00",
   "articles": [
+    {
+      "id": "6b84cd9a834e497f3beb",
+      "title": "Update on a security incident involving 1Password’s backend systems. | 1Password",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "1password.com",
+      "publishedAt": "2026-11-25T18:52:09+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "20228339807473eae683",
+      "title": "米、日中ＥＵなど14カ国・地域に新関税提案 貿易摩擦再燃も | ロイター",
+      "url": "https://www.reuters.com/jp/world/taiwan/U3KIKG5A55NVHAMNP4WFFMXHFY-2026-11-25/",
+      "source": "www.reuters.com",
+      "publishedAt": "2026-11-25T15:31:13+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "0613ee1f6ea0c2aeae7e",
+      "title": "PayPayでシステム障害 カード連携サービスで決済できず | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261125de81532",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-25T14:26:59+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "b4e754e50ec5cb43cfdb",
+      "title": "安保強化へ財政配慮を、財源確保「国民負担も」 3文書提言原案 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA256LW0V21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-25T12:02:09+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "55d5d428f0512390a14d",
+      "title": "AnthropicとOpenAIの従業員らが「未公開モデルが強力になりすぎて一般公開するのは危険」と懸念",
+      "url": "https://gigazine.net/news/20261125-anthropic-openai-employees-fear-unreleased-ai-models/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-25T11:43:19+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "e540cf2eba9577b47ab4",
+      "title": "アンソロピックに無断販売された日本の書籍、絶版が複数含まれていたと判明…ＡＩ学習で大量スキャンか",
+      "url": "https://www.yomiuri.co.jp/culture/20261125-GYT1T00293/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-25T11:36:30+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "11337735f2987d7b1dd3",
+      "title": "観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI",
+      "url": "https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-25T11:26:01+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a3e5af8aca5c4c4caac9",
+      "title": "中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに",
+      "url": "https://gigazine.net/news/20261125-china-spy-nvidia-chips/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-25T09:49:34+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "20d5d80d49a41963927c",
+      "title": "子ども食堂1万3800か所余り 過去最多に 活動の維持に課題も | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261125de81253",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-25T09:30:32+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
     {
       "id": "f4012bcadb1a4a4a7f75",
       "title": "AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】｜Shikimi",
@@ -10,6 +104,47 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "6abfc8b294254ed888c9",
+      "title": "不動産屋に内覧希望のアポを取って出かけたのに「今時は内覧なんかしないで決める、これから繁忙期なのですぐ決めたほうがいい」と力説された…これって本当？",
+      "url": "https://togetter.com/li/2774812",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-25T08:13:40+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
+      "id": "aafa019874fb3a0782e8",
+      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-25T08:07:04+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "4135a3571619a425081f",
+      "title": "芥川賞作家に罰金30万円 米軍辺野古移設抗議活動中に沖縄防衛局のフェンス損壊",
+      "url": "https://www.sankei.com/article/20261125-E2PMFZ2ZGRNE3K6B6XBROWNE44/",
+      "source": "www.sankei.com",
+      "publishedAt": "2026-11-25T08:06:37+00:00",
+      "topics": [
+        "沖縄"
+      ]
+    },
+    {
+      "id": "58b20ccfdead83134b90",
+      "title": "GitHub Copilot が切り拓くエージェント時代の開発ワークフロー",
+      "url": "https://speakerdeck.com/moulongzhang/20261124-githubconnecttokyo-session2",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-25T07:56:34+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -33,11 +168,31 @@
       ]
     },
     {
+      "id": "7785424ea12d3e411471",
+      "title": "オーケーのお弁当（ちらし寿司／3色丼）@自宅 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35359219/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-25T06:42:30+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "98cd8e71345c1889b8bd",
       "title": "Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される",
       "url": "https://gigazine.net/news/20261125-anthropic-claude-install-as-app/",
       "source": "gigazine.net",
       "publishedAt": "2026-11-25T05:40:03+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "18760b2374124b1f020e",
+      "title": "EXT4に4万行のAI生成コード、rcサイクル終盤の投入にトーバルズ氏が警告",
+      "url": "https://joho-todai.com/ext4-ai-generated-code-linus-warning/",
+      "source": "joho-todai.com",
+      "publishedAt": "2026-11-25T05:26:03+00:00",
       "topics": [
         "AI"
       ]
@@ -157,6 +312,16 @@
       ]
     },
     {
+      "id": "9f40fab69d0beb84bc1a",
+      "title": "ゼンショー、「オリーブの丘」まず500店へ サイゼリヤ1強市場に攻勢 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC094SI0Z01C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-25T00:04:27+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "03f3f68f3245b34cb661",
       "title": "民泊規制でスタッフ常駐義務、ホテルに余波 フロント無人化に逆風 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC19BVW0Z11C26A1000000/",
@@ -249,6 +414,16 @@
       "publishedAt": "2026-11-24T20:21:40+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "53889040dd9a1eaebd1c",
+      "title": "「データセンターはゴミ捨て場」 テック嫌悪渦巻く米ラストベルト - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN150OK0V11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-24T19:28:11+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -836,6 +1011,16 @@
       ]
     },
     {
+      "id": "2dee2f0cd2885cda9d53",
+      "title": "【吉祥寺】ホープ軒本舗 吉祥寺店｜〆ラー！チャーシューメン＆特製中華そば",
+      "url": "https://waraibuta2.blog.fc2.com/blog-entry-5073.html",
+      "source": "waraibuta2.blog.fc2.com",
+      "publishedAt": "2026-11-23T21:06:42+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "649e8eb01ca5f55c9fa8",
       "title": "トランプ氏、8月末にエヌビディア株最大6200万ドル保有か＝米紙 | ロイター",
       "url": "https://www.reuters.com/jp/business/technology/DL4WIDVA7JJZBDZG7G6GYMRGZI-2026-11-16/",
@@ -1034,6 +1219,16 @@
       ]
     },
     {
+      "id": "0ecb01a031e7d51d1096",
+      "title": "リフォーム工事業の倒産108件、年間最多すでに更新 ～ 赤字累積、コスト増を吸収しきれず ～ | TSRデータインサイト | 東京商工リサーチ",
+      "url": "https://www.tsr-net.co.jp/data/detail/1203443_1527.html",
+      "source": "www.tsr-net.co.jp",
+      "publishedAt": "2026-11-23T10:15:42+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "2afa605e4f86905ca29a",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
@@ -1205,6 +1400,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "6343a060f3de7b1f92ec",
+      "title": "スマホ視聴の縦型ドラマ「サブスク解約できず」 トラブル相談が急増 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUD1423D0U6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-23T04:23:22+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -9660,6 +9865,7 @@
     "45378911240",
     "45504909161",
     "45543339037",
-    "45599356439"
+    "45599356439",
+    "45716500522"
   ]
 }
