@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-11-25T03:56:17+00:00",
+  "updatedAt": "2026-11-25T10:54:12+00:00",
   "articles": [
+    {
+      "id": "f4012bcadb1a4a4a7f75",
+      "title": "AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】｜Shikimi",
+      "url": "https://note.com/shikimi_crypto/n/n35d0bb54e6fb",
+      "source": "note.com",
+      "publishedAt": "2026-11-25T09:23:07+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "d529f5688e0db249c61f",
+      "title": "2029年 大河ドラマ「三成のうた」主人公・石田三成役は神木隆之介さん！",
+      "url": "https://www.nhk.jp/g/blog/6825o9r_h/",
+      "source": "www.nhk.jp",
+      "publishedAt": "2026-11-25T07:36:51+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "e582558b752696bcd426",
+      "title": "【大阪】海遊館、ラッコを9年ぶり展示すると発表 4頭予定、経緯・愛称なども明らかに",
+      "url": "https://www.oricon.co.jp/news/2495161/full/",
+      "source": "www.oricon.co.jp",
+      "publishedAt": "2026-11-25T07:22:33+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "98cd8e71345c1889b8bd",
+      "title": "Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される",
+      "url": "https://gigazine.net/news/20261125-anthropic-claude-install-as-app/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-25T05:40:03+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "a919f329656a45f451c3",
+      "title": "5.9GBでエージェント性能アップ！「Ternary Bonsai 2.5 27B」登場",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2159034.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-25T04:56:46+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "2a427d625564046cf494",
+      "title": "Rubyを安心して使い続けるために",
+      "url": "https://www.ruby.or.jp/ja/news/20261125",
+      "source": "www.ruby.or.jp",
+      "publishedAt": "2026-11-25T03:12:19+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
     {
       "id": "f3c2bd8fa9c68ef1e84b",
       "title": "AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌",
@@ -12,6 +73,16 @@
       ]
     },
     {
+      "id": "f9d9d4419a9e022299fe",
+      "title": "「半導体氷河期」を招く3つの衝撃――トランプ敗北、NVIDIAの経営混乱、メモリ各社の巨額投資",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/25/news044.html",
+      "source": "eetimes.itmedia.co.jp",
+      "publishedAt": "2026-11-25T03:01:48+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "8b217e72fb4865f2f4d4",
       "title": "@marty_friedman のポスト on X（2026-11-24 03:26） / X",
       "url": "https://x.com/marty_friedman/status/2124932608882598144",
@@ -20,6 +91,47 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "ea780963e086b84b5240",
+      "title": "「まともなカレーライスを食ったことがない」JKの時に母が作るのを観察したら、ルーを半分に割って入れ、オタフクソースとウスターソースを牛の乳搾り感覚で入れ始めていた",
+      "url": "https://togetter.com/li/2774739",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-25T02:15:02+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "e0b7f90832b0db2a155a",
+      "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-25T02:00:39+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "134cef89e8ee8b6be10d",
+      "title": "損金とは？損金算入・損金不算入や注意点、損金経理について解説",
+      "url": "https://www.ht-tax.or.jp/navi/sonkin-toha",
+      "source": "www.ht-tax.or.jp",
+      "publishedAt": "2026-11-25T02:00:16+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "8357bb4b9ce10e390603",
+      "title": "Qwen3.8 27Bを5.9GBまで省メモリ化しつつエージェント性能を維持したAIモデル「Ternary Bonsai 2.5 27B」が公開される",
+      "url": "https://gigazine.net/news/20261125-ternary-bonsai-2-5-27b/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-25T01:39:35+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -45,6 +157,28 @@
       ]
     },
     {
+      "id": "03f3f68f3245b34cb661",
+      "title": "民泊規制でスタッフ常駐義務、ホテルに余波 フロント無人化に逆風 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC19BVW0Z11C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-25T00:03:04+00:00",
+      "topics": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "id": "275d9320a5a68a87f047",
+      "title": "紀伊國屋書店､強まる出版不況の逆風下で増収増益が続くわけ…国内は｢本屋に徹する｣戦略奏功､海外の成長も寄与",
+      "url": "https://toyokeizai.net/articles/-/965491?display=b",
+      "source": "toyokeizai.net",
+      "publishedAt": "2026-11-24T23:44:18+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
       "id": "71f6008d8ee9d101c69f",
       "title": "三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261124de80746",
@@ -56,6 +190,26 @@
       ]
     },
     {
+      "id": "05c0664eda27ed4ac475",
+      "title": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」",
+      "url": "https://www.yomiuri.co.jp/world/20261125-GYT1T00030/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-24T22:47:23+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "e803186ebf16be3bb6a5",
+      "title": "トランプ氏とエヌビディアのファンCEO、モラルなき特権政治 多重の利益相反疑惑 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN245420U6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-24T22:36:09+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "0745fbdf0583a62df436",
       "title": "個人開発 with AI",
       "url": "https://zenn.dev/holygrail/scraps/dec6ae85d06b4f",
@@ -64,6 +218,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "ee7bf00d1a203e5189a3",
+      "title": "楽天証券、顧客からの預かり資産残高168万件漏洩 性別や国籍も - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-24T21:28:35+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -85,6 +249,17 @@
       "publishedAt": "2026-11-24T20:21:40+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "b6be7b0297c272ac19ea",
+      "title": "退職代行モームリを利用された企業ランキング公開",
+      "url": "https://prtimes.jp/main/html/rd/p/000000036.000103965.html",
+      "source": "prtimes.jp",
+      "publishedAt": "2026-11-24T14:18:46+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
       ]
     },
     {
@@ -435,6 +610,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "265b977456287b9c5dbb",
+      "title": "“チャッピーに聞く”でも“ググる”でもない、エンジニアが選ぶ「知識が身に付く情報源」トップは？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/24/news015.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "publishedAt": "2026-11-24T02:14:03+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -868,6 +1053,16 @@
       "publishedAt": "2026-11-23T09:20:28+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "2171da1112956ad9701b",
+      "title": "【スタートアップの中の人】Newspicksの取材を受ける際の心得 ７つ｜松田祐樹＠MD-Farm",
+      "url": "https://note.com/matsuda_mdfarm/n/n579f66efa982",
+      "source": "note.com",
+      "publishedAt": "2026-11-23T09:18:16+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -6463,6 +6658,16 @@
       ]
     },
     {
+      "id": "295a8e3b9b6497293e64",
+      "title": "学校行事に約7000円は高すぎる？ 高校生の打ち上げやおそろいグッズで広がる「フレンドフレーション」 | JBpress (ジェイビープレス)",
+      "url": "https://jbpress.ismedia.jp/articles/-/97977",
+      "source": "jbpress.ismedia.jp",
+      "publishedAt": "2026-11-15T01:40:21+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
       "id": "55dcb34b8647fe108a59",
       "title": "福井市の『フェニックス通り』や『フェニックスプラザ』を東京の人に「フェニックスってｗ」と笑われたことがあるが、なぜフェニックスなのか説明したら神妙な顔で謝られた",
       "url": "https://togetter.com/li/2770584",
@@ -9454,6 +9659,7 @@
     "45322725579",
     "45378911240",
     "45504909161",
-    "45543339037"
+    "45543339037",
+    "45599356439"
   ]
 }
