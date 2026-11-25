@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-11-24T22:52:24+00:00",
+  "updatedAt": "2026-11-25T03:56:17+00:00",
   "articles": [
+    {
+      "id": "f3c2bd8fa9c68ef1e84b",
+      "title": "AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-25T03:07:53+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "8b217e72fb4865f2f4d4",
+      "title": "@marty_friedman のポスト on X（2026-11-24 03:26） / X",
+      "url": "https://x.com/marty_friedman/status/2124932608882598144",
+      "source": "x.com",
+      "publishedAt": "2026-11-25T02:30:15+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "ff31472ddea14a83fa02",
+      "title": "34年目の秀丸エディタと、AIの距離感 「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_973/",
+      "source": "levtech.jp",
+      "publishedAt": "2026-11-25T00:58:54+00:00",
+      "topics": [
+        "AI",
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "09a777159abcf6ebb101",
+      "title": "Claudeで作ったツールをMac・Windowsアプリに 無料プランにも順次提供",
+      "url": "https://japan.cnet.com/article/35255360/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-25T00:44:50+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "71f6008d8ee9d101c69f",
+      "title": "三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80746",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-24T23:37:15+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "0745fbdf0583a62df436",
+      "title": "個人開発 with AI",
+      "url": "https://zenn.dev/holygrail/scraps/dec6ae85d06b4f",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-24T22:02:28+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "20e17f3578f9fbb91471",
+      "title": "AI時代の実践・形式検証入門",
+      "url": "https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1",
+      "source": "docs.google.com",
+      "publishedAt": "2026-11-24T21:16:53+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "8df32c4d86301f4de990",
+      "title": "自衛隊も「AI活用で“戦う”」通信基盤は大丈夫なの？ 防衛省が熱視線を送る「空飛ぶ基地局」とは？（乗りものニュース） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/0d9b2e1a0bc9396b52dd3893a7dff3143e01b7bd",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-24T20:21:40+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "e623478bc5fb6c1ebbe2",
+      "title": "史上最大級の大統領スキャンダルに発展か――エヌビディア事件で共和党議員もトランプに反旗｜FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/1158370",
+      "source": "www.fnn.jp",
+      "publishedAt": "2026-11-24T12:58:40+00:00",
+      "topics": [
+        "AI",
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
     {
       "id": "a060371bab1d4b421606",
       "title": "ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」",
@@ -10,6 +109,16 @@
       "topics": [
         "ビジネス",
         "バズ"
+      ]
+    },
+    {
+      "id": "6fcdcf64496c76b1309c",
+      "title": "Claudeに言われるがままに買い物をして平日作り置きの食事を1週間分作った、ワイがフィジカルAIや「合理的な気がしてきた」",
+      "url": "https://togetter.com/li/2774454",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-24T12:24:24+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -108,6 +217,17 @@
       ]
     },
     {
+      "id": "673ca178ea8fa8dc6bac",
+      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
+      "source": "techracho.bpsinc.jp",
+      "publishedAt": "2026-11-24T08:35:39+00:00",
+      "topics": [
+        "AI",
+        "ビジネス"
+      ]
+    },
+    {
       "id": "39aa1f4b43f974bd6896",
       "title": "呼びかけると故人の写真を映すAI仏壇「コハコ」発売、49万5000円 10年後の家族に動画を届ける機能も | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/11/24/5803.html",
@@ -169,6 +289,16 @@
       ]
     },
     {
+      "id": "4b32bc4b569dc5c08d98",
+      "title": "突然意識がなくなって倒れたんだけど、さっぱり記憶がないからリビングにつけてるカメラを後から見てみたら…子どもと夫の様子がシュールすぎて笑ってしまった",
+      "url": "https://togetter.com/li/2774356",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-24T07:33:36+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "0896cbefcdf166b0bec8",
       "title": "社員の4分の1が一斉に辞めた…｢信長の野望｣生みの親･襟川会長が､その退職者たちを｢経営の先生｣と呼ぶワケ",
       "url": "https://president.jp/articles/-/122533",
@@ -211,6 +341,17 @@
       ]
     },
     {
+      "id": "22cb31d8a59019c2ee95",
+      "title": "ソフトバンクグループは来年、存続の危機を迎えるかもしれない #エキスパートトピ（中原圭介） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/f88d13c76a47cf50f898065949218899ff7f2800",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-24T06:21:36+00:00",
+      "topics": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
       "id": "137d0b7f5fc304d34d7b",
       "title": "ISUCON2026 問題解説と講評 : ISUCON公式Blog",
       "url": "https://isucon.net/archives/isucon2026-problem-review.html",
@@ -231,6 +372,16 @@
       ]
     },
     {
+      "id": "3cf19d3aedd14bc78fa7",
+      "title": "かっぱ寿司、赤字9億円で15店舗閉店へ 「おいしくなった」のに回転ずし「3強」に引き離された元王者",
+      "url": "https://www.j-cast.com/2026/11/24519357.html?p=all",
+      "source": "www.j-cast.com",
+      "publishedAt": "2026-11-24T04:28:36+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "fe8e72837022f310544a",
       "title": "女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/2611-underwater-trash-can-microplastics/",
@@ -246,6 +397,18 @@
       "url": "https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39",
       "source": "news.yahoo.co.jp",
       "publishedAt": "2026-11-24T03:38:59+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "d5c6a2e7f467499de895",
+      "title": "フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転 トランプ氏は「私が取引をまとめた」と - BBCニュース",
+      "url": "https://www.bbc.com/japanese/articles/c6g7l1397vvzo",
+      "source": "www.bbc.com",
+      "publishedAt": "2026-11-24T03:12:57+00:00",
       "topics": [
         "ビジネス",
         "経済",
@@ -303,6 +466,16 @@
       "publishedAt": "2026-11-24T02:00:16+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "625bbedd3ee3ba19b411",
+      "title": "まもなく日本初上陸！さいたまMOVIXの「シネマLEDスクリーン」ってナンだ!?",
+      "url": "https://av.watch.impress.co.jp/docs/topic/2156536.html",
+      "source": "av.watch.impress.co.jp",
+      "publishedAt": "2026-11-24T01:49:06+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -555,6 +728,26 @@
       ]
     },
     {
+      "id": "0e6fa83ceae5411ca647",
+      "title": "NTT 研究所の正体 - IOWNとNTTの研究所",
+      "url": "https://endecl.hatenablog.com/entry/2026/05/04/223141",
+      "source": "endecl.hatenablog.com",
+      "publishedAt": "2026-11-23T13:46:51+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "5650a09b22e30471975a",
+      "title": "上司の野望 残酷版 - Everything you've ever Dreamed",
+      "url": "https://delete-all.hatenablog.com/entry/2026/11/23/221000",
+      "source": "delete-all.hatenablog.com",
+      "publishedAt": "2026-11-23T13:35:17+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "b8195a8611ec9a248d78",
       "title": "元100均の中の人として忠告…カレンダーや手帳を100均で済ますつもりならもう買っておいた方が良い「早い所だとカレンダーは10月末で売り切れます」",
       "url": "https://togetter.com/li/2774077",
@@ -745,6 +938,16 @@
       "publishedAt": "2026-11-23T07:58:26+00:00",
       "topics": [
         "バズ"
+      ]
+    },
+    {
+      "id": "aa55274f76a7696b6023",
+      "title": "学級閉鎖寸前のクラスで「おかわりし放題じゃん！」と給食を食べまくった結果、約60人分を完食して感謝状をもらった伝説",
+      "url": "https://togetter.com/li/2773998",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-23T07:57:44+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -1426,6 +1629,16 @@
       "publishedAt": "2026-11-22T00:59:22+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "0d9dac2b137fcf6432dd",
+      "title": "蒙古タンメン中本の魅力を体験！#ラーメン好き - うめじろうのええじゃないか！",
+      "url": "https://a-jyanaika.hatenablog.com/entry/2026/11/22/035800",
+      "source": "a-jyanaika.hatenablog.com",
+      "publishedAt": "2026-11-22T00:56:29+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -9240,6 +9453,7 @@
     "45283057025",
     "45322725579",
     "45378911240",
-    "45504909161"
+    "45504909161",
+    "45543339037"
   ]
 }
