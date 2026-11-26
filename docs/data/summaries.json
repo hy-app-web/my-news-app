@@ -1,4 +1,86 @@
 {
   "schemaVersion": 1,
-  "editions": []
+  "editions": [
+    {
+      "editionId": "2026-11-26-18",
+      "generatedAt": "2026-11-26T13:07:15.776Z",
+      "scheduledFor": "2026-11-26T18:00:00+09:00",
+      "candidateCount": 20,
+      "skippedCount": 8,
+      "items": [
+        {
+          "id": "19da6c3a76af841bed55",
+          "summary": "米ニューヨーク州のホークル知事は、AIチャットボット内蔵玩具の製造・流通・販売を州内で5年間停止する法律に署名した。子ども向け製品の調査で不適切な応答や保護者向け制限の弱さが指摘され、玩具協会は2027年2月22日の施行を案内している。",
+          "basis": "本文",
+          "sourceUrl": "https://www.techno-edge.net/article/2026/11/26/5825.html"
+        },
+        {
+          "id": "7b51604f31b10218a037",
+          "summary": "OpenAIのサイト公開機能「Sites」は2027年1月末までホスティングが無料で、2月からプランごとの月間枠を超えた分が課金対象になる予定だ。枠は公開した全サイトで共有され、アクセスやデータ保存に応じて消費される。",
+          "basis": "本文",
+          "sourceUrl": "https://ascii.jp/elem/000/004/454/4454606/"
+        },
+        {
+          "id": "1cc1c2e5f3cd30746927",
+          "summary": "BitwardenがWindows 11とmacOSのパスキー保存先として選べるようになった。OS標準の画面から保管庫にパスキーを作成・保存でき、ブラウザー拡張機能を使わずに、保存済みのパスキーでウェブサイトやアプリにサインインできる。",
+          "basis": "本文",
+          "sourceUrl": "https://forest.watch.impress.co.jp/docs/news/2159319.html"
+        },
+        {
+          "id": "272a52f90faae6949345",
+          "summary": "アシュアードの開発チームは、AIで実装を速めながら担当者が仕組みや判断の根拠を理解できるよう、計画から完了後まで六つの実践を紹介した。計画時には工程図を使い、何を材料に設計上の判断をしたかを明示する。",
+          "basis": "本文",
+          "sourceUrl": "https://note.com/assuredjp/n/n6ec5f6544e0c"
+        },
+        {
+          "id": "b8356d4cf29d267faaeb",
+          "summary": "はてな匿名ダイアリーの投稿者は、望ましい出力例を基準に、Claude Codeに共通設定ファイルの記述を見直させる方法を紹介した。モデルや実行環境の変化に合わせて毎週調整し、変更案をプルリクエストにまとめているという。",
+          "basis": "本文",
+          "sourceUrl": "https://anond.hatelabo.jp/20261126144022"
+        },
+        {
+          "id": "71a1cc62315372023135",
+          "summary": "飲食店のメニューや衣料品の紹介にAI生成画像を使う事例が増える中、弁護士が飲食店のメニューを例に景品表示法との関係を解説する。画像制作の手間を減らせる一方、提供される商品と表示の違いが論点となる。",
+          "basis": "本文",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/"
+        },
+        {
+          "id": "027c302c8816d44ddd18",
+          "summary": "イスラエルの研究チームがGitHub上の約1億4500万件を対象に、人には見えにくいAI向けの文言がどのような目的で仕込まれているかを調べた。課題の分類や変更案のレビューをAIに任せる際、第三者が書いた内容の扱いが課題になる。",
+          "basis": "本文",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/"
+        },
+        {
+          "id": "2596f2d46bde1c25c172",
+          "summary": "PayPayは、第三者が発表したPayPayマネーライトの現金化をうたうサービスについて、自社の関与を否定し、利用しないよう呼びかけた。現金化を目的とした譲渡は利用規約に違反し、残高の利用停止やアカウント閉鎖の対象になり得る。",
+          "basis": "本文",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/"
+        },
+        {
+          "id": "c84de85b053c869acc2c",
+          "summary": "AnthropicはClaudeを活用し、外部開発者や自社サービスが利用するMessages APIをPythonからRustへ移植した。2026年9月にサービスを止めずに切り替え、リクエスト当たりのCPU使用量を約70％削減したという。",
+          "basis": "本文",
+          "sourceUrl": "https://gigazine.net/news/20261126-anthropic-claude-api-rust/"
+        },
+        {
+          "id": "bcf1048e3bd080ebd1a5",
+          "summary": "開発者のアレクセイ・ファテエフ氏が、起動するとそのままQwen3-0.6Bと対話できる専用OSを公開した。カーネルは約24KBで、従来のLinux向け推論エンジンを基に、OS部分までx86-64アセンブリで実装した。",
+          "basis": "本文",
+          "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2159364.html"
+        },
+        {
+          "id": "78ec301e3987452b90d9",
+          "summary": "macOS 27の「写真」アプリには、Apple Intelligenceを使う「拡張」と「リフレーム」が加わった。PC Watchは、撮影後に画角を広げたり視点を変えたりして構図を調整する方法を、活用例とともに紹介する。",
+          "basis": "本文",
+          "sourceUrl": "https://pc.watch.impress.co.jp/docs/column/macinfo/2159075.html"
+        },
+        {
+          "id": "596da8ee4ac3e6635a6a",
+          "summary": "国内スタートアップのhigurashiが、相手の声を聞きながら話せる音声対話モデル「Haru-4B」の重みとコードを公開した。実際の会話から相づちや話者交替を学習しており、日本語で対話できる電話デモも用意した。",
+          "basis": "本文",
+          "sourceUrl": "https://www.techno-edge.net/article/2026/11/26/5819.html"
+        }
+      ]
+    }
+  ]
 }
