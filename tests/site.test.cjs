@@ -13,7 +13,7 @@ const fixtures = [
   article('Test meal', 'https://example.com/b', ['グルメ'], '2026-01-01T01:00:00Z'),
   article('Duplicate', 'https://example.com/a', ['ビジネス'], '2026-01-02T01:00:00Z')
 ];
-async function open({data = {updatedAt: '2026-01-02T01:00:00Z', articles: fixtures}, status = {feeds: []}, saved, storageBlocked = false, failure = false} = {}) {
+async function open({data = {updatedAt: '2026-01-02T01:00:00Z', articles: fixtures}, status = {feeds: []}, summaries = null, saved, storageBlocked = false, failure = false} = {}) {
   const dom = new JSDOM(html, {url:'https://hy-app-web.github.io/my-news-app/', runScripts:'outside-only'});
   const {window} = dom;
   const requests = [];
@@ -22,7 +22,7 @@ async function open({data = {updatedAt: '2026-01-02T01:00:00Z', articles: fixtur
   window.fetch = async url => {
     requests.push(url.href);
     if (failure) throw new Error('offline');
-    return {ok:true, json:async()=>url.pathname.endsWith('status.json') ? status : data};
+    return {ok:true, json:async()=>url.pathname.endsWith('summaries.json') ? summaries : url.pathname.endsWith('status.json') ? status : data};
   };
   window.eval(script);
   await new Promise(resolve=>setImmediate(resolve));
@@ -101,6 +101,39 @@ test('invalid URLs or invalid JSON data fail closed',async()=>{
     const app=await open({data});
     assert.equal(app.document.querySelectorAll('.article-link').length,0);
     assert.equal(app.document.getElementById('retry').hidden,false);
+    app.close();
+  }
+});
+
+function digestFixture(overrides = {}) {
+  return {schemaVersion:1, editions:[{editionId:'2026-01-02-12', generatedAt:'2026-01-02T03:05:00Z',
+    skippedCount:1, items:[{id:fixtures[0].id, sourceUrl:fixtures[0].url, summary:'<script>unsafe()</script> 内容を確認した要約。', basis:'本文', ...overrides}]}]};
+}
+test('digest renders verified source with safe text and filters with topics',async()=>{
+  const app=await open({summaries:digestFixture()}); const d=app.document;
+  assert.equal(d.querySelectorAll('.digest-card').length,1);
+  assert.equal(d.querySelector('.digest-card script'),null);
+  assert.match(d.querySelector('.digest-summary').textContent,/<script>/);
+  assert.equal(d.querySelector('.digest-card a').href,fixtures[0].url);
+  assert.equal(d.querySelector('.digest-card a').target,'_blank');
+  assert.match(d.getElementById('digest-status').textContent,/1件は要約/);
+  button(d,'グルメ').click(); assert.equal(d.querySelectorAll('.digest-card').length,0);
+  assert.match(d.getElementById('digest-items').textContent,/今回ありません/);
+  app.close();
+});
+test('missing or malformed digest preserves the ordinary news list',async()=>{
+  for(const summaries of [null,{}, {editions:'bad'}, {editions:[{generatedAt:'invalid',items:[]}]}]){
+    const app=await open({summaries});
+    assert.equal(app.document.querySelectorAll('.article').length,2);
+    assert.equal(app.document.querySelectorAll('.digest-card').length,0);
+    app.close();
+  }
+});
+test('digest rejects unknown URLs, unverified basis and oversized text',async()=>{
+  for(const invalid of [{sourceUrl:'javascript:alert(1)'},{id:'missing'},{basis:'見出し'},{summary:'x'.repeat(601)}]){
+    const app=await open({summaries:digestFixture(invalid)});
+    assert.equal(app.document.querySelectorAll('.digest-card').length,0);
+    assert.equal(app.document.querySelectorAll('.article').length,2);
     app.close();
   }
 });
