@@ -142,12 +142,12 @@ class WorkflowTests(unittest.TestCase):
         workflow=(ROOT/'.github/workflows/collect-news.yml').read_text()
         cron=re.search(r"cron: '([^']+)'",workflow).group(1).split()
         self.assertEqual(cron[0],'0')
-        self.assertEqual(sorted((int(h)+9)%24 for h in cron[1].split(',')),[7,12,19])
+        self.assertEqual(sorted((int(h)+9)%24 for h in cron[1].split(',')),[12,18])
         self.assertEqual(cron[2:],['*','*','*'])
         self.assertIn('workflow_dispatch:',workflow)
         for path in ['README.md','docs/index.html']:
             text=(ROOT/path).read_text()
-            self.assertIn('7時・12時・19時',text)
+            self.assertIn('12時・18時',text)
             self.assertIn('遅延',text)
 
     def test_serialization_fresh_main_and_direct_pages_call(self):
