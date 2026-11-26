@@ -1,6 +1,119 @@
 {
-  "updatedAt": "2026-11-26T03:53:33+00:00",
+  "updatedAt": "2026-11-26T10:00:03+00:00",
   "articles": [
+    {
+      "id": "19da6c3a76af841bed55",
+      "title": "米ニューヨーク州、AIチャットボット搭載おもちゃを5年間禁止 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/26/5825.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-26T07:47:47+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "7b51604f31b10218a037",
+      "title": "ChatGPTで作ったWebサイト、公開し続けると追加料金も 2027年2月から課金開始",
+      "url": "https://ascii.jp/elem/000/004/454/4454606/",
+      "source": "ascii.jp",
+      "publishedAt": "2026-11-26T07:34:56+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "1cc1c2e5f3cd30746927",
+      "title": "パスワード管理アプリ「Bitwarden」がWindows 11/macOSのパスキー機能と統合／OS標準のセキュリティ画面から保存・利用、拡張機能なしでもWebサイトへサインイン",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2159319.html",
+      "source": "forest.watch.impress.co.jp",
+      "publishedAt": "2026-11-26T07:18:21+00:00",
+      "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "272a52f90faae6949345",
+      "title": "理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード",
+      "url": "https://note.com/assuredjp/n/n6ec5f6544e0c",
+      "source": "note.com",
+      "publishedAt": "2026-11-26T06:59:49+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b8356d4cf29d267faaeb",
+      "title": "CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる",
+      "url": "https://anond.hatelabo.jp/20261126144022",
+      "source": "anond.hatelabo.jp",
+      "publishedAt": "2026-11-26T05:40:51+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "71a1cc62315372023135",
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-26T05:02:24+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "67bd8e2c6c34f5dd5d6f",
+      "title": "NVIDIAのスキャンダルを巡るトランプ大統領の言動にスティーブン・キングが「国家安全保障を犠牲に株式市場を守っている」と非難",
+      "url": "https://gigazine.net/news/20261126-stephen-king-trump/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-26T04:22:08+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "1743139681223a5f8204",
+      "title": "日産が中国製PHVを「逆輸入」 27年度、先進電動車を日本で補完 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC1689U0W6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-26T04:11:50+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "c1ff38727e3aa399dc38",
+      "title": "トランプ政権の新関税、日本は12.5％から最大15％にアップ 20％になる恐れも",
+      "url": "https://www.sankei.com/article/20261126-AGHYK432P5MQDAFGRYB44IK5IA/?outputType=asynd",
+      "source": "www.sankei.com",
+      "publishedAt": "2026-11-26T03:34:30+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "027c302c8816d44ddd18",
+      "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-26T03:22:00+00:00",
+      "topics": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "2596f2d46bde1c25c172",
+      "title": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-26T03:00:13+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
     {
       "id": "c84de85b053c869acc2c",
       "title": "AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開",
@@ -73,6 +186,28 @@
       ]
     },
     {
+      "id": "7b41b54a6a004c2e900c",
+      "title": "共産党信者「辺野古だって事故であって殺意があったわけではない。船長さんが亡くなってないか心配」",
+      "url": "https://posfie.com/@yonepo665/p/wWzxfWr",
+      "source": "posfie.com",
+      "publishedAt": "2026-11-26T00:13:32+00:00",
+      "topics": [
+        "バズ",
+        "沖縄"
+      ]
+    },
+    {
+      "id": "553c38fe8b13f7918351",
+      "title": "「防衛族」怒りの矛先が首相官邸に 防衛費の大幅増額、期待裏切られ：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCT45NZVCTUTFK01CM.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-25T23:39:16+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
       "id": "5515b89efb620587cf60",
       "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
       "url": "https://dev.sin5d.com/meta-muse-usage",
@@ -81,6 +216,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "47f3eb0aa60235430ab8",
+      "title": "衛星「最大100万基」--SpaceXの宇宙データセンター計画、米当局が条件付き承認",
+      "url": "https://japan.cnet.com/article/35255417/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-25T22:47:51+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -113,6 +258,17 @@
       "publishedAt": "2026-11-25T21:30:38+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "8671d7cb0a3d676b5d76",
+      "title": "1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46",
+      "source": "finance.biggo.jp",
+      "publishedAt": "2026-11-25T20:50:44+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
       ]
     },
     {
@@ -366,6 +522,16 @@
       ]
     },
     {
+      "id": "1b3daed160f12a600d05",
+      "title": "国家レベルの「iPhoneへの攻撃」、暗号資産ウォレットやパスワードなどが盗まれる恐れ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/108829",
+      "source": "forbesjapan.com",
+      "publishedAt": "2026-11-25T06:13:19+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
       "id": "21aab4866d3042a6a15a",
       "title": "「バザールでござーる」が、35年間の感謝を伝える ～キャラクター総出で「どうもありがとう」",
       "url": "https://pc.watch.impress.co.jp/docs/news/2159142.html",
@@ -383,6 +549,16 @@
       "publishedAt": "2026-11-25T05:40:03+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "fb4384bab53b5c3d3c27",
+      "title": "同じ3千円、買える食品はどう変わった？ 空白が映す5年の物価上昇：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCS1FCTVCSUQIP030M.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-25T05:38:38+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -636,6 +812,16 @@
       ]
     },
     {
+      "id": "923c0e4c62bee1845095",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "michaelharley.net",
+      "publishedAt": "2026-11-24T15:45:36+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
       "id": "b6be7b0297c272ac19ea",
       "title": "退職代行モームリを利用された企業ランキング公開",
       "url": "https://prtimes.jp/main/html/rd/p/000000036.000103965.html",
@@ -751,6 +937,16 @@
       "publishedAt": "2026-11-24T09:24:27+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "ccb7fce7c7f1e7fe878b",
+      "title": "考える力、決める力、そして信じる力 〜 わたし達の社会が今、最も必要としていること - マネジメントのテクノロジーを考える",
+      "url": "https://mgt-technology.info/belive/",
+      "source": "mgt-technology.info",
+      "publishedAt": "2026-11-24T09:15:36+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -2832,6 +3028,16 @@
       "publishedAt": "2026-11-20T23:45:18+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "2abd38e6402dec9270be",
+      "title": "相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家",
+      "url": "https://japan.cnet.com/article/35255244/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-20T23:39:26+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -10076,6 +10282,7 @@
     "45543339037",
     "45599356439",
     "45716500522",
-    "45751738478"
+    "45751738478",
+    "45797142615"
   ]
 }
