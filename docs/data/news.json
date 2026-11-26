@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-11-25T22:49:54+00:00",
+  "updatedAt": "2026-11-26T03:53:33+00:00",
   "articles": [
+    {
+      "id": "c84de85b053c869acc2c",
+      "title": "AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開",
+      "url": "https://gigazine.net/news/20261126-anthropic-claude-api-rust/",
+      "source": "gigazine.net",
+      "publishedAt": "2026-11-26T02:08:05+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "bcf1048e3bd080ebd1a5",
+      "title": "LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2159364.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-26T02:03:54+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "792b7909317ead9d962e",
+      "title": "米国の小学校で今学期になって毎日AI生成された気持ち悪い歌が放送、クラスのみんなが嫌がっているので娘が先生に話したところ「聞かなくていいよ。耳を塞いで」と言われた",
+      "url": "https://togetter.com/li/2775074",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-26T01:51:46+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "30a092564192a90a409d",
+      "title": "東京駅の地下に謎の畳スペースが爆誕…自由にくつろいでいいらしい「日本人ホイホイすぎる」「こたつも置こう」",
+      "url": "https://togetter.com/li/2775089",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-26T01:35:13+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
+      "id": "78ec301e3987452b90d9",
+      "title": "【Mac Info】 macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！",
+      "url": "https://pc.watch.impress.co.jp/docs/column/macinfo/2159075.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-26T00:38:50+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "596da8ee4ac3e6635a6a",
+      "title": "日本人の“相づちと間”を再現した会話AI「Haru-4B」を国内ベンチャーが無償公開。Sidon活用。電話で会話できる（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/26/5819.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-26T00:31:26+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "ab6141a8d3e0396c1e37",
+      "title": "Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape",
+      "url": "https://www.keisuke69.net/entry/2026/11/26/085248",
+      "source": "www.keisuke69.net",
+      "publishedAt": "2026-11-26T00:25:15+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "5515b89efb620587cf60",
+      "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
+      "url": "https://dev.sin5d.com/meta-muse-usage",
+      "source": "dev.sin5d.com",
+      "publishedAt": "2026-11-25T22:53:15+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "68e1ae908694acefa41c",
+      "title": "外国人労働者、東北GDP底上げ 農・水産業「いないと成り立たず」 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCC18CUY0Y6A111C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-25T22:23:33+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "863017d384d12148a6bd",
+      "title": "外国人留学生の受け入れで推計8200億円の経済効果 20年前の4.7倍、国や大学の支援額大きく上回る - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUD288OJ0Y6A021C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-25T22:06:40+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "5e420777f13da9d03319",
+      "title": "トランプ政権が新関税、日本15%・中国20% 違憲判決前の水準に逆戻り - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN25CDT0V21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-25T21:30:38+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "1b8d9a0b693fb7810de1",
+      "title": "『リンゴ100%のジュース買ってきて』ってお願いして彼が買ってきたもの「死角がない素晴らしい布陣」「固形物～液体まで段階踏んでるの草」",
+      "url": "https://togetter.com/li/2774950",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-25T20:11:31+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
     {
       "id": "6b84cd9a834e497f3beb",
       "title": "Update on a security incident involving 1Password’s backend systems. | 1Password",
@@ -8,6 +132,28 @@
       "source": "1password.com",
       "publishedAt": "2026-11-25T18:52:09+00:00",
       "topics": [
+        "バズ"
+      ]
+    },
+    {
+      "id": "d5808b9f9c6b005665a9",
+      "title": "東京都民に配ったQUOカードPayが「残高ゼロ」…子育て支援金9000万円分、不正流出か：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/530676",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-25T16:32:37+00:00",
+      "topics": [
+        "バズ",
+        "東京"
+      ]
+    },
+    {
+      "id": "9fe20080b8ee83e03ed0",
+      "title": "組織レベルごとの品質定義（リライト）｜snsk",
+      "url": "https://note.com/_snsk/n/n9473a6e95b1c",
+      "source": "note.com",
+      "publishedAt": "2026-11-25T16:01:22+00:00",
+      "topics": [
+        "ビジネス",
         "バズ"
       ]
     },
@@ -72,6 +218,27 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "db1cdfab89cfa63714ce",
+      "title": "｢静岡だけのせい｣から一転｢全工区の問題｣に…リニア開業発表を｢無期限延期｣したJR東海の苦しすぎる言い訳",
+      "url": "https://president.jp/articles/-/122996",
+      "source": "president.jp",
+      "publishedAt": "2026-11-25T10:49:44+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "2f902adc2a0487d35d1f",
+      "title": "｢静岡だけのせい｣から一転｢全工区の問題｣に…リニア開業発表を｢無期限延期｣したJR東海の苦しすぎる言い訳（プレジデントオンライン） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/9d6f9b73d6131a062c683c9da94f70527228be0a",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-25T09:59:08+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -148,6 +315,17 @@
       ]
     },
     {
+      "id": "7bc9eedc59ad40a00451",
+      "title": "視界を包む巨大LEDビジョン、日本初“フレームレス・シアター”「ゼリアル」2027年夏・池袋に誕生",
+      "url": "https://av.watch.impress.co.jp/docs/news/2159003.html",
+      "source": "av.watch.impress.co.jp",
+      "publishedAt": "2026-11-25T07:48:40+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
       "id": "d529f5688e0db249c61f",
       "title": "2029年 大河ドラマ「三成のうた」主人公・石田三成役は神木隆之介さん！",
       "url": "https://www.nhk.jp/g/blog/6825o9r_h/",
@@ -168,6 +346,16 @@
       ]
     },
     {
+      "id": "8ab377819e9454270185",
+      "title": "東京のそばつゆは､なぜ関西より黒いのか…｢しょっぱいのが好き｣だからではない､関東ならではの事情",
+      "url": "https://president.jp/articles/-/121653",
+      "source": "president.jp",
+      "publishedAt": "2026-11-25T07:08:28+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
       "id": "7785424ea12d3e411471",
       "title": "オーケーのお弁当（ちらし寿司／3色丼）@自宅 | MusicArena",
       "url": "https://musicarena.exblog.jp/35359219/",
@@ -175,6 +363,16 @@
       "publishedAt": "2026-11-25T06:42:30+00:00",
       "topics": [
         "グルメ"
+      ]
+    },
+    {
+      "id": "21aab4866d3042a6a15a",
+      "title": "「バザールでござーる」が、35年間の感謝を伝える ～キャラクター総出で「どうもありがとう」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2159142.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-25T06:10:09+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -287,6 +485,17 @@
       "publishedAt": "2026-11-25T01:39:35+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "023ba5cd97dab419b524",
+      "title": "「日本一うまいコロッケそば」と言われる駅そば・桃中軒のみしまコロッケそばを食べてみた / 立ち食いそば放浪記：第411回 静岡県三島",
+      "url": "https://rocketnews24.com/2026/11/25/2868038/",
+      "source": "rocketnews24.com",
+      "publishedAt": "2026-11-25T01:08:29+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
       ]
     },
     {
@@ -9866,6 +10075,7 @@
     "45504909161",
     "45543339037",
     "45599356439",
-    "45716500522"
+    "45716500522",
+    "45751738478"
   ]
 }
