@@ -1,7 +1,7 @@
 const TOPICS = ['AI', 'テクノロジー', 'ビジネス', '経済', 'バズ', 'グルメ', 'イベント', '東京', '沖縄', 'ハンドメイド'];
 const KEY = 'my-news-app:topics:v1';
 const $ = id => document.getElementById(id);
-let selected = [], articles = [];
+let selected = [], articles = [], digest = null;
 try {
   const saved = JSON.parse(localStorage.getItem(KEY) || '[]');
   if (Array.isArray(saved)) selected = [...new Set(saved.filter(t => TOPICS.includes(t)))];
@@ -29,7 +29,44 @@ function renderTopics() {
 function showEmpty(title, message, retry = false) {
   $('empty').hidden = false; $('empty-title').textContent = title; $('empty-message').textContent = message; $('retry').hidden = !retry;
 }
+function renderDigest() {
+  const container = $('digest-items'), status = $('digest-status');
+  container.replaceChildren();
+  const editions = Array.isArray(digest?.editions) ? digest.editions.filter(e =>
+    e && typeof e.editionId === 'string' && Number.isFinite(Date.parse(e.generatedAt)) &&
+    Array.isArray(e.items) && e.items.length <= 20) : [];
+  editions.sort((a, b) => Date.parse(b.generatedAt) - Date.parse(a.generatedAt));
+  const edition = editions[0];
+  if (!edition) { status.textContent = '要約は準備中です。本文や説明文を確認できた記事だけを掲載します。'; return; }
+  const known = new Map(articles.map(a => [a.id, a]));
+  const items = edition.items.filter(s => s && typeof s.summary === 'string' &&
+    s.summary.trim() && s.summary.length <= 600 && ['本文', '説明文'].includes(s.basis) &&
+    known.has(s.id) && s.sourceUrl === known.get(s.id).url);
+  const visible = items.filter(s => !selected.length || known.get(s.id).topics.some(t => selected.includes(t)));
+  status.textContent = `要約更新 ${formatDate(edition.generatedAt)}（日本時間）・${items.length}件。AIによる要約です。詳しくは元記事をご確認ください。`;
+  if (Number.isInteger(edition.skippedCount) && edition.skippedCount > 0)
+    status.textContent += ` 本文等を確認できなかった${edition.skippedCount}件は要約していません。`;
+  if (Date.now() - Date.parse(edition.generatedAt) > 24 * 60 * 60 * 1000)
+    status.textContent += ' 前回の要約を表示しています。更新が遅れている可能性があります。';
+  if (!visible.length) {
+    const message = document.createElement('p'); message.className = 'date-note';
+    message.textContent = items.length ? '選択したテーマの要約は今回ありません。ほかのテーマもお試しください。' : '今回は内容を確認できた記事がなく、要約を掲載していません。下のニュース一覧は引き続き読めます。';
+    container.append(message); return;
+  }
+  for (const summary of visible) {
+    const article = known.get(summary.id);
+    const card = document.createElement('article'); card.className = 'digest-card';
+    const heading = document.createElement('h3'); heading.textContent = article.title;
+    const text = document.createElement('p'); text.className = 'digest-summary'; text.textContent = summary.summary;
+    const basis = document.createElement('p'); basis.className = 'date-note';
+    basis.textContent = `要約の根拠：${summary.basis} ・ ${article.source}`;
+    const link = document.createElement('a'); link.textContent = '元の記事を読む ↗';
+    link.href = article.url; link.target = '_blank'; link.rel = 'noopener noreferrer';
+    card.append(heading, text, basis, link); container.append(card);
+  }
+}
 function renderArticles() {
+  renderDigest();
   const visible = articles.filter(a => !selected.length || a.topics.some(t => selected.includes(t)));
   $('count').textContent = `${visible.length}件`;
   $('articles').replaceChildren(...visible.map(article => {
@@ -60,7 +97,8 @@ async function json(path) {
 async function load() {
   $('loading').hidden = false; $('empty').hidden = true; $('notice').hidden = true;
   try {
-    const [data, status] = await Promise.all([json('./data/news.json'), json('./data/status.json').catch(() => null)]);
+    const [data, status, summaries] = await Promise.all([json('./data/news.json'), json('./data/status.json').catch(() => null), json('./data/summaries.json').catch(() => null)]);
+    digest = summaries;
     if (!data || !Array.isArray(data.articles) || data.articles.some(a => !validArticle(a)) || (data.updatedAt !== null && !Number.isFinite(Date.parse(data.updatedAt)))) throw new Error('invalid data');
     const unique = new Map();
     for (const a of data.articles) { const prior = unique.get(a.url); if (prior) prior.topics = [...new Set([...prior.topics, ...a.topics])]; else unique.set(a.url, { ...a, topics: [...a.topics] }); }
@@ -74,6 +112,7 @@ async function load() {
     if (notice) { $('notice').textContent = notice; $('notice').hidden = false; }
     renderArticles();
   } catch {
+    $('digest-items').replaceChildren(); $('digest-status').textContent = 'ニュースを読み込めないため、要約も確認できません。';
     $('updated').textContent = '最終更新：確認できません'; $('count').textContent = ''; $('articles').replaceChildren();
     showEmpty('ニュースを読み込めませんでした', '通信状態を確認して、もう一度お試しください。', true);
   } finally { $('loading').hidden = true; }
