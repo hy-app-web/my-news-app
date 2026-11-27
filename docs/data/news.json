@@ -1,6 +1,124 @@
 {
-  "updatedAt": "2026-11-26T10:00:03+00:00",
+  "updatedAt": "2026-11-27T03:52:43+00:00",
   "articles": [
+    {
+      "id": "ba75b4140318b426947b",
+      "title": "米、スペースXに衛星100万基の配備承認 宇宙にAIデータセンター構築へ",
+      "url": "https://www.cnn.co.jp/usa/35255487.html",
+      "source": "www.cnn.co.jp",
+      "publishedAt": "2026-11-27T01:03:08+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "0a67bb1afa811e296a31",
+      "title": "「ポテチ離れ」招いたカルビー白黒パッケージ 買わなくなった人の87%、競合に流れず - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC090AR0Z01C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-27T00:26:46+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "71feaf124c4347aced82",
+      "title": "友人のプロの音楽家は頻繁に幼稚園や小学校の先生から「子どものために」や「教育のために」と無償での演奏をお願いされるので「先生も無料で働いているのですか？」と返す",
+      "url": "https://togetter.com/li/2775487",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-27T00:19:34+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "b6ac27d64d3b7912f545",
+      "title": "サイバー攻撃への悪用をFBIが警告した「ARTEX」の英語フォーク版、Apple開発のリアルタイム動画生成AI「FastFrames」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/27/5831.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-26T23:58:56+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "4f191db4c0dac74756c2",
+      "title": "AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ",
+      "url": "https://speakerdeck.com/littlehands/umtp-suraido-20261125",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-26T23:54:33+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "f71f24617547e7bcc68e",
+      "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
+      "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
+      "source": "www.publickey1.jp",
+      "publishedAt": "2026-11-26T23:09:25+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "5eae19f971ee1b753be2",
+      "title": "「車を買ったのにシートヒーターは月額サブスク必須」などを禁止--米NY州",
+      "url": "https://japan.cnet.com/article/35255471/",
+      "source": "japan.cnet.com",
+      "publishedAt": "2026-11-26T21:49:26+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "17a54066939c1bdf09db",
+      "title": "西武・そごうの「さ、ひっくり返そう。」をきぬた歯科が「デザイナーの自己満足」と酷評し、業界で大激論→「優れた広告」と「売上につながる広告」は何が違うのか？",
+      "url": "https://togetter.com/li/2775444",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-26T20:32:19+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "79f6d6437474831d01f7",
+      "title": "新築マンション、居住せず１年以内売却で譲渡益５２％課税検討…投機的取引の抑制狙う",
+      "url": "https://www.yomiuri.co.jp/economy/20261127-GYT1T00005/",
+      "source": "www.yomiuri.co.jp",
+      "publishedAt": "2026-11-26T20:12:18+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "9d43e2e73ca09843b9f7",
+      "title": "【これはヤバすぎる】保育士50人が一斉退職！自殺者も！東京・墨田区の保育園は性犯罪・パワハラ・不明瞭会計「不祥事のデパート」 | アサ芸プラス",
+      "url": "https://www.asagei.com/excerpt/350546",
+      "source": "www.asagei.com",
+      "publishedAt": "2026-11-26T18:06:40+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
+      "id": "4d7803fd59ad0992c3fc",
+      "title": "小6娘がサンタの正体を怪しみだしたので「うちに来てたサンタさんは、あなたが生まれた時に市役所で申し込んだ10年プランのサンタさんだったから今年からはお母さんです」",
+      "url": "https://togetter.com/li/2775312",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-26T12:13:13+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
     {
       "id": "19da6c3a76af841bed55",
       "title": "米ニューヨーク州、AIチャットボット搭載おもちゃを5年間禁止 | テクノエッジ TechnoEdge",
@@ -9,6 +127,16 @@
       "publishedAt": "2026-11-26T07:47:47+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "7d4869c065a64ec4c594",
+      "title": "麺屋こころ@六角橋 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35360044/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-26T07:37:49+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -40,6 +168,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "dd08e8fbcad4fb1a78de",
+      "title": "ちいかわクリスマスマーケットに行ったインスタ系女子の撮影したショート動画が「イベントの悲惨さ」を余すことなく伝えられているが…とても前向きに元気でスゴい",
+      "url": "https://togetter.com/li/2775189",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-26T05:59:06+00:00",
+      "topics": [
+        "イベント"
       ]
     },
     {
@@ -81,6 +219,26 @@
       "publishedAt": "2026-11-26T04:11:50+00:00",
       "topics": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "f191ea0ea1f33a1ee59f",
+      "title": "「迅速な対応」オンライン同人誌イベント会場「ピクリエ」が二次創作物による政治的発言等の行為の禁止を発表、あくまで二次創作に関してとのこと",
+      "url": "https://togetter.com/li/2775152",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-26T04:04:57+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "fe0aeae9fffd26ccc023",
+      "title": "祥子ちゃん家の晩ごはん -BanG Dream! Ave Mujicaスピンオフ-・1 | コミックグロウル",
+      "url": "https://comic-growl.com/episodes/06cfc19c717f8",
+      "source": "comic-growl.com",
+      "publishedAt": "2026-11-26T03:41:32+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -152,6 +310,16 @@
       "publishedAt": "2026-11-26T01:35:13+00:00",
       "topics": [
         "東京"
+      ]
+    },
+    {
+      "id": "ba6962be6ba99432e980",
+      "title": "SpaceXの宇宙データセンター衛星100万基、予備通信用の電波を米FCCが初の認可 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/26/5820.html",
+      "source": "www.techno-edge.net",
+      "publishedAt": "2026-11-26T01:00:02+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -241,6 +409,16 @@
       ]
     },
     {
+      "id": "34a0d6af63b373b63893",
+      "title": "竹中平蔵氏の主張「正社員を廃止せよ」の表と裏 「正規も非正規もない自由な働き方」の想定される結末：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/530687",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-25T22:11:33+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
       "id": "863017d384d12148a6bd",
       "title": "外国人留学生の受け入れで推計8200億円の経済効果 20年前の4.7倍、国や大学の支援額大きく上回る - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUD288OJ0Y6A021C2000000/",
@@ -258,6 +436,16 @@
       "publishedAt": "2026-11-25T21:30:38+00:00",
       "topics": [
         "経済"
+      ]
+    },
+    {
+      "id": "e19e7569a783becaa275",
+      "title": "【銀座】ハタハタ屋敷｜蠍座の会に初参加！秋田郷土料理と地酒で乾杯",
+      "url": "https://waraibuta2.blog.fc2.com/blog-entry-5108.html",
+      "source": "waraibuta2.blog.fc2.com",
+      "publishedAt": "2026-11-25T21:24:42+00:00",
+      "topics": [
+        "グルメ"
       ]
     },
     {
@@ -331,6 +519,17 @@
       "publishedAt": "2026-11-25T14:26:59+00:00",
       "topics": [
         "ビジネス"
+      ]
+    },
+    {
+      "id": "5d6a5f620049001e2e98",
+      "title": "長時間「持ち帰り残業」でうつ病、東京地裁が労災判断 国の不認定覆す - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUD259Z60V21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-25T14:08:29+00:00",
+      "topics": [
+        "経済",
+        "東京"
       ]
     },
     {
@@ -8140,6 +8339,16 @@
       ]
     },
     {
+      "id": "0e2fb3963ba2f4c20413",
+      "title": "中国はなぜ「沖縄」と「カナダ先住民」に接近するのか…認知戦に見える共通の手法 | ニューズウィーク日本版 オフィシャルサイト",
+      "url": "https://www.newsweekjapan.jp/articles/-/339820?display=b",
+      "source": "www.newsweekjapan.jp",
+      "publishedAt": "2026-11-12T22:09:48+00:00",
+      "topics": [
+        "沖縄"
+      ]
+    },
+    {
       "id": "8775a687600e6b0d81c7",
       "title": "無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Everything you've ever Dreamed",
       "url": "https://delete-all.hatenablog.com/entry/2026/11/13/001000",
@@ -10283,6 +10492,7 @@
     "45599356439",
     "45716500522",
     "45751738478",
-    "45797142615"
+    "45797142615",
+    "45936666994"
   ]
 }
