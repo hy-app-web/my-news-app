@@ -2,6 +2,45 @@
   "schemaVersion": 1,
   "editions": [
     {
+      "editionId": "2026-11-27-18",
+      "generatedAt": "2026-11-27T09:02:40.763Z",
+      "scheduledFor": "2026-11-27T18:00:00+09:00",
+      "candidateCount": 20,
+      "skippedCount": 15,
+      "items": [
+        {
+          "id": "b6ac27d64d3b7912f545",
+          "summary": "テクノエッジは、この1週間に発表された生成AI技術を紹介した。ノートPCで動く「Inkling 2 Mini」、Appleのリアルタイム動画生成AI「FastFrames」、日本語に強いローカル音声AIなどを取り上げている。",
+          "basis": "本文",
+          "sourceUrl": "https://www.techno-edge.net/article/2026/11/27/5831.html"
+        },
+        {
+          "id": "f71f24617547e7bcc68e",
+          "summary": "さくらインターネットは、システムへの組み込みを想定した月額固定料金の「シンプルAI」を発表した。AIモデルの長期安定提供を重視し、国産モデルの提供も想定しており、2026年12月10日の開始を予定する。",
+          "basis": "本文",
+          "sourceUrl": "https://www.publickey1.jp/blog/26/aiai_1.html"
+        },
+        {
+          "id": "9d43e2e73ca09843b9f7",
+          "summary": "アサ芸プラスは、東京都墨田区の区立横川さくら保育園と分園で約50人の保育士が退職したと報じた。区議会資料などをもとに、区内の保育園で起きた事件や行政指導の事例も紹介している。",
+          "basis": "本文",
+          "sourceUrl": "https://www.asagei.com/excerpt/350546"
+        },
+        {
+          "id": "7d4869c065a64ec4c594",
+          "summary": "ブログ「MusicArena」の筆者は、横浜市の麺屋こころ六角橋店で全部のせ台湾まぜそばを味わった。初めて辛スパイスを追加し、極太麺と具材を混ぜて食べた後、残ったたれに追い飯を加えたという。",
+          "basis": "本文",
+          "sourceUrl": "https://musicarena.exblog.jp/35360044/"
+        },
+        {
+          "id": "67bd8e2c6c34f5dd5d6f",
+          "summary": "GIGAZINEによると、作家スティーブン・キング氏は、NVIDIAのフアン氏のCEO復帰を支持したトランプ大統領をSNSで批判した。大統領は取締役会を説得したと述べ、復帰は国家安全保障上のリスクにならないと主張している。",
+          "basis": "本文",
+          "sourceUrl": "https://gigazine.net/news/20261126-stephen-king-trump/"
+        }
+      ]
+    },
+    {
       "editionId": "2026-11-26-18",
       "generatedAt": "2026-11-26T13:07:15.776Z",
       "scheduledFor": "2026-11-26T18:00:00+09:00",
