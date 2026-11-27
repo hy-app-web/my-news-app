@@ -1,6 +1,122 @@
 {
-  "updatedAt": "2026-11-27T03:52:43+00:00",
+  "updatedAt": "2026-11-27T09:58:26+00:00",
   "articles": [
+    {
+      "id": "620f3ab034a6760aae6f",
+      "title": "Devin Bot に毎朝のパフォーマンス改善を任せてみた - kickflow Tech Blog",
+      "url": "https://tech.kickflow.co.jp/entry/2026/11/27/154920",
+      "source": "tech.kickflow.co.jp",
+      "publishedAt": "2026-11-27T07:33:50+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "72700ac586669794895b",
+      "title": "焼き肉店で「焼きバナナソフトクリーム」を注文したら皮ごと丸ごとバナナが出てきて困惑…「真っ黒になるまで焼いてくださいねー」に従った結果「何これめっちゃうまー」",
+      "url": "https://togetter.com/li/2775619",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-27T07:06:54+00:00",
+      "topics": [
+        "グルメ",
+        "東京"
+      ]
+    },
+    {
+      "id": "dccb3aae025348abb12e",
+      "title": "某外食チェーン店でハンバーグ定食を購入、サラダが付いておらず「あの…サラダがないんですけど」と言ったら外国人の店員が空のお皿を渡してきた…「皿だ」と思ったらしい",
+      "url": "https://togetter.com/li/2775587",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-27T05:44:32+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "51947ae076eb72cfb511",
+      "title": "「食べ残し持ち帰りは禁止」は誤解 政府が年末年始の食べきり・持ち帰りキャンペーン開始 #エキスパートトピ（井出留美） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/1d900f3cd477c1b1402e982d374ea7a1d9297629",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-27T05:02:00+00:00",
+      "topics": [
+        "ビジネス",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "f75aff498c7ebcbe3922",
+      "title": "【重要】Mastercardの一部お取り扱いの終了について（PayPalへの登録含む）｜pixivFANBOX公式｜pixivFANBOX",
+      "url": "https://official.fanbox.cc/posts/12993672",
+      "source": "official.fanbox.cc",
+      "publishedAt": "2026-11-27T04:29:57+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "ce1216521d8786e02dc5",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "source": "lia.mg",
+      "publishedAt": "2026-11-27T04:27:18+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "1664f22c3d3e23f2b8ac",
+      "title": "[第28話] 共飯グルメ！ - スガワラエスコ | となりのヤングジャンプ",
+      "url": "https://tonarinoyj.jp/episode/12207421984571259777",
+      "source": "tonarinoyj.jp",
+      "publishedAt": "2026-11-27T03:33:09+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "3baa86d66be3296b5fc5",
+      "title": "「フィッシング対策訓練」って実効性あるの？ 約1.2万人に模擬メール送り検証、結果は……",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003502/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-27T03:22:52+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "fbff80c13c38c805f373",
+      "title": "サブスクの「お試し→自動更新」は客を逃していた？ 新規購読者数は「お試し→自動解約」比23％減 140万人で実験",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003503/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-27T03:22:23+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "13367c0c7bbe72e61b3c",
+      "title": "2026年に刊行されてよかったなと思うコンピューター技術書 - golden-luckyの日記",
+      "url": "https://golden-lucky.hatenablog.com/entry/2026/11/27/111643",
+      "source": "golden-lucky.hatenablog.com",
+      "publishedAt": "2026-11-27T02:26:32+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "25014ea932e7f78e30b1",
+      "title": "年金増で「非課税」外れ負担急増 介護保険料は倍近く、医療費も重く：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCT3J4ZVCTUTFL004M.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-27T01:19:45+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
     {
       "id": "ba75b4140318b426947b",
       "title": "米、スペースXに衛星100万基の配備承認 宇宙にAIデータセンター構築へ",
@@ -55,6 +171,16 @@
       ]
     },
     {
+      "id": "373d41c50414b87fbab2",
+      "title": "エヌビディアが東南アジア4か国への輸出を停止 欧米メディア | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261127de82164",
+      "source": "news.web.nhk",
+      "publishedAt": "2026-11-26T23:23:10+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "f71f24617547e7bcc68e",
       "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
       "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
@@ -63,6 +189,37 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "2b5c150f349dd1300caf",
+      "title": "なぜ、AIはRustのC言語に対する優位性を尽く潰したのか？",
+      "url": "https://zenn.dev/pdfractal/articles/832b84c9e89f3f",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-26T23:06:38+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "c61a3e657ab4c8a138ab",
+      "title": "Skills over MCP、めっちゃよさそう | ashunar0",
+      "url": "https://ashunar0.dev/posts/skills-over-mcp/",
+      "source": "ashunar0.dev",
+      "publishedAt": "2026-11-26T22:15:24+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "436aed6357db2605fc57",
+      "title": "GitHub - datadog-labs/ephyra: A property-based testing library for the LLM era",
+      "url": "https://github.com/datadog-labs/ephyra",
+      "source": "github.com",
+      "publishedAt": "2026-11-26T21:56:35+00:00",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -110,6 +267,17 @@
       ]
     },
     {
+      "id": "2869d4407930de3a0a35",
+      "title": "吉野家HD、ダチョウ関連事業から撤退 化粧品など販売苦戦 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC267VF0W6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-26T14:45:24+00:00",
+      "topics": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
       "id": "4d7803fd59ad0992c3fc",
       "title": "小6娘がサンタの正体を怪しみだしたので「うちに来てたサンタさんは、あなたが生まれた時に市役所で申し込んだ10年プランのサンタさんだったから今年からはお母さんです」",
       "url": "https://togetter.com/li/2775312",
@@ -117,6 +285,46 @@
       "publishedAt": "2026-11-26T12:13:13+00:00",
       "topics": [
         "イベント"
+      ]
+    },
+    {
+      "id": "adc776a5dc148555feaa",
+      "title": "防衛省が企業に「装備発注・最大8割減」を通知し波紋広がる→「ハシゴ外し」批判の一方でコマツの装甲車撤退の経緯や技術面の指摘も",
+      "url": "https://togetter.com/li/2775327",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-26T12:12:15+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "143d77a57b7e7779d689",
+      "title": "吉村知事、都構想問う3度目の住民投票は「今回最後の思い」 | 毎日新聞",
+      "url": "https://mainichi.jp/articles/20261126/k00/00m/010/215000c",
+      "source": "mainichi.jp",
+      "publishedAt": "2026-11-26T10:46:50+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "1566001c822c2248bfe7",
+      "title": "「成人向け」以外のゲームにも関連、インディー開発者を悩ませる「デバンキング問題」実態調査へ─NPO法人によるオンラインセッションが開催決定 | Game*Spark - 国内・海外ゲーム情報サイト",
+      "url": "https://www.gamespark.jp/article/2026/11/26/175333.html",
+      "source": "www.gamespark.jp",
+      "publishedAt": "2026-11-26T10:37:12+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "2d46cdfeed842b238036",
+      "title": "麻生系生コン不正、190現場に波及 「処分費負担」の重荷が招いた統治不全",
+      "url": "https://business.nikkei.com/atcl/gen/19/00304/112400281/",
+      "source": "business.nikkei.com",
+      "publishedAt": "2026-11-26T08:45:08+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -10493,6 +10701,7 @@
     "45716500522",
     "45751738478",
     "45797142615",
-    "45936666994"
+    "45936666994",
+    "45978118015"
   ]
 }
