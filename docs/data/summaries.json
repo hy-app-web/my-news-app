@@ -2,6 +2,39 @@
   "schemaVersion": 1,
   "editions": [
     {
+      "editionId": "2026-11-28-18",
+      "generatedAt": "2026-11-28T09:03:49.186Z",
+      "scheduledFor": "2026-11-28T18:00:00+09:00",
+      "candidateCount": 20,
+      "skippedCount": 16,
+      "items": [
+        {
+          "id": "736cfe5e759e266071e8",
+          "summary": "Claude Codeが日本語での応答指示を守れず、作業中の報告や最終回答が英語に戻る事例を筆者が紹介した。指示ファイルへの追記だけでは再発したため、応答終了時に動くStopフックを使って対処している。",
+          "basis": "本文",
+          "sourceUrl": "https://zenn.dev/hitori_pm/articles/cc955887656339"
+        },
+        {
+          "id": "0f052cfbff795bf1f617",
+          "summary": "文春オンラインは、関芳弘文科相が2018年に開いた少人数の食事会について、政治資金パーティーとして300万円の収入が計上されていたと報じた。同誌は実質的に寄付を集める会合だった可能性があり、法違反の疑いがあると指摘している。",
+          "basis": "本文",
+          "sourceUrl": "https://bunshun.jp/articles/-/94118"
+        },
+        {
+          "id": "165e5060ba10246aa0ce",
+          "summary": "開発者の吉羽龍太郎氏は、AIがコードを書く時代の組織と設計をテーマにした講演資料を公開した。チームの境界がソフトウェアの設計に影響するため、必要に応じて組織構造を変更できる備えが必要だと述べている。",
+          "basis": "本文",
+          "sourceUrl": "https://www.ryuzee.com/contents/blog/14629"
+        },
+        {
+          "id": "0e700c298841d4f2d6c5",
+          "summary": "ドールメーカーのアゾンインターナショナルは、個人情報保護を理由に公式通販サイト「AZONET」の閉店を発表した。ITmediaによると、約18年間運営したサイトの会員は約8万人で、全社売上高の約15％を占めていた。",
+          "basis": "本文",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/"
+        }
+      ]
+    },
+    {
       "editionId": "2026-11-27-18",
       "generatedAt": "2026-11-27T09:02:40.763Z",
       "scheduledFor": "2026-11-27T18:00:00+09:00",
