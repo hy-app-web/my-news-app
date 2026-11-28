@@ -2,6 +2,16 @@
   "0": {
     "articles": [
       {
+        "id": "a6c89e9bb665f5e1dc06",
+        "title": "アンソロピック株急落、上場4日で公開価格割れ…「AI株安」が止まらない根本的な理由",
+        "url": "https://diamond.jp/articles/-/404292",
+        "source": "diamond.jp",
+        "publishedAt": "2026-11-28T02:34:10+00:00",
+        "topics": [
+          "AI"
+        ]
+      },
+      {
         "id": "7f148101187e5658ad22",
         "title": "AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
         "url": "https://kaz-ataka.hatenablog.com/entry/2026/11/28/085335",
@@ -12,11 +22,31 @@
         ]
       },
       {
+        "id": "12c9d232118c58d2137f",
+        "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
+        "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+        "source": "zenn.dev",
+        "publishedAt": "2026-11-27T23:24:49+00:00",
+        "topics": [
+          "AI"
+        ]
+      },
+      {
         "id": "5acc895af0d7d66debe3",
         "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
         "source": "www.nikkei.com",
         "publishedAt": "2026-11-27T21:48:54+00:00",
+        "topics": [
+          "AI"
+        ]
+      },
+      {
+        "id": "1d6af5486aca32aefd83",
+        "title": "Photoshop2027、画像に付加されるAI生成情報について – Automation Skill",
+        "url": "https://ten-artai.com/2026/11/7314/",
+        "source": "ten-artai.com",
+        "publishedAt": "2026-11-27T14:33:12+00:00",
         "topics": [
           "AI"
         ]
@@ -47,6 +77,16 @@
         "url": "https://unaoya.github.io/lean-intro/",
         "source": "unaoya.github.io",
         "publishedAt": "2026-11-27T11:19:18+00:00",
+        "topics": [
+          "AI"
+        ]
+      },
+      {
+        "id": "5474b50733a7a10fc610",
+        "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+        "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
+        "source": "zenn.dev",
+        "publishedAt": "2026-11-27T08:17:50+00:00",
         "topics": [
           "AI"
         ]
@@ -127,6 +167,16 @@
         "url": "https://tech.dentsusoken.com/entry/2026/11/27/133501",
         "source": "tech.dentsusoken.com",
         "publishedAt": "2026-11-27T05:00:35+00:00",
+        "topics": [
+          "AI"
+        ]
+      },
+      {
+        "id": "f035f5c2e8a67e12b650",
+        "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+        "url": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+        "source": "gigazine.net",
+        "publishedAt": "2026-11-27T02:45:19+00:00",
         "topics": [
           "AI"
         ]
@@ -350,63 +400,33 @@
         "topics": [
           "AI"
         ]
-      },
-      {
-        "id": "50a138c56c7ede1d24cd",
-        "title": "SSDでGPUメモリをペタバイト級に拡張、キオクシアとNVIDIAがAI向けの実証",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2159567.html",
-        "source": "pc.watch.impress.co.jp",
-        "publishedAt": "2026-11-26T10:21:05+00:00",
-        "topics": [
-          "AI"
-        ]
-      },
-      {
-        "id": "038fb964763e771dfae6",
-        "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
-        "url": "https://gigazine.net/news/20261126-muse-amazon-discuss/",
-        "source": "gigazine.net",
-        "publishedAt": "2026-11-26T10:04:37+00:00",
-        "topics": [
-          "AI"
-        ]
-      },
-      {
-        "id": "412a7f2f13b001ae1bf5",
-        "title": "NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた",
-        "url": "https://gigazine.net/news/20261126-nvidia-china-company/",
-        "source": "gigazine.net",
-        "publishedAt": "2026-11-26T09:52:34+00:00",
-        "topics": [
-          "AI"
-        ]
-      },
-      {
-        "id": "0b77228e797e45993052",
-        "title": "AI法改正案の概要 “事業者に安全確保義務 罰則適用も” | NHKニュース",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261126de81752",
-        "source": "news.web.nhk",
-        "publishedAt": "2026-11-26T09:52:18+00:00",
-        "topics": [
-          "AI"
-        ]
-      },
-      {
-        "id": "42b21899c5e0876d9fa7",
-        "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp",
-        "url": "https://gihyo.jp/article/2026/11/skills-over-mcp",
-        "source": "gihyo.jp",
-        "publishedAt": "2026-11-26T09:44:20+00:00",
-        "topics": [
-          "AI"
-        ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "1": {
     "articles": [
+      {
+        "id": "a42cad3c8c36eae3bd90",
+        "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた",
+        "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+        "source": "www.itmedia.co.jp",
+        "publishedAt": "2026-11-28T04:33:24+00:00",
+        "topics": [
+          "テクノロジー"
+        ]
+      },
+      {
+        "id": "30f0fc50777b6c4ea30a",
+        "title": "ウクライナのレーザー兵器がロシアのジェット推進型ドローンを撃墜…「世界初」の迎撃成功を発表 | ニューズウィーク日本版 オフィシャルサイト",
+        "url": "https://www.newsweekjapan.jp/articles/-/341563?display=b",
+        "source": "www.newsweekjapan.jp",
+        "publishedAt": "2026-11-28T00:07:54+00:00",
+        "topics": [
+          "テクノロジー"
+        ]
+      },
       {
         "id": "5acc895af0d7d66debe3",
         "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
@@ -428,11 +448,31 @@
         ]
       },
       {
+        "id": "5842da93bafea8e34eec",
+        "title": "スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2160150.html",
+        "source": "forest.watch.impress.co.jp",
+        "publishedAt": "2026-11-27T11:50:35+00:00",
+        "topics": [
+          "テクノロジー"
+        ]
+      },
+      {
         "id": "0e700c298841d4f2d6c5",
         "title": "顧客情報を守るため、売上15％の自社ECを閉店 ドールメーカーが明かした「決断」の背景",
         "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
         "source": "www.itmedia.co.jp",
         "publishedAt": "2026-11-27T08:09:28+00:00",
+        "topics": [
+          "テクノロジー"
+        ]
+      },
+      {
+        "id": "df30f9234cbb7cb2d969",
+        "title": "なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ",
+        "url": "https://kei-1010.hatenablog.com/entry/2026/11/27/133416",
+        "source": "kei-1010.hatenablog.com",
+        "publishedAt": "2026-11-27T06:22:00+00:00",
         "topics": [
           "テクノロジー"
         ]
@@ -766,53 +806,23 @@
         "topics": [
           "テクノロジー"
         ]
-      },
-      {
-        "id": "e93d5e31ba76ea4ea681",
-        "title": "濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で致したみたいだった」と鑑賞者は語る",
-        "url": "https://gigazine.net/news/20261120-4dx-love-scene/",
-        "source": "gigazine.net",
-        "publishedAt": "2026-11-20T03:43:56+00:00",
-        "topics": [
-          "テクノロジー"
-        ]
-      },
-      {
-        "id": "a33414eba2c563ee714e",
-        "title": "飲むだけでアルコールを分解する「電子カプセル」 腸内で自己発電、ラットで血中濃度を最大68％減に成功 Nature系列誌掲載【研究紹介】 - レバテックLAB",
-        "url": "https://levtech.jp/media/detail_978/",
-        "source": "levtech.jp",
-        "publishedAt": "2026-11-20T00:14:00+00:00",
-        "topics": [
-          "テクノロジー"
-        ]
-      },
-      {
-        "id": "093f8ad11b60659972e4",
-        "title": "[21話]世界を繋ぎ尽くすインターネット巫女 - コガッツオ/木野イチカ | 少年ジャンプ＋",
-        "url": "https://shonenjumpplus.com/episode/9253191257982514161",
-        "source": "shonenjumpplus.com",
-        "publishedAt": "2026-11-19T15:01:45+00:00",
-        "topics": [
-          "テクノロジー"
-        ]
-      },
-      {
-        "id": "8f5d0395ceb0aae8058a",
-        "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
-        "url": "https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
-        "source": "www.assdr.kyoto-u.ac.jp",
-        "publishedAt": "2026-11-19T13:44:45+00:00",
-        "topics": [
-          "テクノロジー"
-        ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "2": {
     "articles": [
+      {
+        "id": "5acc895af0d7d66debe3",
+        "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
+        "source": "www.nikkei.com",
+        "publishedAt": "2026-11-27T21:48:54+00:00",
+        "topics": [
+          "ビジネス"
+        ]
+      },
       {
         "id": "3d42e9bb4805b47467ee",
         "title": "JR東日本、成田空港―羽田空港の直通運転は常磐線・東京駅経由で最終調整 上野東京ライン活用 - 日本経済新聞",
@@ -1202,20 +1212,10 @@
         "topics": [
           "ビジネス"
         ]
-      },
-      {
-        "id": "673ca178ea8fa8dc6bac",
-        "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社",
-        "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-        "source": "techracho.bpsinc.jp",
-        "publishedAt": "2026-11-24T08:35:39+00:00",
-        "topics": [
-          "ビジネス"
-        ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "3": {
     "articles": [
@@ -1235,6 +1235,16 @@
         "url": "https://x.com/edugaresp/status/2125504212981133527",
         "source": "x.com",
         "publishedAt": "2026-11-27T12:40:49+00:00",
+        "topics": [
+          "経済"
+        ]
+      },
+      {
+        "id": "09fe2b2f24c1378c3cc7",
+        "title": "《「クズ」と激しく罵倒も》百田尚樹代表 関文科相の問責に反対…真意説明も“二枚舌”と批判殺到 | 女性自身",
+        "url": "https://jisin.jp/domestic/2612095/",
+        "source": "jisin.jp",
+        "publishedAt": "2026-11-27T11:48:48+00:00",
         "topics": [
           "経済"
         ]
@@ -1608,20 +1618,10 @@
         "topics": [
           "経済"
         ]
-      },
-      {
-        "id": "90c9253932dd3948c021",
-        "title": "「松屋」の一人負けなのか？「吉野家」「すき家」と明暗を分けた既存店売上、その差はどこにあるのか #エキスパートトピ（三輪大輔） - エキスパート - Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39",
-        "source": "news.yahoo.co.jp",
-        "publishedAt": "2026-11-24T03:38:59+00:00",
-        "topics": [
-          "経済"
-        ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "4": {
     "articles": [
@@ -1636,41 +1636,11 @@
         ]
       },
       {
-        "id": "d5278fa19855ff23b23a",
-        "title": "女の理想はセックスできるお父さん、男の理想はセックスできる男友達｜めるめる",
-        "url": "https://note.com/merumeru99/n/n6f453c31615b",
+        "id": "c752b7d3ff21a990f073",
+        "title": "ファッション界で「知性を装うこと」がトレンドになっている件｜dale",
+        "url": "https://note.com/elastic_dale5686/n/n3d1463fcae79",
         "source": "note.com",
-        "publishedAt": "2026-11-27T07:26:10+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "7e26eb10c16067ad4838",
-        "title": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」",
-        "url": "https://www.cnn.co.jp/world/35255529.html",
-        "source": "www.cnn.co.jp",
-        "publishedAt": "2026-11-28T00:39:07+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "7561685a4cac6e14a056",
-        "title": "はあちゅうさんの「ムカつく相手に開示請求しまくったら誰も言及してくれなくなり、ネットでの存在感を失う」という展開は現代SNS御伽噺のひとつに数えられそう。その意味で、ネットで喧嘩を売りまくって存在感を維持し続ける溝口さん界隈の戦術は正しいのかも。嫌だけど",
-        "url": "https://posfie.com/@golden_haniwa/p/BN195kk",
-        "source": "posfie.com",
-        "publishedAt": "2026-11-27T17:11:58+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "6717036b03f9a35e57f1",
-        "title": "100年前の新聞を10日間購読する｜岡田悠",
-        "url": "https://note.com/hyosasa/n/nd36879962602",
-        "source": "note.com",
-        "publishedAt": "2026-11-27T06:28:16+00:00",
+        "publishedAt": "2026-11-27T04:43:05+00:00",
         "topics": [
           "バズ"
         ]
@@ -1686,311 +1656,21 @@
         ]
       },
       {
-        "id": "8f2351ea50923342e973",
-        "title": "ピクリエの二次創作政治禁止の声明は筋が悪い",
-        "url": "https://anond.hatelabo.jp/20261126184704",
-        "source": "anond.hatelabo.jp",
-        "publishedAt": "2026-11-26T09:47:26+00:00",
+        "id": "7e26eb10c16067ad4838",
+        "title": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」",
+        "url": "https://www.cnn.co.jp/world/35255529.html",
+        "source": "www.cnn.co.jp",
+        "publishedAt": "2026-11-28T00:39:07+00:00",
         "topics": [
           "バズ"
         ]
       },
       {
-        "id": "3e718fff1fc140b50fe1",
-        "title": "びわ湖くんが「アンチのせいで」と冬コミ不参加を報告→前回のコミケで何が起きたのか、近隣サークルから続々と証言→改めて「コミケにお客様はいない」と再認識する",
-        "url": "https://togetter.com/li/2775867",
-        "source": "togetter.com",
-        "publishedAt": "2026-11-27T19:49:34+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "80e68400e2fa80105647",
-        "title": "警察 ICC赤根所長の安全確保 最高ランク「特A」で警戒強化 | NHKニュース",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82788",
-        "source": "news.web.nhk",
-        "publishedAt": "2026-11-27T21:55:40+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "753fa6d728f3c8fc02cc",
-        "title": "「性行為を伴うAV禁止を検討」Xで430万回表示、立憲民主党が「誤情報」と否定 今後の検討も「未定」 - 弁護士ドットコムニュース",
-        "url": "https://www.bengo4.com/c_23/n_21247/",
-        "source": "www.bengo4.com",
-        "publishedAt": "2026-11-27T14:14:14+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "5acc895af0d7d66debe3",
-        "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
-        "url": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
-        "source": "www.nikkei.com",
-        "publishedAt": "2026-11-27T21:48:54+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "eac6e3f59208c0ace2fc",
-        "title": "参政党はグーグルに１億円超を支出…２０２５年参院選、新興政党中心に多額の「ＳＮＳ広告費」",
-        "url": "https://www.yomiuri.co.jp/politics/20261127-GYT1T00343/",
-        "source": "www.yomiuri.co.jp",
-        "publishedAt": "2026-11-27T20:13:00+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "d92a7cfd8cfe008fcbe8",
-        "title": "ノンフライヤーはからあげだけじゃない 夕飯作りラクにしてくれるかも",
-        "url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
-        "source": "kaden.watch.impress.co.jp",
-        "publishedAt": "2026-11-27T07:00:16+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "83c35bf553e6e37037b3",
-        "title": "『これから高齢独身男性に襲ってくる地獄』へのコメント",
-        "url": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261126200243",
-        "source": "b.hatena.ne.jp",
-        "publishedAt": "2026-11-27T03:11:54+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "09fe2b2f24c1378c3cc7",
-        "title": "《「クズ」と激しく罵倒も》百田尚樹代表 関文科相の問責に反対…真意説明も“二枚舌”と批判殺到 | 女性自身",
-        "url": "https://jisin.jp/domestic/2612095/",
-        "source": "jisin.jp",
-        "publishedAt": "2026-11-27T11:48:48+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "0f052cfbff795bf1f617",
-        "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》 | 文春オンライン",
-        "url": "https://bunshun.jp/articles/-/94118",
-        "source": "bunshun.jp",
-        "publishedAt": "2026-11-27T12:29:43+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "8622b12c2544246f03af",
-        "title": "「女性がSNSで申告する男のモラハラ」の何割かは「課題解決能力がなくてよしよししてほしいだけの女が思い通りにならなくて逆ギレしてるだけ」の可能性があるという話",
-        "url": "https://posfie.com/@golden_haniwa/p/hfBNdRn",
+        "id": "55b1ae2aab5b6d5ed54a",
+        "title": "母の前でDJを実演しながら説明したときに言われた、「人の曲でこんなことしていいの？」という問いにまだ答えられない→「DJもこの精神でやる仕事だったんだ」",
+        "url": "https://posfie.com/@mumimushunyu/p/jVb3TCh",
         "source": "posfie.com",
-        "publishedAt": "2026-11-27T13:25:06+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "56910931d3d781dc6c96",
-        "title": "そもそもドンバスの親ロシア派の武装蜂起は地元主導ではなく、ロシア極右人脈とロシア軍・情報機関の工作（黒井文太郎） - エキスパート - Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/expert/articles/462fe0726b7a0de7fe28b403a3965b27c33c2cc3",
-        "source": "news.yahoo.co.jp",
-        "publishedAt": "2026-11-27T20:03:12+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "9cabb6c222b62a52f990",
-        "title": "便通改善のために食べて良かった食品ランキング - 予防保守ラボ",
-        "url": "https://mk01.hatenadiary.com/entry/2026/11/27/051456",
-        "source": "mk01.hatenadiary.com",
-        "publishedAt": "2026-11-26T20:22:56+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "dc08a160d98f5deb34b6",
-        "title": "NHKのニュース記事は基本的に1週間で削除されるのが仕様だよと - 電脳塵芥",
-        "url": "https://nou-yunyun.hatenablog.com/entry/2026/11/27/230000",
-        "source": "nou-yunyun.hatenablog.com",
-        "publishedAt": "2026-11-27T14:33:07+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "55711b8a70630be7d7f1",
-        "title": "ウクライナ軍、レーザー兵器でロシア無人機を初撃墜 - 日本経済新聞",
-        "url": "https://www.nikkei.com/article/DGXZQOGR27BRB0X21C26A1000000/",
-        "source": "www.nikkei.com",
-        "publishedAt": "2026-11-27T17:21:33+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "732d4900396fe63e1c31",
-        "title": "田中ほさな編 後編 / ぼくのわたしのマンガ道 - アンソロジー | COMIC Y-OURS(ユアーズ)",
-        "url": "https://comic-y-ours.com/episode/12207421984349247456",
-        "source": "comic-y-ours.com",
-        "publishedAt": "2026-11-27T16:34:56+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "736cfe5e759e266071e8",
-        "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
-        "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-        "source": "zenn.dev",
-        "publishedAt": "2026-11-27T13:49:22+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "b76d07408cebc3e09db8",
-        "title": "Suicaペンギンの銅像、鉄道博物館に引っ越し案 新宿駅の展示終了へ - 日本経済新聞",
-        "url": "https://www.nikkei.com/article/DGXZQOUC279OT0X21C26A1000000/",
-        "source": "www.nikkei.com",
-        "publishedAt": "2026-11-27T23:12:23+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "0abc9c68959a4a8c162a",
-        "title": "AWSのAI-DLC v2に学ぶ AIにドメイン境界を守らせる設計",
-        "url": "https://speakerdeck.com/j5ik2o/archcon2026",
-        "source": "speakerdeck.com",
-        "publishedAt": "2026-11-27T10:26:22+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "143e1eb730ce21d17ff4",
-        "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》（文春オンライン） - Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/articles/1e2c7d1635f2f5dd7062e28c78c319c0e6f4bcc0",
-        "source": "news.yahoo.co.jp",
-        "publishedAt": "2026-11-27T13:39:00+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "74c427bd063ab0383b25",
-        "title": "Eduardo Garzón @edugaresp スペイン語からの翻訳 これは衝撃的だ。極右、あるいは極右に支えられた右派が政権を握る国では、経済が壊滅的な状況に陥る。危機、景気後退、さらには預金封鎖まで起きる。これは意見ではなく、データだ（しかもGDPや雇用といった従来の指標を使っている）。国別に振り返ってみよう 🧵",
-        "url": "https://x.com/edugaresp/status/2125504212981133527",
-        "source": "x.com",
-        "publishedAt": "2026-11-27T12:40:49+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "ed4a42b91834778ddca7",
-        "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
-        "url": "https://gigazine.net/news/20261127-d2/",
-        "source": "gigazine.net",
-        "publishedAt": "2026-11-27T14:05:38+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "436885bdc70d4d697c8c",
-        "title": "45歳で大学生の子供2人持ちだから稼ぎたいという人が入社、初日に助手席に乗せて車庫を出たら携帯2台手に持ってスマホゲーム、その後楽な仕事を要求して最後は辞めていった",
-        "url": "https://togetter.com/li/2775912",
-        "source": "togetter.com",
-        "publishedAt": "2026-11-27T23:48:53+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "dfac2ddc68a88692ada5",
-        "title": "角煮販売をしているインフルエンサー、無許可販売疑惑を指摘され炎上？→本人による事情説明文が面白すぎる",
-        "url": "https://togetter.com/li/2775922",
-        "source": "togetter.com",
-        "publishedAt": "2026-11-28T01:32:34+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "eb0206b46d37caa5467e",
-        "title": "高市氏に個人献金1億円超、首相就任効果で前年比増 収支報告書 | 毎日新聞",
-        "url": "https://mainichi.jp/articles/20261127/kyd/00m/010/002000c",
-        "source": "mainichi.jp",
-        "publishedAt": "2026-11-27T12:20:52+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "4acc266afe90c59d7f9b",
-        "title": "内定式の帰りに100人位いる時に陽キャが「飲み放題付き3500円行く人！」と声をかけていたとき…「あれ蹴って1000円くらいのケーキ食べに行こ」と誘った6人と今も仲良しな話",
-        "url": "https://togetter.com/li/2775649",
-        "source": "togetter.com",
-        "publishedAt": "2026-11-27T10:58:22+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "cccb46818fd99317fc0a",
-        "title": "クマ撃ちの女 - 安島薮太 / 第149話 | くらげバンチ",
-        "url": "https://kuragebunch.com/episode/12207421984345552785",
-        "source": "kuragebunch.com",
-        "publishedAt": "2026-11-27T05:18:23+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "7b8bd6f7d421a3faf344",
-        "title": "利益844万円、利益率92% 関文科相が官僚呼んだパーティー：朝日新聞",
-        "url": "https://www.asahi.com/articles/ASVCS4D87VCSUTIL01RM.html",
-        "source": "www.asahi.com",
-        "publishedAt": "2026-11-27T23:36:37+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "f3feb368fcbb913a21f6",
-        "title": "「都市伝説」ユーチューバー“偽情報対策と矛盾ない”官房長官 | NHKニュース",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82735",
-        "source": "news.web.nhk",
-        "publishedAt": "2026-11-27T10:57:21+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "d19a74f3fc3e6960fd8d",
-        "title": "はじめての Lean",
-        "url": "https://unaoya.github.io/lean-intro/",
-        "source": "unaoya.github.io",
-        "publishedAt": "2026-11-27T11:19:18+00:00",
-        "topics": [
-          "バズ"
-        ]
-      },
-      {
-        "id": "61e967938a3b8db369e8",
-        "title": "COP31の決裂を「気候正義」から読み解く――先進国の「慈善的責任論」の限界と、COP32への新たな展望｜鬼頭秀一",
-        "url": "https://note.com/jinkan/n/n229428af255a",
-        "source": "note.com",
-        "publishedAt": "2026-11-27T11:21:47+00:00",
+        "publishedAt": "2026-11-28T00:42:54+00:00",
         "topics": [
           "バズ"
         ]
@@ -2006,28 +1686,348 @@
         ]
       },
       {
-        "id": "3a4ab8ebf45c941b4f79",
-        "title": "フェミニストに裏切られた。",
-        "url": "https://anond.hatelabo.jp/20261128003123",
-        "source": "anond.hatelabo.jp",
-        "publishedAt": "2026-11-27T15:53:29+00:00",
+        "id": "7e3d06974d9fd1ca8be1",
+        "title": "【選挙ウォッチャー】 路哲とは何か。｜チダイズム",
+        "url": "https://note.com/chidaism/n/n53a827cfbaeb",
+        "source": "note.com",
+        "publishedAt": "2026-11-28T01:17:53+00:00",
         "topics": [
           "バズ"
         ]
       },
       {
-        "id": "165e5060ba10246aa0ce",
-        "title": "【資料公開】コードを書くAI、アーキテクチャーを決める組織",
-        "url": "https://www.ryuzee.com/contents/blog/14629",
-        "source": "www.ryuzee.com",
-        "publishedAt": "2026-11-27T11:42:28+00:00",
+        "id": "491abd9b3f5529324ef8",
+        "title": "「お前の家族も殺す」前橋市のクマ駆除に「抗議電話」殺到…800件超の問い合わせで業務に支障、環境相は「職員も人」と呼びかけ | 女性自身",
+        "url": "https://jisin.jp/domestic/2611747/",
+        "source": "jisin.jp",
+        "publishedAt": "2026-11-27T15:55:07+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "3a95bf128146a2373f32",
+        "title": "「昼休み中に読んで大鬱になっちゃった」はてな匿名ダイアリーの「これから高齢独身男性に襲ってくる地獄」という投稿が性別関係なしで他人事ではなく、大きな反響を呼ぶ",
+        "url": "https://togetter.com/li/2775951",
+        "source": "togetter.com",
+        "publishedAt": "2026-11-28T02:31:42+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "4a563e2029587c6c25f3",
+        "title": "職場にとんでもない頻度で体調不良を理由に欠勤を繰り返す若手がおり、仮病ではないと確認したうえで事情や過去の話を聞いてみると、基礎体力が絶望的にない人間だと知った",
+        "url": "https://togetter.com/li/2775980",
+        "source": "togetter.com",
+        "publishedAt": "2026-11-28T03:16:05+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "f49d5f922ddf5498b9f6",
+        "title": "「ツイッターでレシピ見て実際に作ってみた料理」ランキング1位が更新されました…『生米をごま油で炒めてから作る中華粥』めちゃウマです",
+        "url": "https://togetter.com/li/2775994",
+        "source": "togetter.com",
+        "publishedAt": "2026-11-28T05:22:11+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "c6827353207371e33fe9",
+        "title": "自炊が続かないのは「圧倒的な成功体験」をしていないから｜akiko_saito",
+        "url": "https://note.com/akiko_saito/n/n73d3b110538d",
+        "source": "note.com",
+        "publishedAt": "2026-11-28T01:25:30+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "5474b50733a7a10fc610",
+        "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+        "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
+        "source": "zenn.dev",
+        "publishedAt": "2026-11-27T08:17:50+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "12c9d232118c58d2137f",
+        "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
+        "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+        "source": "zenn.dev",
+        "publishedAt": "2026-11-27T23:24:49+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "9f2ad4ce7ee0822be475",
+        "title": "「息子がアホ過ぎて話が通じない」今までやりたいことをやらせたが、1年前期と2年前期で単位全落ち、改める様子もない息子に大学の学費を出すべきか？母の悩みに様々な意見",
+        "url": "https://togetter.com/li/2776034",
+        "source": "togetter.com",
+        "publishedAt": "2026-11-28T06:27:23+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "0c96a4f9abf48960df3b",
+        "title": "弥生後期のドパ石室見つかる 被葬者は有力ドパガキか 滋賀・八洲",
+        "url": "https://kyoko-np.net/2026112801.html",
+        "source": "kyoko-np.net",
+        "publishedAt": "2026-11-27T16:01:29+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "059e45bf8e7ccfb5d05d",
+        "title": "退職時に書かされる「競合他社では働きません」みたいな誓約書、あれは意味あるん？→「一般企業でこれ書かされてびっくりした」",
+        "url": "https://posfie.com/@petaritape/p/ulUzx7e",
+        "source": "posfie.com",
+        "publishedAt": "2026-11-28T00:45:49+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "80e68400e2fa80105647",
+        "title": "警察 ICC赤根所長の安全確保 最高ランク「特A」で警戒強化 | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82788",
+        "source": "news.web.nhk",
+        "publishedAt": "2026-11-27T21:55:40+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "e227a8e384089f039eb7",
+        "title": "通勤流出入マップ",
+        "url": "https://commuter-inflow-map.idoajob.chatgpt.site/?city=none",
+        "source": "commuter-inflow-map.idoajob.chatgpt.site",
+        "publishedAt": "2026-11-27T17:41:10+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "eac6e3f59208c0ace2fc",
+        "title": "参政党はグーグルに１億円超を支出…２０２５年参院選、新興政党中心に多額の「ＳＮＳ広告費」",
+        "url": "https://www.yomiuri.co.jp/politics/20261127-GYT1T00343/",
+        "source": "www.yomiuri.co.jp",
+        "publishedAt": "2026-11-27T20:13:00+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "63fa7a7a8f3ea1a3635f",
+        "title": "プロジェクト・ヘイル・メアリーにおいて1番役に立った科学知識は「酸素は本来猛毒だから宇宙人が見たらドン引きすると思う」という発言だった",
+        "url": "https://togetter.com/li/2776012",
+        "source": "togetter.com",
+        "publishedAt": "2026-11-28T06:09:56+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "30f0fc50777b6c4ea30a",
+        "title": "ウクライナのレーザー兵器がロシアのジェット推進型ドローンを撃墜…「世界初」の迎撃成功を発表 | ニューズウィーク日本版 オフィシャルサイト",
+        "url": "https://www.newsweekjapan.jp/articles/-/341563?display=b",
+        "source": "www.newsweekjapan.jp",
+        "publishedAt": "2026-11-28T00:07:54+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "3e718fff1fc140b50fe1",
+        "title": "びわ湖くんが「アンチのせいで」と冬コミ不参加を報告→前回のコミケで何が起きたのか、近隣サークルから続々と証言→改めて「コミケにお客様はいない」と再認識する",
+        "url": "https://togetter.com/li/2775867",
+        "source": "togetter.com",
+        "publishedAt": "2026-11-27T19:49:34+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "5acc895af0d7d66debe3",
+        "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
+        "source": "www.nikkei.com",
+        "publishedAt": "2026-11-27T21:48:54+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "c892db617e0f875c1415",
+        "title": "「VIVANT」シーズン３が爆速で制作決定した裏事情",
+        "url": "https://gendai.media/articles/-/173183",
+        "source": "gendai.media",
+        "publishedAt": "2026-11-27T04:33:20+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "d92a7cfd8cfe008fcbe8",
+        "title": "ノンフライヤーはからあげだけじゃない 夕飯作りラクにしてくれるかも",
+        "url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
+        "source": "kaden.watch.impress.co.jp",
+        "publishedAt": "2026-11-27T07:00:16+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "090e2b40313a66f482c3",
+        "title": "データサイエンティストの Claude Code 活用術-Claude Code にデータ分析をさせる方法論",
+        "url": "https://speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu",
+        "source": "speakerdeck.com",
+        "publishedAt": "2026-11-28T03:03:30+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "23040b11290b8a713776",
+        "title": "「６５歳以上」→「７０、７５歳」 高齢者の定義、変わる？ 自民提言案、労働力確保めざす：朝日新聞",
+        "url": "https://www.asahi.com/articles/DA3S16597047.html",
+        "source": "www.asahi.com",
+        "publishedAt": "2026-11-28T02:03:40+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "97b517d7d5fa11140fec",
+        "title": "東京大学・本田由紀教授の優生学賛美・差別発言、お手盛り調査により完全無罪とされる。なお、調査報告は身内限定の閲覧期限後、ようやく有志が公開させた模様",
+        "url": "https://posfie.com/@ComKhacom/p/LldjTAK",
+        "source": "posfie.com",
+        "publishedAt": "2026-11-27T19:58:41+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "7561685a4cac6e14a056",
+        "title": "はあちゅうさんの「ムカつく相手に開示請求しまくったら誰も言及してくれなくなり、ネットでの存在感を失う」という展開は現代SNS御伽噺のひとつに数えられそう。その意味で、ネットで喧嘩を売りまくって存在感を維持し続ける溝口さん界隈の戦術は正しいのかも。嫌だけど",
+        "url": "https://posfie.com/@golden_haniwa/p/BN195kk",
+        "source": "posfie.com",
+        "publishedAt": "2026-11-27T17:11:58+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "e54d6683fe08c4dd6e11",
+        "title": "通勤流出入マップ",
+        "url": "https://commuter-inflow-map.idoajob.chatgpt.site/",
+        "source": "commuter-inflow-map.idoajob.chatgpt.site",
+        "publishedAt": "2026-11-27T15:02:34+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "a42cad3c8c36eae3bd90",
+        "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた",
+        "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+        "source": "www.itmedia.co.jp",
+        "publishedAt": "2026-11-28T04:33:24+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "753fa6d728f3c8fc02cc",
+        "title": "「性行為を伴うAV禁止を検討」Xで430万回表示、立憲民主党が「誤情報」と否定 今後の検討も「未定」 - 弁護士ドットコムニュース",
+        "url": "https://www.bengo4.com/c_23/n_21247/",
+        "source": "www.bengo4.com",
+        "publishedAt": "2026-11-27T14:14:14+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "d5278fa19855ff23b23a",
+        "title": "女の理想はセックスできるお父さん、男の理想はセックスできる男友達｜めるめる",
+        "url": "https://note.com/merumeru99/n/n6f453c31615b",
+        "source": "note.com",
+        "publishedAt": "2026-11-27T07:26:10+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "8f2351ea50923342e973",
+        "title": "ピクリエの二次創作政治禁止の声明は筋が悪い",
+        "url": "https://anond.hatelabo.jp/20261126184704",
+        "source": "anond.hatelabo.jp",
+        "publishedAt": "2026-11-26T09:47:26+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "6717036b03f9a35e57f1",
+        "title": "100年前の新聞を10日間購読する｜岡田悠",
+        "url": "https://note.com/hyosasa/n/nd36879962602",
+        "source": "note.com",
+        "publishedAt": "2026-11-27T06:28:16+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "7f148101187e5658ad22",
+        "title": "AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+        "url": "https://kaz-ataka.hatenablog.com/entry/2026/11/28/085335",
+        "source": "kaz-ataka.hatenablog.com",
+        "publishedAt": "2026-11-28T00:34:06+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "b34ee89f3a3761ed17de",
+        "title": "ロシア「ウクライナのドローン攻撃の様子を撮影して投稿するのを禁止する」←逆効果だぞ (by ロシアの軍事ブロガー)",
+        "url": "https://anond.hatelabo.jp/20261128093004",
+        "source": "anond.hatelabo.jp",
+        "publishedAt": "2026-11-28T00:45:39+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "0eba1b70dad4dbee12e8",
+        "title": "阿佐ヶ谷サキュバス同人物語・第29話 ああ青春よいつまでも | チャンピオンクロス",
+        "url": "https://championcross.jp/episodes/73928d87f8578",
+        "source": "championcross.jp",
+        "publishedAt": "2026-11-28T00:36:08+00:00",
+        "topics": [
+          "バズ"
+        ]
+      },
+      {
+        "id": "436885bdc70d4d697c8c",
+        "title": "45歳で大学生の子供2人持ちだから稼ぎたいという人が入社、初日に助手席に乗せて車庫を出たら携帯2台手に持ってスマホゲーム、その後楽な仕事を要求して最後は辞めていった",
+        "url": "https://togetter.com/li/2775912",
+        "source": "togetter.com",
+        "publishedAt": "2026-11-27T23:48:53+00:00",
         "topics": [
           "バズ"
         ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "5": {
     "articles": [
@@ -2432,8 +2432,8 @@
         ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "6": {
     "articles": [
@@ -2443,6 +2443,16 @@
         "url": "https://www.nikkan-gendai.com/articles/view/news/396099",
         "source": "www.nikkan-gendai.com",
         "publishedAt": "2026-11-27T12:25:06+00:00",
+        "topics": [
+          "イベント"
+        ]
+      },
+      {
+        "id": "fd98660543bb6035f471",
+        "title": "ISUCON2026 マルチリージョン構成におけるデータのインメモリ化 #isucon_namalog",
+        "url": "https://speakerdeck.com/kawasy/isucon2026-statemachine-replication-for-multi-region-in-memory-data-store-maruchi-rijon-kousei-niokeru-deta-no-in-memorika-e46becf2-a792-4df7-b614-7d36bae5e42e",
+        "source": "speakerdeck.com",
+        "publishedAt": "2026-11-27T01:52:22+00:00",
         "topics": [
           "イベント"
         ]
@@ -2826,20 +2836,10 @@
         "topics": [
           "イベント"
         ]
-      },
-      {
-        "id": "e828f1a1074dd83f7592",
-        "title": "タワーレコードが独立したライブスペースをオープンすること - WASTE OF POPS 80s-90s",
-        "url": "https://www.wasteofpops.com/entry/2026/11/02/000000",
-        "source": "www.wasteofpops.com",
-        "publishedAt": "2026-11-02T16:40:11+00:00",
-        "topics": [
-          "イベント"
-        ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "7": {
     "articles": [
@@ -3244,8 +3244,8 @@
         ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "8": {
     "articles": [
@@ -3650,8 +3650,8 @@
         ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   },
   "9": {
     "articles": [
@@ -4056,7 +4056,7 @@
         ]
       }
     ],
-    "lastSuccessAt": "2026-11-28T03:49:37+00:00",
-    "lastAttemptAt": "2026-11-28T03:49:37+00:00"
+    "lastSuccessAt": "2026-11-28T09:45:30+00:00",
+    "lastAttemptAt": "2026-11-28T09:45:30+00:00"
   }
 }

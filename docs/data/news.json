@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-28T03:49:37+00:00",
+  "updatedAt": "2026-11-28T09:45:30+00:00",
   "articles": [
+    {
+      "id": "a42cad3c8c36eae3bd90",
+      "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-28T04:33:24+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "a6c89e9bb665f5e1dc06",
+      "title": "アンソロピック株急落、上場4日で公開価格割れ…「AI株安」が止まらない根本的な理由",
+      "url": "https://diamond.jp/articles/-/404292",
+      "source": "diamond.jp",
+      "publishedAt": "2026-11-28T02:34:10+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
     {
       "id": "7f148101187e5658ad22",
       "title": "AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
@@ -9,6 +30,28 @@
       "publishedAt": "2026-11-28T00:34:06+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "30f0fc50777b6c4ea30a",
+      "title": "ウクライナのレーザー兵器がロシアのジェット推進型ドローンを撃墜…「世界初」の迎撃成功を発表 | ニューズウィーク日本版 オフィシャルサイト",
+      "url": "https://www.newsweekjapan.jp/articles/-/341563?display=b",
+      "source": "www.newsweekjapan.jp",
+      "publishedAt": "2026-11-28T00:07:54+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "12c9d232118c58d2137f",
+      "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
+      "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-27T23:24:49+00:00",
+      "topics": [
+        "AI",
+        "バズ"
       ]
     },
     {
@@ -78,6 +121,16 @@
       ]
     },
     {
+      "id": "1d6af5486aca32aefd83",
+      "title": "Photoshop2027、画像に付加されるAI生成情報について – Automation Skill",
+      "url": "https://ten-artai.com/2026/11/7314/",
+      "source": "ten-artai.com",
+      "publishedAt": "2026-11-27T14:33:12+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "id": "736cfe5e759e266071e8",
       "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
       "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
@@ -118,6 +171,26 @@
       "publishedAt": "2026-11-27T12:25:06+00:00",
       "topics": [
         "イベント"
+      ]
+    },
+    {
+      "id": "5842da93bafea8e34eec",
+      "title": "スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2160150.html",
+      "source": "forest.watch.impress.co.jp",
+      "publishedAt": "2026-11-27T11:50:35+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "09fe2b2f24c1378c3cc7",
+      "title": "《「クズ」と激しく罵倒も》百田尚樹代表 関文科相の問責に反対…真意説明も“二枚舌”と批判殺到 | 女性自身",
+      "url": "https://jisin.jp/domestic/2612095/",
+      "source": "jisin.jp",
+      "publishedAt": "2026-11-27T11:48:48+00:00",
+      "topics": [
+        "経済"
       ]
     },
     {
@@ -173,6 +246,16 @@
       ]
     },
     {
+      "id": "23050050ccaf6b0508c6",
+      "title": "ロシア支配地訪問の県議が会見 「住民守る軍事行動」主張",
+      "url": "https://www.47news.jp/15296500.html",
+      "source": "www.47news.jp",
+      "publishedAt": "2026-11-27T09:36:35+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
       "id": "595d74c083cd6398a63e",
       "title": "CPTPP、インドネシア・フィリピン・UAEが加盟交渉へ 自由貿易推進 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGM2735H0X21C26A1000000/",
@@ -193,6 +276,16 @@
       ]
     },
     {
+      "id": "b121b724c429c515ab1c",
+      "title": "紬@六角橋 | MusicArena",
+      "url": "https://musicarena.exblog.jp/35360873/",
+      "source": "musicarena.exblog.jp",
+      "publishedAt": "2026-11-27T07:47:22+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
       "id": "620f3ab034a6760aae6f",
       "title": "Devin Bot に毎朝のパフォーマンス改善を任せてみた - kickflow Tech Blog",
       "url": "https://tech.kickflow.co.jp/entry/2026/11/27/154920",
@@ -201,6 +294,16 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "f8d1bc7f88dbd15bcd63",
+      "title": "「時給1280円～」「在宅勤務」 ローソンが募集する「アバターオペレーター」という謎のお仕事",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003511/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-27T07:07:56+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -215,11 +318,43 @@
       ]
     },
     {
+      "id": "df30f9234cbb7cb2d969",
+      "title": "なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ",
+      "url": "https://kei-1010.hatenablog.com/entry/2026/11/27/133416",
+      "source": "kei-1010.hatenablog.com",
+      "publishedAt": "2026-11-27T06:22:00+00:00",
+      "topics": [
+        "AI",
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "993837701c68e810b8cc",
+      "title": "「第3子生まれたら1000万円」自民が政府に提言へ（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/ff214a4c5084549e2dca5c1df3fe705361932fc5",
+      "source": "news.yahoo.co.jp",
+      "publishedAt": "2026-11-27T06:08:39+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "dccb3aae025348abb12e",
       "title": "某外食チェーン店でハンバーグ定食を購入、サラダが付いておらず「あの…サラダがないんですけど」と言ったら外国人の店員が空のお皿を渡してきた…「皿だ」と思ったらしい",
       "url": "https://togetter.com/li/2775587",
       "source": "togetter.com",
       "publishedAt": "2026-11-27T05:44:32+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "e8650d86cefc8cb92722",
+      "title": "高校生の長男が平然と「弁当食べる時間なかった」と手付かずの弁当を夜中に出してきた「もう弁当作らない」と言っても「じゃあ千円くれ」となり、なんの罰にもならない",
+      "url": "https://togetter.com/li/2775603",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-27T05:43:49+00:00",
       "topics": [
         "グルメ"
       ]
@@ -233,6 +368,27 @@
       "topics": [
         "ビジネス",
         "グルメ"
+      ]
+    },
+    {
+      "id": "51828b4602fbb01d31ba",
+      "title": "コラム：円は「普通の国の普通の通貨」に、トラウマで考える円売りの持続性＝唐鎌大輔氏 | Reuters",
+      "url": "https://www.reuters.com/jp/opinion/forex-forum/Z5QMXFF72NPUHHDBOH2PBDGNLE-2026-11-26/",
+      "source": "www.reuters.com",
+      "publishedAt": "2026-11-27T04:43:11+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "c892db617e0f875c1415",
+      "title": "「VIVANT」シーズン３が爆速で制作決定した裏事情",
+      "url": "https://gendai.media/articles/-/173183",
+      "source": "gendai.media",
+      "publishedAt": "2026-11-27T04:33:20+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
       ]
     },
     {
@@ -296,6 +452,17 @@
       "topics": [
         "AI",
         "バズ"
+      ]
+    },
+    {
+      "id": "fd98660543bb6035f471",
+      "title": "ISUCON2026 マルチリージョン構成におけるデータのインメモリ化 #isucon_namalog",
+      "url": "https://speakerdeck.com/kawasy/isucon2026-statemachine-replication-for-multi-region-in-memory-data-store-maruchi-rijon-kousei-niokeru-deta-no-in-memorika-e46becf2-a792-4df7-b614-7d36bae5e42e",
+      "source": "speakerdeck.com",
+      "publishedAt": "2026-11-27T01:52:22+00:00",
+      "topics": [
+        "AI",
+        "イベント"
       ]
     },
     {
@@ -390,6 +557,16 @@
       "publishedAt": "2026-11-26T23:06:38+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "4ec8629987cc2931b6f4",
+      "title": "【やじうまミニレビュー】 工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html",
+      "source": "pc.watch.impress.co.jp",
+      "publishedAt": "2026-11-26T22:47:09+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -580,6 +757,16 @@
       ]
     },
     {
+      "id": "c155f0ebe55381203984",
+      "title": "【解説】 トランプ氏の投資口座、エヌビディア株を今年44回売買 開示資料で判明 - BBCニュース",
+      "url": "https://www.bbc.com/japanese/articles/cm5y1p1kn5v0o",
+      "source": "www.bbc.com",
+      "publishedAt": "2026-11-26T05:44:50+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
       "id": "b8356d4cf29d267faaeb",
       "title": "CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる",
       "url": "https://anond.hatelabo.jp/20261126144022",
@@ -598,6 +785,16 @@
       "publishedAt": "2026-11-26T05:02:24+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "1e2bc8a854ab5fbf2395",
+      "title": "光岡自動車、オリジナルカーの新型車「LA1」正式発表 価格649万円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2159397.html",
+      "source": "car.watch.impress.co.jp",
+      "publishedAt": "2026-11-26T04:40:08+00:00",
+      "topics": [
+        "ビジネス"
       ]
     },
     {
@@ -864,6 +1061,16 @@
       "url": "https://togetter.com/li/2774950",
       "source": "togetter.com",
       "publishedAt": "2026-11-25T20:11:31+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "3e270ea91053b5f4899b",
+      "title": "「トクリュウに対抗するために毎日大根二本ずつ食べる」というつぶやきを見て教養を感じた話…『徒然草』の最狂回のアレか",
+      "url": "https://togetter.com/li/2775000",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-25T20:08:04+00:00",
       "topics": [
         "グルメ"
       ]
@@ -10914,6 +11121,7 @@
     "45797142615",
     "45936666994",
     "45978118015",
-    "46104672837"
+    "46104672837",
+    "46131945523"
   ]
 }
