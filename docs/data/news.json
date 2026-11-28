@@ -1,6 +1,197 @@
 {
-  "updatedAt": "2026-11-27T09:58:26+00:00",
+  "updatedAt": "2026-11-28T03:49:37+00:00",
   "articles": [
+    {
+      "id": "7f148101187e5658ad22",
+      "title": "AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+      "url": "https://kaz-ataka.hatenablog.com/entry/2026/11/28/085335",
+      "source": "kaz-ataka.hatenablog.com",
+      "publishedAt": "2026-11-28T00:34:06+00:00",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "id": "b76d07408cebc3e09db8",
+      "title": "Suicaペンギンの銅像、鉄道博物館に引っ越し案 新宿駅の展示終了へ - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC279OT0X21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-27T23:12:23+00:00",
+      "topics": [
+        "バズ",
+        "東京"
+      ]
+    },
+    {
+      "id": "5acc895af0d7d66debe3",
+      "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-27T21:48:54+00:00",
+      "topics": [
+        "AI",
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "3d42e9bb4805b47467ee",
+      "title": "JR東日本、成田空港―羽田空港の直通運転は常磐線・東京駅経由で最終調整 上野東京ライン活用 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC2553V0V21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-27T20:53:12+00:00",
+      "topics": [
+        "ビジネス",
+        "経済",
+        "東京"
+      ]
+    },
+    {
+      "id": "55711b8a70630be7d7f1",
+      "title": "ウクライナ軍、レーザー兵器でロシア無人機を初撃墜 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGR27BRB0X21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-27T17:21:33+00:00",
+      "topics": [
+        "テクノロジー",
+        "バズ"
+      ]
+    },
+    {
+      "id": "50066859259524da735d",
+      "title": "『たんや善次郎 南町通り店 〜仙台市〜』",
+      "url": "https://ameblo.jp/smash036cool/entry-12982841076.html",
+      "source": "ameblo.jp",
+      "publishedAt": "2026-11-27T15:37:38+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "e3f955d9346f7b7686db",
+      "title": "今日の料理 第197回 2026/11/2～11/5",
+      "url": "https://fairysbible.com/blog-entry-6715.html",
+      "source": "fairysbible.com",
+      "publishedAt": "2026-11-27T15:34:41+00:00",
+      "topics": [
+        "グルメ"
+      ]
+    },
+    {
+      "id": "736cfe5e759e266071e8",
+      "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
+      "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
+      "source": "zenn.dev",
+      "publishedAt": "2026-11-27T13:49:22+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "74c427bd063ab0383b25",
+      "title": "Eduardo Garzón @edugaresp スペイン語からの翻訳 これは衝撃的だ。極右、あるいは極右に支えられた右派が政権を握る国では、経済が壊滅的な状況に陥る。危機、景気後退、さらには預金封鎖まで起きる。これは意見ではなく、データだ（しかもGDPや雇用といった従来の指標を使っている）。国別に振り返ってみよう 🧵",
+      "url": "https://x.com/edugaresp/status/2125504212981133527",
+      "source": "x.com",
+      "publishedAt": "2026-11-27T12:40:49+00:00",
+      "topics": [
+        "経済",
+        "バズ"
+      ]
+    },
+    {
+      "id": "0f052cfbff795bf1f617",
+      "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》 | 文春オンライン",
+      "url": "https://bunshun.jp/articles/-/94118",
+      "source": "bunshun.jp",
+      "publishedAt": "2026-11-27T12:29:43+00:00",
+      "topics": [
+        "ビジネス",
+        "バズ"
+      ]
+    },
+    {
+      "id": "23420884484941be701b",
+      "title": "高市首相のベストドレッサー賞受賞に疑問殺到 「マウント取れる服」で外交に臨む姿を「積極的」と“高評価”のナゾ｜日刊ゲンダイDIGITAL",
+      "url": "https://www.nikkan-gendai.com/articles/view/news/396099",
+      "source": "www.nikkan-gendai.com",
+      "publishedAt": "2026-11-27T12:25:06+00:00",
+      "topics": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "d19d6fb328c9325b0d6c",
+      "title": "「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様",
+      "url": "https://togetter.com/li/2775731",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-27T11:42:54+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "165e5060ba10246aa0ce",
+      "title": "【資料公開】コードを書くAI、アーキテクチャーを決める組織",
+      "url": "https://www.ryuzee.com/contents/blog/14629",
+      "source": "www.ryuzee.com",
+      "publishedAt": "2026-11-27T11:42:28+00:00",
+      "topics": [
+        "AI",
+        "バズ"
+      ]
+    },
+    {
+      "id": "036c4534c6e7c123869f",
+      "title": "オービックシーガルズとのスポンサー契約終了について | オービック",
+      "url": "https://www.obic.co.jp/pressrelease/20261127.html",
+      "source": "www.obic.co.jp",
+      "publishedAt": "2026-11-27T11:20:42+00:00",
+      "topics": [
+        "ビジネス"
+      ]
+    },
+    {
+      "id": "4acc266afe90c59d7f9b",
+      "title": "内定式の帰りに100人位いる時に陽キャが「飲み放題付き3500円行く人！」と声をかけていたとき…「あれ蹴って1000円くらいのケーキ食べに行こ」と誘った6人と今も仲良しな話",
+      "url": "https://togetter.com/li/2775649",
+      "source": "togetter.com",
+      "publishedAt": "2026-11-27T10:58:22+00:00",
+      "topics": [
+        "バズ",
+        "グルメ"
+      ]
+    },
+    {
+      "id": "17a4d70272d9a485ecd0",
+      "title": "Suicaペンギンの銅像撤去へ 新宿駅の名所、キャラ交代で：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCW2V86VCWUTIL00GM.html",
+      "source": "www.asahi.com",
+      "publishedAt": "2026-11-27T09:58:21+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
+      "id": "595d74c083cd6398a63e",
+      "title": "CPTPP、インドネシア・フィリピン・UAEが加盟交渉へ 自由貿易推進 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGM2735H0X21C26A1000000/",
+      "source": "www.nikkei.com",
+      "publishedAt": "2026-11-27T08:36:20+00:00",
+      "topics": [
+        "経済"
+      ]
+    },
+    {
+      "id": "0e700c298841d4f2d6c5",
+      "title": "顧客情報を守るため、売上15％の自社ECを閉店 ドールメーカーが明かした「決断」の背景",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
+      "source": "www.itmedia.co.jp",
+      "publishedAt": "2026-11-27T08:09:28+00:00",
+      "topics": [
+        "テクノロジー"
+      ]
+    },
     {
       "id": "620f3ab034a6760aae6f",
       "title": "Devin Bot に毎朝のパフォーマンス改善を任せてみた - kickflow Tech Blog",
@@ -784,6 +975,16 @@
       ]
     },
     {
+      "id": "ed14bdf907f861a76e9d",
+      "title": "迫る退去「路頭に迷うことにならないか」…公的住宅なのに「定期借家」で支援なく 中野・鷺宮西住宅：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/530482",
+      "source": "www.tokyo-np.co.jp",
+      "publishedAt": "2026-11-25T10:57:08+00:00",
+      "topics": [
+        "東京"
+      ]
+    },
+    {
       "id": "db1cdfab89cfa63714ce",
       "title": "｢静岡だけのせい｣から一転｢全工区の問題｣に…リニア開業発表を｢無期限延期｣したJR東海の苦しすぎる言い訳",
       "url": "https://president.jp/articles/-/122996",
@@ -875,6 +1076,16 @@
       "publishedAt": "2026-11-25T07:56:34+00:00",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "id": "b2bd2fd86f9f40e39c92",
+      "title": "iPhone、広告を1回タップするだけでマルウェアに感染の恐れ 日本が主要な標的に",
+      "url": "https://news.mynavi.jp/techplus/article/20261125-5406233/",
+      "source": "news.mynavi.jp",
+      "publishedAt": "2026-11-25T07:50:09+00:00",
+      "topics": [
+        "テクノロジー"
       ]
     },
     {
@@ -10702,6 +10913,7 @@
     "45751738478",
     "45797142615",
     "45936666994",
-    "45978118015"
+    "45978118015",
+    "46104672837"
   ]
 }
